@@ -40,3 +40,4 @@
 - [2026-01-30T13:16:11.981Z] Feat: Add support for multi-region clusters (#6)
 - [2026-01-30T13:16:14.425Z] Feat: Add support for multi-region clusters (#17)
 - [2026-01-30T13:16:15.532Z] Build: Optimize CI/CD pipeline stages (#22)
+- [2026-01-30T13:16:15.745Z] Modernize: Transition to ES2023 features (#23)
