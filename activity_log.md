@@ -7,3 +7,4 @@
 - [2026-01-30T13:00:30.513Z] Test: Increase coverage for edge cases in parser
 - [2026-01-30T13:00:30.719Z] Chore: Upgrade dependencies to latest stable
 - [2026-01-30T13:00:31.760Z] Docs: Clarify installation steps in README
+- [2026-01-30T13:00:31.964Z] Docs: Clarify installation steps in README
