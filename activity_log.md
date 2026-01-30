@@ -24,3 +24,4 @@
 - [2026-01-30T13:00:39.627Z] Fix: Resolve race condition in auth flow
 - [2026-01-30T13:00:39.834Z] Refactor: Optimize rendering logic
 - [2026-01-30T13:00:41.085Z] Refactor: Optimize rendering logic
+- [2026-01-30T13:00:41.490Z] Docs: Clarify installation steps in README
