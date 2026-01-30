@@ -10,3 +10,4 @@
 - [2026-01-30T13:00:31.964Z] Docs: Clarify installation steps in README
 - [2026-01-30T13:00:32.170Z] Perf: Improve database query execution time
 - [2026-01-30T13:00:32.585Z] Strengthen: Add robust error boundaries
+- [2026-01-30T13:00:32.994Z] Test: Increase coverage for edge cases in parser
