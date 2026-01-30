@@ -54,3 +54,4 @@
 - [2026-01-30T13:21:45.075Z] Docs: Update API documentation for v2 (#1)
 - [2026-01-30T13:23:42.467Z] Chore: Upgrade dependencies to latest stable (#1)
 - [2026-01-30T13:25:30.024Z] Perf: Improve database query execution time (#1)
+- [2026-01-30T13:36:49.792Z] Docs: Clarify installation steps in README (#1)
