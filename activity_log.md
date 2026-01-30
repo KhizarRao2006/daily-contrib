@@ -38,3 +38,4 @@
 - [2026-01-30T13:16:11.294Z] Refactor: Extract utility functions for cleaner code (#3)
 - [2026-01-30T13:16:11.520Z] Refactor: Optimize rendering logic (#4)
 - [2026-01-30T13:16:11.981Z] Feat: Add support for multi-region clusters (#6)
+- [2026-01-30T13:16:14.425Z] Feat: Add support for multi-region clusters (#17)
