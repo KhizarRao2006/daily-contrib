@@ -21,3 +21,4 @@
 - [2026-01-31T13:09:18.814Z] Docs: Update API documentation for v2 (#8)
 - [2026-01-31T13:09:19.822Z] Improve: Enhance state management with better scoping (#12)
 - [2026-01-31T13:09:20.875Z] Feat: Add support for multi-region clusters (#16)
+- [2026-01-31T13:09:21.121Z] Chore: Upgrade dependencies to latest stable (#17)
