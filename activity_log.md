@@ -437,3 +437,4 @@
 - [2026-02-16T11:49:45.038Z] Perf: Improve database query execution time (#753)
 - [2026-02-16T11:49:45.274Z] Chore: Remove deprecated methods and clean up (#754)
 - [2026-02-16T11:49:45.491Z] Feat: Implement dark mode support (#755)
+- [2026-02-16T11:49:46.219Z] Fix: Handle null pointer exception in logger (#758)
