@@ -460,3 +460,4 @@
 - [2026-02-16T11:49:59.620Z] Docs: Update API documentation for v2 (#813)
 - [2026-02-16T11:50:00.348Z] Fix: Handle null pointer exception in logger (#816)
 - [2026-02-16T11:50:00.581Z] Perf: Improve database query execution time (#817)
+- [2026-02-16T11:50:01.545Z] Feat: Add support for multi-region clusters (#821)
