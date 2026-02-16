@@ -283,3 +283,4 @@
 - [2026-02-16T11:48:22.413Z] Style: Modernize UI components with better spacing (#414)
 - [2026-02-16T11:48:22.641Z] Refactor: Extract utility functions for cleaner code (#415)
 - [2026-02-16T11:48:22.870Z] Chore: Upgrade dependencies to latest stable (#416)
+- [2026-02-16T11:48:23.346Z] Docs: Clarify installation steps in README (#418)
