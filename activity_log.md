@@ -78,3 +78,4 @@
 - [2026-02-16T11:15:09.152Z] Feat: Add support for multi-region clusters (#63)
 - [2026-02-16T11:15:09.426Z] Feat: Implement dark mode support (#64)
 - [2026-02-16T11:15:11.094Z] Strengthen: Add robust error boundaries (#72)
+- [2026-02-16T11:15:11.784Z] Refine: Smooth out CSS transitions (#75)
