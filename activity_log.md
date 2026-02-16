@@ -160,3 +160,4 @@
 - [2026-02-16T11:47:06.375Z] Fix: Handle null pointer exception in logger (#136)
 - [2026-02-16T11:47:07.147Z] Fix: Handle null pointer exception in logger (#139)
 - [2026-02-16T11:47:07.618Z] Fix: Handle null pointer exception in logger (#141)
+- [2026-02-16T11:47:08.094Z] Refactor: Extract utility functions for cleaner code (#143)
