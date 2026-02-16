@@ -369,3 +369,4 @@
 - [2026-02-16T11:49:05.108Z] Docs: Clarify installation steps in README (#585)
 - [2026-02-16T11:49:05.336Z] Optimize: Minimize memory footprint of data structures (#586)
 - [2026-02-16T11:49:06.855Z] Security: Patch vulnerability in session handling (#592)
+- [2026-02-16T11:49:07.521Z] Chore: Remove deprecated methods and clean up (#594)
