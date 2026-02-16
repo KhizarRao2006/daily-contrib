@@ -40,3 +40,4 @@
 - [2026-02-16T11:13:13.923Z] Modernize: Transition to ES2023 features (#32)
 - [2026-02-16T11:13:14.119Z] Test: Increase coverage for edge cases in parser (#33)
 - [2026-02-16T11:13:14.542Z] Feat: Add support for multi-region clusters (#35)
+- [2026-02-16T11:13:14.925Z] Refactor: Extract utility functions for cleaner code (#37)
