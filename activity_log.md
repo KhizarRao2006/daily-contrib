@@ -254,3 +254,4 @@
 - [2026-02-16T11:48:05.808Z] Implement: Add validation for incoming payloads (#353)
 - [2026-02-16T11:48:06.040Z] Docs: Update API documentation for v2 (#354)
 - [2026-02-16T11:48:06.279Z] Chore: Remove deprecated methods and clean up (#355)
+- [2026-02-16T11:48:06.504Z] Docs: Update API documentation for v2 (#356)
