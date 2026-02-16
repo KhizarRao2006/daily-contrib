@@ -504,3 +504,4 @@
 - [2026-02-16T11:50:47.472Z] Chore: Upgrade dependencies to latest stable (#951)
 - [2026-02-16T11:50:51.230Z] Chore: Remove deprecated methods and clean up (#955)
 - [2026-02-16T11:50:51.861Z] Improve: Enhance state management with better scoping (#957)
+- [2026-02-16T11:50:56.477Z] Chore: Remove deprecated methods and clean up (#965)
