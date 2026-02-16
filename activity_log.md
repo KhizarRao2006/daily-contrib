@@ -259,3 +259,4 @@
 - [2026-02-16T11:48:07.053Z] Docs: Clarify installation steps in README (#358)
 - [2026-02-16T11:48:07.339Z] Strengthen: Add robust error boundaries (#359)
 - [2026-02-16T11:48:08.348Z] Modularize: Break down large components into smaller ones (#363)
+- [2026-02-16T11:48:08.834Z] Refine: Smooth out CSS transitions (#365)
