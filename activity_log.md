@@ -502,3 +502,4 @@
 - [2026-02-16T11:50:37.535Z] Feat: Implement dark mode support (#943)
 - [2026-02-16T11:50:47.116Z] Chore: Upgrade dependencies to latest stable (#950)
 - [2026-02-16T11:50:47.472Z] Chore: Upgrade dependencies to latest stable (#951)
+- [2026-02-16T11:50:51.230Z] Chore: Remove deprecated methods and clean up (#955)
