@@ -23,3 +23,4 @@
 - [2026-01-31T13:09:20.875Z] Feat: Add support for multi-region clusters (#16)
 - [2026-01-31T13:09:21.121Z] Chore: Upgrade dependencies to latest stable (#17)
 - [2026-02-16T11:13:07.189Z] Optimize: Minimize memory footprint of data structures (#2)
+- [2026-02-16T11:13:07.405Z] Secure: Implement advanced hashing for sensitive data (#3)
