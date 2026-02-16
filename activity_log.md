@@ -28,3 +28,4 @@
 - [2026-02-16T11:13:08.781Z] Improve: Enhance state management with better scoping (#8)
 - [2026-02-16T11:13:08.986Z] Streamline: Simplify internal routing logic (#9)
 - [2026-02-16T11:13:10.315Z] Update: Refresh dependencies for security compliance (#15)
+- [2026-02-16T11:13:11.004Z] Chore: Remove deprecated methods and clean up (#18)
