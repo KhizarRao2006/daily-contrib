@@ -458,3 +458,4 @@
 - [2026-02-16T11:49:56.860Z] Modularize: Break down large components into smaller ones (#802)
 - [2026-02-16T11:49:57.593Z] Refactor: Extract utility functions for cleaner code (#805)
 - [2026-02-16T11:49:59.620Z] Docs: Update API documentation for v2 (#813)
+- [2026-02-16T11:50:00.348Z] Fix: Handle null pointer exception in logger (#816)
