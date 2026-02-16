@@ -301,3 +301,4 @@
 - [2026-02-16T11:48:31.401Z] Streamline: Simplify internal routing logic (#449)
 - [2026-02-16T11:48:31.650Z] Refactor: Extract utility functions for cleaner code (#450)
 - [2026-02-16T11:48:31.892Z] Streamline: Simplify internal routing logic (#451)
+- [2026-02-16T11:48:32.635Z] Docs: Update API documentation for v2 (#454)
