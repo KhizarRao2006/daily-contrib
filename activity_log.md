@@ -400,3 +400,4 @@
 - [2026-02-16T11:49:24.255Z] Docs: Clarify installation steps in README (#661)
 - [2026-02-16T11:49:25.606Z] Perf: Improve database query execution time (#667)
 - [2026-02-16T11:49:26.057Z] Secure: Implement advanced hashing for sensitive data (#669)
+- [2026-02-16T11:49:26.508Z] Chore: Remove deprecated methods and clean up (#671)
