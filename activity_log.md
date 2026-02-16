@@ -47,3 +47,4 @@
 - [2026-02-16T11:13:18.221Z] Feat: Implement dark mode support (#47)
 - [2026-02-16T11:13:18.446Z] Docs: Clarify installation steps in README (#48)
 - [2026-02-16T11:13:18.696Z] Strengthen: Add robust error boundaries (#49)
+- [2026-02-16T11:13:20.064Z] Docs: Clarify installation steps in README (#51)
