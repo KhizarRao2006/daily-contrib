@@ -274,3 +274,4 @@
 - [2026-02-16T11:48:15.909Z] Feat: Implement dark mode support (#392)
 - [2026-02-16T11:48:16.397Z] Docs: Clarify installation steps in README (#394)
 - [2026-02-16T11:48:16.886Z] Chore: Upgrade dependencies to latest stable (#396)
+- [2026-02-16T11:48:17.128Z] Test: Increase coverage for edge cases in parser (#397)
