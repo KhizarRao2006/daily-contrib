@@ -139,3 +139,4 @@
 - [2026-02-16T11:46:49.446Z] Chore: Remove deprecated methods and clean up (#78)
 - [2026-02-16T11:46:51.412Z] Perf: Improve database query execution time (#86)
 - [2026-02-16T11:46:52.169Z] Fix: Resolve race condition in auth flow (#89)
+- [2026-02-16T11:46:52.708Z] Chore: Remove deprecated methods and clean up (#91)
