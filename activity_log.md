@@ -256,3 +256,4 @@
 - [2026-02-16T11:48:06.279Z] Chore: Remove deprecated methods and clean up (#355)
 - [2026-02-16T11:48:06.504Z] Docs: Update API documentation for v2 (#356)
 - [2026-02-16T11:48:06.801Z] Modernize: Transition to ES2023 features (#357)
+- [2026-02-16T11:48:07.053Z] Docs: Clarify installation steps in README (#358)
