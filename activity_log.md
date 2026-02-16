@@ -86,3 +86,4 @@
 - [2026-02-16T11:15:13.289Z] Feat: Implement dark mode support (#82)
 - [2026-02-16T11:15:13.689Z] Docs: Clarify installation steps in README (#84)
 - [2026-02-16T11:15:13.891Z] Feat: Implement dark mode support (#85)
+- [2026-02-16T11:15:14.085Z] Style: Modernize UI components with better spacing (#86)
