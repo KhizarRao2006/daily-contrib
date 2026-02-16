@@ -142,3 +142,4 @@
 - [2026-02-16T11:46:52.708Z] Chore: Remove deprecated methods and clean up (#91)
 - [2026-02-16T11:46:53.196Z] Build: Optimize CI/CD pipeline stages (#93)
 - [2026-02-16T11:46:53.643Z] Docs: Clarify installation steps in README (#95)
+- [2026-02-16T11:46:53.870Z] Security: Patch vulnerability in session handling (#96)
