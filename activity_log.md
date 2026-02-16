@@ -73,3 +73,4 @@
 - [2026-02-16T11:15:06.624Z] Style: Modernize UI components with better spacing (#54)
 - [2026-02-16T11:15:07.068Z] Refactor: Extract utility functions for cleaner code (#56)
 - [2026-02-16T11:15:07.277Z] Feat: Add support for multi-region clusters (#57)
+- [2026-02-16T11:15:07.679Z] Docs: Update API documentation for v2 (#59)
