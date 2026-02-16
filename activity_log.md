@@ -368,3 +368,4 @@
 - [2026-02-16T11:49:04.851Z] Chore: Upgrade dependencies to latest stable (#584)
 - [2026-02-16T11:49:05.108Z] Docs: Clarify installation steps in README (#585)
 - [2026-02-16T11:49:05.336Z] Optimize: Minimize memory footprint of data structures (#586)
+- [2026-02-16T11:49:06.855Z] Security: Patch vulnerability in session handling (#592)
