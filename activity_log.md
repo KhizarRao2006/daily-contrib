@@ -217,3 +217,4 @@
 - [2026-02-16T11:47:45.812Z] Docs: Update API documentation for v2 (#273)
 - [2026-02-16T11:47:46.055Z] Secure: Implement advanced hashing for sensitive data (#274)
 - [2026-02-16T11:47:46.298Z] Docs: Update API documentation for v2 (#275)
+- [2026-02-16T11:47:47.073Z] Fix: Handle null pointer exception in logger (#278)
