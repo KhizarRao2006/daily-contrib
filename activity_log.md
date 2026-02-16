@@ -30,3 +30,4 @@
 - [2026-02-16T11:13:10.315Z] Update: Refresh dependencies for security compliance (#15)
 - [2026-02-16T11:13:11.004Z] Chore: Remove deprecated methods and clean up (#18)
 - [2026-02-16T11:13:11.202Z] Feat: Add support for multi-region clusters (#19)
+- [2026-02-16T11:13:11.396Z] Fix: Handle null pointer exception in logger (#20)
