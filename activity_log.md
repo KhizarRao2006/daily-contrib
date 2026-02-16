@@ -45,3 +45,4 @@
 - [2026-02-16T11:13:16.329Z] Modernize: Transition to ES2023 features (#42)
 - [2026-02-16T11:13:17.460Z] Streamline: Simplify internal routing logic (#44)
 - [2026-02-16T11:13:18.221Z] Feat: Implement dark mode support (#47)
+- [2026-02-16T11:13:18.446Z] Docs: Clarify installation steps in README (#48)
