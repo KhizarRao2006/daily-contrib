@@ -62,3 +62,4 @@
 - [2026-02-16T11:15:00.143Z] Style: Modernize UI components with better spacing (#24)
 - [2026-02-16T11:15:00.335Z] Refactor: Optimize rendering logic (#25)
 - [2026-02-16T11:15:00.961Z] Docs: Clarify installation steps in README (#28)
+- [2026-02-16T11:15:01.590Z] Docs: Update API documentation for v2 (#31)
