@@ -166,3 +166,4 @@
 - [2026-02-16T11:47:09.857Z] Implement: Add validation for incoming payloads (#150)
 - [2026-02-16T11:47:10.091Z] Refine: Smooth out CSS transitions (#151)
 - [2026-02-16T11:47:10.551Z] Perf: Improve database query execution time (#153)
+- [2026-02-16T11:47:11.037Z] Docs: Clarify installation steps in README (#155)
