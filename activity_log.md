@@ -298,3 +298,4 @@
 - [2026-02-16T11:48:29.688Z] Fix: Handle null pointer exception in logger (#442)
 - [2026-02-16T11:48:29.944Z] Docs: Update API documentation for v2 (#443)
 - [2026-02-16T11:48:30.686Z] Chore: Remove deprecated methods and clean up (#446)
+- [2026-02-16T11:48:31.401Z] Streamline: Simplify internal routing logic (#449)
