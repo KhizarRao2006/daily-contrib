@@ -761,3 +761,4 @@
 - [2026-02-20T10:37:45.506Z] Docs: Clarify installation steps in README (#648)
 - [2026-02-20T10:37:45.761Z] Fix: Handle null pointer exception in logger (#649)
 - [2026-02-20T10:37:47.864Z] Strengthen: Add robust error boundaries (#657)
+- [2026-02-20T10:37:48.105Z] Test: Increase coverage for edge cases in parser (#658)
