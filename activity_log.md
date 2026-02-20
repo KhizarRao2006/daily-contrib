@@ -930,3 +930,4 @@
 - [2026-02-20T10:41:52.868Z] Modernize: Transition to ES2023 features (#52)
 - [2026-02-20T10:41:53.861Z] Feat: Add support for multi-region clusters (#56)
 - [2026-02-20T10:41:54.100Z] Chore: Remove deprecated methods and clean up (#57)
+- [2026-02-20T10:41:54.601Z] Fix: Handle null pointer exception in logger (#59)
