@@ -847,3 +847,4 @@
 - [2026-02-20T10:38:41.455Z] Optimize: Minimize memory footprint of data structures (#857)
 - [2026-02-20T10:38:42.212Z] Build: Optimize CI/CD pipeline stages (#860)
 - [2026-02-20T10:38:42.713Z] Refactor: Optimize rendering logic (#862)
+- [2026-02-20T10:38:42.950Z] Docs: Update API documentation for v2 (#863)
