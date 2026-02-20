@@ -615,3 +615,4 @@
 - [2026-02-20T10:35:44.325Z] Implement: Add validation for incoming payloads (#272)
 - [2026-02-20T10:35:46.140Z] Refine: Smooth out CSS transitions (#279)
 - [2026-02-20T10:35:46.931Z] Modernize: Transition to ES2023 features (#282)
+- [2026-02-20T10:35:47.720Z] Chore: Remove deprecated methods and clean up (#285)
