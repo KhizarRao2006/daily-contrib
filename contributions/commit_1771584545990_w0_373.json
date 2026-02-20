@@ -1,0 +1,37 @@
+{
+  "version": "2.1.32",
+  "timestamp": 1771584541179,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 31061,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-838-25tl5",
+    "hash": "i3izh",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "wzut2i",
+      "enabled": false
+    },
+    {
+      "name": "n0wsr",
+      "enabled": true
+    },
+    {
+      "name": "div9gy",
+      "enabled": true
+    },
+    {
+      "name": "6tspj",
+      "enabled": true
+    },
+    {
+      "name": "ui872f",
+      "enabled": true
+    }
+  ]
+}
