@@ -1,0 +1,37 @@
+{
+  "version": "3.3.34",
+  "timestamp": 1771584541036,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 24039,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-200-ozc6cj",
+    "hash": "2pksmb",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "v7y0eq",
+      "enabled": false
+    },
+    {
+      "name": "k7rz6rb",
+      "enabled": false
+    },
+    {
+      "name": "4cpps",
+      "enabled": true
+    },
+    {
+      "name": "p4eyr",
+      "enabled": false
+    },
+    {
+      "name": "ohdcid",
+      "enabled": false
+    }
+  ]
+}
