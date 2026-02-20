@@ -519,3 +519,4 @@
 - [2026-02-16T11:51:24.322Z] Style: Modernize UI components with better spacing (#993)
 - [2026-02-16T11:51:25.900Z] Security: Patch vulnerability in session handling (#995)
 - [2026-02-16T11:51:27.304Z] Improve: Enhance state management with better scoping (#997)
+- [2026-02-20T10:34:12.816Z] Fix: Resolve race condition in auth flow (#5)
