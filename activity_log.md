@@ -787,3 +787,4 @@
 - [2026-02-20T10:38:01.977Z] Streamline: Simplify internal routing logic (#715)
 - [2026-02-20T10:38:02.227Z] Security: Patch vulnerability in session handling (#716)
 - [2026-02-20T10:38:03.307Z] Streamline: Simplify internal routing logic (#720)
+- [2026-02-20T10:38:03.541Z] Feat: Add support for multi-region clusters (#721)
