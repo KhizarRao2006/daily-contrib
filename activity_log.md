@@ -1048,3 +1048,4 @@
 - [2026-02-20T10:44:08.624Z] Feat: Add support for multi-region clusters (#18)
 - [2026-02-20T10:44:09.329Z] Perf: Improve database query execution time (#21)
 - [2026-02-20T10:44:09.562Z] Perf: Improve database query execution time (#22)
+- [2026-02-20T10:44:10.028Z] Chore: Remove deprecated methods and clean up (#24)
