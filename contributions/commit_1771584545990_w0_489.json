@@ -1,0 +1,37 @@
+{
+  "version": "4.2.14",
+  "timestamp": 1771584541044,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 29230,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-230-zev0ww",
+    "hash": "931i3",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "6t6roo",
+      "enabled": false
+    },
+    {
+      "name": "ibmnmk",
+      "enabled": true
+    },
+    {
+      "name": "zl2ma8",
+      "enabled": false
+    },
+    {
+      "name": "ajx1c",
+      "enabled": true
+    },
+    {
+      "name": "zmix5c",
+      "enabled": true
+    }
+  ]
+}
