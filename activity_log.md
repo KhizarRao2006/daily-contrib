@@ -794,3 +794,4 @@
 - [2026-02-20T10:38:06.112Z] Feat: Add support for multi-region clusters (#731)
 - [2026-02-20T10:38:06.353Z] Security: Patch vulnerability in session handling (#732)
 - [2026-02-20T10:38:07.337Z] Feat: Add support for multi-region clusters (#736)
+- [2026-02-20T10:38:09.202Z] Style: Modernize UI components with better spacing (#741)
