@@ -736,3 +736,4 @@
 - [2026-02-20T10:37:25.416Z] Test: Increase coverage for edge cases in parser (#570)
 - [2026-02-20T10:37:25.941Z] Optimize: Minimize memory footprint of data structures (#572)
 - [2026-02-20T10:37:27.208Z] Security: Patch vulnerability in session handling (#577)
+- [2026-02-20T10:37:27.961Z] Chore: Remove deprecated methods and clean up (#580)
