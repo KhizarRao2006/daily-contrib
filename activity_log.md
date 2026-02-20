@@ -589,3 +589,4 @@
 - [2026-02-20T10:35:24.662Z] Security: Patch vulnerability in session handling (#203)
 - [2026-02-20T10:35:25.835Z] Chore: Upgrade dependencies to latest stable (#207)
 - [2026-02-20T10:35:27.485Z] Docs: Update API documentation for v2 (#212)
+- [2026-02-20T10:35:28.320Z] Fix: Handle null pointer exception in logger (#215)
