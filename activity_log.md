@@ -805,3 +805,4 @@
 - [2026-02-20T10:38:14.223Z] Fix: Handle null pointer exception in logger (#756)
 - [2026-02-20T10:38:14.978Z] Test: Increase coverage for edge cases in parser (#759)
 - [2026-02-20T10:38:15.621Z] Docs: Update API documentation for v2 (#761)
+- [2026-02-20T10:38:16.377Z] Implement: Add validation for incoming payloads (#764)
