@@ -889,3 +889,4 @@
 - [2026-02-20T10:39:14.650Z] Docs: Clarify installation steps in README (#976)
 - [2026-02-20T10:39:14.905Z] Docs: Clarify installation steps in README (#977)
 - [2026-02-20T10:39:16.067Z] Streamline: Simplify internal routing logic (#979)
+- [2026-02-20T10:39:16.332Z] Refine: Smooth out CSS transitions (#980)
