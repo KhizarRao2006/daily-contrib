@@ -987,3 +987,4 @@
 - [2026-02-20T10:42:27.834Z] Feat: Add support for multi-region clusters (#190)
 - [2026-02-20T10:42:28.073Z] Feat: Add support for multi-region clusters (#191)
 - [2026-02-20T10:42:28.298Z] Docs: Update API documentation for v2 (#192)
+- [2026-02-20T10:42:28.758Z] Refactor: Extract utility functions for cleaner code (#194)
