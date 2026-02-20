@@ -659,3 +659,4 @@
 - [2026-02-20T10:36:22.661Z] Docs: Update API documentation for v2 (#380)
 - [2026-02-20T10:36:22.973Z] Modularize: Break down large components into smaller ones (#381)
 - [2026-02-20T10:36:24.368Z] Streamline: Simplify internal routing logic (#386)
+- [2026-02-20T10:36:24.907Z] Fix: Handle null pointer exception in logger (#388)
