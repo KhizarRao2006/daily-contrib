@@ -849,3 +849,4 @@
 - [2026-02-20T10:38:42.713Z] Refactor: Optimize rendering logic (#862)
 - [2026-02-20T10:38:42.950Z] Docs: Update API documentation for v2 (#863)
 - [2026-02-20T10:38:43.186Z] Build: Optimize CI/CD pipeline stages (#864)
+- [2026-02-20T10:38:45.916Z] Test: Increase coverage for edge cases in parser (#872)
