@@ -545,3 +545,4 @@
 - [2026-02-20T10:34:43.460Z] Chore: Upgrade dependencies to latest stable (#87)
 - [2026-02-20T10:34:44.099Z] Modernize: Transition to ES2023 features (#89)
 - [2026-02-20T10:34:45.252Z] Modularize: Break down large components into smaller ones (#93)
+- [2026-02-20T10:34:45.541Z] Docs: Update API documentation for v2 (#94)
