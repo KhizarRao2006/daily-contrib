@@ -1,0 +1,37 @@
+{
+  "version": "2.10.12",
+  "timestamp": 1771584541189,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 15281,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-898-0fa1g",
+    "hash": "49plyh",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "v4w41j",
+      "enabled": true
+    },
+    {
+      "name": "pd2x6g",
+      "enabled": false
+    },
+    {
+      "name": "ub89ai",
+      "enabled": true
+    },
+    {
+      "name": "jpu3y",
+      "enabled": true
+    },
+    {
+      "name": "lw3c37jb",
+      "enabled": false
+    }
+  ]
+}
