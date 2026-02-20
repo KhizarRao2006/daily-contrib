@@ -1,0 +1,37 @@
+{
+  "version": "0.18.11",
+  "timestamp": 1771584541032,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 32395,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-183-poacjb",
+    "hash": "4ym6vg",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "0oi4lk",
+      "enabled": false
+    },
+    {
+      "name": "rdl3a3",
+      "enabled": true
+    },
+    {
+      "name": "qrapc",
+      "enabled": true
+    },
+    {
+      "name": "60iwh",
+      "enabled": true
+    },
+    {
+      "name": "uompg",
+      "enabled": true
+    }
+  ]
+}
