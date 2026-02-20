@@ -1,0 +1,37 @@
+{
+  "version": "2.9.83",
+  "timestamp": 1771584541162,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 26774,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-722-teg0pp",
+    "hash": "vdsm8s",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "qbwll",
+      "enabled": true
+    },
+    {
+      "name": "q8o936",
+      "enabled": true
+    },
+    {
+      "name": "8du41f",
+      "enabled": false
+    },
+    {
+      "name": "gv69gi",
+      "enabled": true
+    },
+    {
+      "name": "nnehbj",
+      "enabled": false
+    }
+  ]
+}
