@@ -1,0 +1,37 @@
+{
+  "version": "3.14.61",
+  "timestamp": 1771584541182,
+  "config": {
+    "parallel": true,
+    "workers": 7,
+    "timeout": 22211,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-858-cc9qxd",
+    "hash": "qxtbug",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "7e6pt",
+      "enabled": true
+    },
+    {
+      "name": "8exw5",
+      "enabled": false
+    },
+    {
+      "name": "q6rqfqt",
+      "enabled": false
+    },
+    {
+      "name": "ztisj",
+      "enabled": true
+    },
+    {
+      "name": "39pa",
+      "enabled": false
+    }
+  ]
+}
