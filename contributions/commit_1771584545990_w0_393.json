@@ -1,0 +1,37 @@
+{
+  "version": "1.9.39",
+  "timestamp": 1771584541185,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 33074,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-875-hlbnk",
+    "hash": "sjlu",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "rub4ct",
+      "enabled": true
+    },
+    {
+      "name": "fb92jk",
+      "enabled": true
+    },
+    {
+      "name": "bkvloe",
+      "enabled": false
+    },
+    {
+      "name": "9wttl",
+      "enabled": false
+    },
+    {
+      "name": "fncp7t",
+      "enabled": true
+    }
+  ]
+}
