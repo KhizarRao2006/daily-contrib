@@ -789,3 +789,4 @@
 - [2026-02-20T10:38:03.307Z] Streamline: Simplify internal routing logic (#720)
 - [2026-02-20T10:38:03.541Z] Feat: Add support for multi-region clusters (#721)
 - [2026-02-20T10:38:03.795Z] Implement: Add validation for incoming payloads (#722)
+- [2026-02-20T10:38:05.569Z] Implement: Add validation for incoming payloads (#729)
