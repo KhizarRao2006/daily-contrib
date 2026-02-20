@@ -594,3 +594,4 @@
 - [2026-02-20T10:35:30.365Z] Chore: Remove deprecated methods and clean up (#222)
 - [2026-02-20T10:35:31.455Z] Feat: Implement dark mode support (#226)
 - [2026-02-20T10:35:31.739Z] Chore: Upgrade dependencies to latest stable (#227)
+- [2026-02-20T10:35:33.435Z] Modernize: Transition to ES2023 features (#233)
