@@ -939,3 +939,4 @@
 - [2026-02-20T10:41:57.848Z] Docs: Update API documentation for v2 (#72)
 - [2026-02-20T10:41:58.602Z] Chore: Remove deprecated methods and clean up (#75)
 - [2026-02-20T10:41:59.115Z] Feat: Add support for multi-region clusters (#77)
+- [2026-02-20T10:41:59.605Z] Streamline: Simplify internal routing logic (#79)
