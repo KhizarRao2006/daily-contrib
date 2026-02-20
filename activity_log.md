@@ -578,3 +578,4 @@
 - [2026-02-20T10:35:13.535Z] Chore: Remove deprecated methods and clean up (#166)
 - [2026-02-20T10:35:13.858Z] Test: Increase coverage for edge cases in parser (#167)
 - [2026-02-20T10:35:14.113Z] Secure: Implement advanced hashing for sensitive data (#168)
+- [2026-02-20T10:35:16.366Z] Fix: Handle null pointer exception in logger (#175)
