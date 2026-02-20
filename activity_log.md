@@ -776,3 +776,4 @@
 - [2026-02-20T10:37:54.372Z] Build: Optimize CI/CD pipeline stages (#684)
 - [2026-02-20T10:37:55.649Z] Test: Increase coverage for edge cases in parser (#689)
 - [2026-02-20T10:37:57.109Z] Docs: Clarify installation steps in README (#695)
+- [2026-02-20T10:37:57.587Z] Feat: Add support for multi-region clusters (#697)
