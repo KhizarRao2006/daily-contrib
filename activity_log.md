@@ -1000,3 +1000,4 @@
 - [2026-02-20T10:42:34.735Z] Build: Optimize CI/CD pipeline stages (#217)
 - [2026-02-20T10:42:34.961Z] Refactor: Optimize rendering logic (#218)
 - [2026-02-20T10:42:35.197Z] Feat: Implement dark mode support (#219)
+- [2026-02-20T10:42:35.667Z] Chore: Remove deprecated methods and clean up (#221)
