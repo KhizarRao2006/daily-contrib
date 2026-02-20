@@ -1,0 +1,37 @@
+{
+  "version": "3.12.85",
+  "timestamp": 1771584541167,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 30161,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-757-ej5na6",
+    "hash": "8308g",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "3q69oi",
+      "enabled": false
+    },
+    {
+      "name": "cwga3q",
+      "enabled": true
+    },
+    {
+      "name": "gi5it",
+      "enabled": true
+    },
+    {
+      "name": "69bnu9",
+      "enabled": true
+    },
+    {
+      "name": "rjdpdo",
+      "enabled": true
+    }
+  ]
+}
