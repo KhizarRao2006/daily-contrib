@@ -1,0 +1,37 @@
+{
+  "version": "1.19.86",
+  "timestamp": 1771584541082,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 6781,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-368-6561ny",
+    "hash": "y0ax9o",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "036xmc",
+      "enabled": false
+    },
+    {
+      "name": "p9tp9s",
+      "enabled": true
+    },
+    {
+      "name": "z4r2o",
+      "enabled": true
+    },
+    {
+      "name": "p0nybb",
+      "enabled": false
+    },
+    {
+      "name": "unvxv",
+      "enabled": true
+    }
+  ]
+}
