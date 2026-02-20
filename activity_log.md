@@ -682,3 +682,4 @@
 - [2026-02-20T10:36:40.793Z] Streamline: Simplify internal routing logic (#436)
 - [2026-02-20T10:36:41.330Z] Improve: Enhance state management with better scoping (#437)
 - [2026-02-20T10:36:42.233Z] Modernize: Transition to ES2023 features (#438)
+- [2026-02-20T10:36:42.749Z] Chore: Remove deprecated methods and clean up (#439)
