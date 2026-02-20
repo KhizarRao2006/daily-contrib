@@ -644,3 +644,4 @@
 - [2026-02-20T10:36:05.035Z] Chore: Upgrade dependencies to latest stable (#351)
 - [2026-02-20T10:36:05.309Z] Docs: Update API documentation for v2 (#352)
 - [2026-02-20T10:36:05.535Z] Chore: Upgrade dependencies to latest stable (#353)
+- [2026-02-20T10:36:05.777Z] Fix: Handle null pointer exception in logger (#354)
