@@ -536,3 +536,4 @@
 - [2026-02-20T10:34:31.270Z] Docs: Clarify installation steps in README (#58)
 - [2026-02-20T10:34:33.353Z] Refactor: Optimize rendering logic (#65)
 - [2026-02-20T10:34:33.641Z] Test: Increase coverage for edge cases in parser (#66)
+- [2026-02-20T10:34:34.819Z] Implement: Add validation for incoming payloads (#70)
