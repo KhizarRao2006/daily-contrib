@@ -685,3 +685,4 @@
 - [2026-02-20T10:36:42.749Z] Chore: Remove deprecated methods and clean up (#439)
 - [2026-02-20T10:36:44.077Z] Streamline: Simplify internal routing logic (#441)
 - [2026-02-20T10:36:45.943Z] Fix: Resolve race condition in auth flow (#444)
+- [2026-02-20T10:36:46.226Z] Chore: Remove deprecated methods and clean up (#445)
