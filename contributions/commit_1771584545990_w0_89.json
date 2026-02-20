@@ -1,0 +1,37 @@
+{
+  "version": "0.2.7",
+  "timestamp": 1771584541081,
+  "config": {
+    "parallel": true,
+    "workers": 4,
+    "timeout": 19768,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-363-low2im",
+    "hash": "50pbn",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "rhwgln",
+      "enabled": false
+    },
+    {
+      "name": "xrkd0c",
+      "enabled": false
+    },
+    {
+      "name": "t2ogm",
+      "enabled": true
+    },
+    {
+      "name": "cdu8zo",
+      "enabled": false
+    },
+    {
+      "name": "rlm8yp",
+      "enabled": false
+    }
+  ]
+}
