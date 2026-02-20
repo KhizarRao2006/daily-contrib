@@ -1,0 +1,37 @@
+{
+  "version": "1.6.62",
+  "timestamp": 1771584541071,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 18708,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-316-oekap",
+    "hash": "hbi39",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "smlzcm",
+      "enabled": false
+    },
+    {
+      "name": "mxmq8j",
+      "enabled": true
+    },
+    {
+      "name": "3jsxd",
+      "enabled": true
+    },
+    {
+      "name": "p8mwij",
+      "enabled": true
+    },
+    {
+      "name": "1hjad",
+      "enabled": true
+    }
+  ]
+}
