@@ -1,0 +1,37 @@
+{
+  "version": "2.18.13",
+  "timestamp": 1771584541197,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 30418,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-949-zhl7r",
+    "hash": "5btglh",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "f59yq8",
+      "enabled": false
+    },
+    {
+      "name": "a13rg",
+      "enabled": true
+    },
+    {
+      "name": "64pu7i",
+      "enabled": false
+    },
+    {
+      "name": "x57tn",
+      "enabled": true
+    },
+    {
+      "name": "7ndf2m",
+      "enabled": true
+    }
+  ]
+}
