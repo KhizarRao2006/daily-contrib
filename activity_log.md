@@ -591,3 +591,4 @@
 - [2026-02-20T10:35:27.485Z] Docs: Update API documentation for v2 (#212)
 - [2026-02-20T10:35:28.320Z] Fix: Handle null pointer exception in logger (#215)
 - [2026-02-20T10:35:29.830Z] Security: Patch vulnerability in session handling (#220)
+- [2026-02-20T10:35:30.365Z] Chore: Remove deprecated methods and clean up (#222)
