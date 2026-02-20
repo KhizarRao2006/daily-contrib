@@ -716,3 +716,4 @@
 - [2026-02-20T10:37:11.600Z] Feat: Implement dark mode support (#517)
 - [2026-02-20T10:37:12.395Z] Chore: Upgrade dependencies to latest stable (#520)
 - [2026-02-20T10:37:13.281Z] Refine: Smooth out CSS transitions (#523)
+- [2026-02-20T10:37:13.576Z] Feat: Add support for multi-region clusters (#524)
