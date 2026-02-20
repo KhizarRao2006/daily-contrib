@@ -839,3 +839,4 @@
 - [2026-02-20T10:38:35.301Z] Test: Increase coverage for edge cases in parser (#833)
 - [2026-02-20T10:38:35.805Z] Strengthen: Add robust error boundaries (#835)
 - [2026-02-20T10:38:36.296Z] Update: Refresh dependencies for security compliance (#837)
+- [2026-02-20T10:38:36.530Z] Chore: Remove deprecated methods and clean up (#838)
