@@ -1,0 +1,37 @@
+{
+  "version": "0.10.31",
+  "timestamp": 1771584541042,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 30298,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-221-dmfxaq",
+    "hash": "b4arn",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ekpm3b",
+      "enabled": true
+    },
+    {
+      "name": "egwlu",
+      "enabled": true
+    },
+    {
+      "name": "fxx4f9",
+      "enabled": false
+    },
+    {
+      "name": "f65fys",
+      "enabled": false
+    },
+    {
+      "name": "kklfui",
+      "enabled": true
+    }
+  ]
+}
