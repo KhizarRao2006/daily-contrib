@@ -717,3 +717,4 @@
 - [2026-02-20T10:37:12.395Z] Chore: Upgrade dependencies to latest stable (#520)
 - [2026-02-20T10:37:13.281Z] Refine: Smooth out CSS transitions (#523)
 - [2026-02-20T10:37:13.576Z] Feat: Add support for multi-region clusters (#524)
+- [2026-02-20T10:37:14.976Z] Implement: Add validation for incoming payloads (#529)
