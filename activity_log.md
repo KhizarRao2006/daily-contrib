@@ -961,3 +961,4 @@
 - [2026-02-20T10:42:12.869Z] Strengthen: Add robust error boundaries (#130)
 - [2026-02-20T10:42:13.356Z] Secure: Implement advanced hashing for sensitive data (#132)
 - [2026-02-20T10:42:13.850Z] Feat: Add support for multi-region clusters (#134)
+- [2026-02-20T10:42:14.383Z] Docs: Clarify installation steps in README (#136)
