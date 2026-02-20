@@ -1,0 +1,37 @@
+{
+  "version": "0.7.29",
+  "timestamp": 1771584541183,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 10031,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-860-mc7x1k",
+    "hash": "fzp6y",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "jg77i",
+      "enabled": true
+    },
+    {
+      "name": "81czv7",
+      "enabled": false
+    },
+    {
+      "name": "suuol9",
+      "enabled": true
+    },
+    {
+      "name": "onl3qh",
+      "enabled": false
+    },
+    {
+      "name": "g9a6cc",
+      "enabled": true
+    }
+  ]
+}
