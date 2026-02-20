@@ -1001,3 +1001,4 @@
 - [2026-02-20T10:42:34.961Z] Refactor: Optimize rendering logic (#218)
 - [2026-02-20T10:42:35.197Z] Feat: Implement dark mode support (#219)
 - [2026-02-20T10:42:35.667Z] Chore: Remove deprecated methods and clean up (#221)
+- [2026-02-20T10:42:36.230Z] Feat: Add support for multi-region clusters (#223)
