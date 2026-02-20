@@ -1,0 +1,37 @@
+{
+  "version": "4.12.65",
+  "timestamp": 1771584541060,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 15263,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-270-ovnkgd",
+    "hash": "m4eay7",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "d6bxmm",
+      "enabled": true
+    },
+    {
+      "name": "2i287f",
+      "enabled": true
+    },
+    {
+      "name": "5gbim",
+      "enabled": true
+    },
+    {
+      "name": "snvb7h",
+      "enabled": false
+    },
+    {
+      "name": "ocdiv3",
+      "enabled": false
+    }
+  ]
+}
