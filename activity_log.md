@@ -691,3 +691,4 @@
 - [2026-02-20T10:36:50.080Z] Improve: Enhance state management with better scoping (#457)
 - [2026-02-20T10:36:50.364Z] Implement: Add validation for incoming payloads (#458)
 - [2026-02-20T10:36:50.667Z] Chore: Upgrade dependencies to latest stable (#459)
+- [2026-02-20T10:36:51.799Z] Docs: Update API documentation for v2 (#462)
