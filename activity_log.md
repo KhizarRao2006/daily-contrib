@@ -698,3 +698,4 @@
 - [2026-02-20T10:36:56.749Z] Security: Patch vulnerability in session handling (#473)
 - [2026-02-20T10:36:58.042Z] Improve: Enhance state management with better scoping (#475)
 - [2026-02-20T10:36:59.542Z] Test: Increase coverage for edge cases in parser (#478)
+- [2026-02-20T10:37:01.898Z] Chore: Remove deprecated methods and clean up (#482)
