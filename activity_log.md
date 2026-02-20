@@ -1003,3 +1003,4 @@
 - [2026-02-20T10:42:35.667Z] Chore: Remove deprecated methods and clean up (#221)
 - [2026-02-20T10:42:36.230Z] Feat: Add support for multi-region clusters (#223)
 - [2026-02-20T10:42:36.967Z] Optimize: Minimize memory footprint of data structures (#226)
+- [2026-02-20T10:42:37.433Z] Chore: Remove deprecated methods and clean up (#228)
