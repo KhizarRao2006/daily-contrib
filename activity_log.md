@@ -792,3 +792,4 @@
 - [2026-02-20T10:38:05.569Z] Implement: Add validation for incoming payloads (#729)
 - [2026-02-20T10:38:05.847Z] Docs: Clarify installation steps in README (#730)
 - [2026-02-20T10:38:06.112Z] Feat: Add support for multi-region clusters (#731)
+- [2026-02-20T10:38:06.353Z] Security: Patch vulnerability in session handling (#732)
