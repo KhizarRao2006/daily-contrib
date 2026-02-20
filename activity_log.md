@@ -684,3 +684,4 @@
 - [2026-02-20T10:36:42.233Z] Modernize: Transition to ES2023 features (#438)
 - [2026-02-20T10:36:42.749Z] Chore: Remove deprecated methods and clean up (#439)
 - [2026-02-20T10:36:44.077Z] Streamline: Simplify internal routing logic (#441)
+- [2026-02-20T10:36:45.943Z] Fix: Resolve race condition in auth flow (#444)
