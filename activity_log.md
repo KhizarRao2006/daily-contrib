@@ -749,3 +749,4 @@
 - [2026-02-20T10:37:34.698Z] Docs: Update API documentation for v2 (#606)
 - [2026-02-20T10:37:35.486Z] Security: Patch vulnerability in session handling (#609)
 - [2026-02-20T10:37:36.745Z] Docs: Update API documentation for v2 (#614)
+- [2026-02-20T10:37:38.410Z] Security: Patch vulnerability in session handling (#620)
