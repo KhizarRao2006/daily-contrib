@@ -673,3 +673,4 @@
 - [2026-02-20T10:36:30.180Z] Update: Refresh dependencies for security compliance (#407)
 - [2026-02-20T10:36:31.518Z] Fix: Handle null pointer exception in logger (#410)
 - [2026-02-20T10:36:31.982Z] Improve: Enhance state management with better scoping (#411)
+- [2026-02-20T10:36:33.899Z] Docs: Clarify installation steps in README (#416)
