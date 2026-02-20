@@ -1072,3 +1072,4 @@
 - [2026-02-20T10:58:55.927Z] Test: Increase coverage for edge cases in parser (#40)
 - [2026-02-20T10:58:56.875Z] Implement: Add validation for incoming payloads (#42)
 - [2026-02-20T10:58:58.602Z] Docs: Update API documentation for v2 (#45)
+- [2026-02-20T11:00:20.066Z] Feat: Add support for multi-region clusters (#1)
