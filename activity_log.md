@@ -948,3 +948,4 @@
 - [2026-02-20T10:42:04.381Z] Perf: Improve database query execution time (#97)
 - [2026-02-20T10:42:05.147Z] Streamline: Simplify internal routing logic (#100)
 - [2026-02-20T10:42:06.177Z] Modularize: Break down large components into smaller ones (#104)
+- [2026-02-20T10:42:07.519Z] Docs: Clarify installation steps in README (#109)
