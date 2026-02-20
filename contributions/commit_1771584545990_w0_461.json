@@ -1,0 +1,37 @@
+{
+  "version": "4.1.85",
+  "timestamp": 1771584541178,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 24999,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-829-5spi88",
+    "hash": "2tf8x",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "pje25",
+      "enabled": true
+    },
+    {
+      "name": "9kquls",
+      "enabled": true
+    },
+    {
+      "name": "86h3uh",
+      "enabled": true
+    },
+    {
+      "name": "z46aty",
+      "enabled": true
+    },
+    {
+      "name": "q9m12q",
+      "enabled": false
+    }
+  ]
+}
