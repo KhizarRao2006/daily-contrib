@@ -964,3 +964,4 @@
 - [2026-02-20T10:42:14.383Z] Docs: Clarify installation steps in README (#136)
 - [2026-02-20T10:42:14.627Z] Docs: Clarify installation steps in README (#137)
 - [2026-02-20T10:42:14.862Z] Strengthen: Add robust error boundaries (#138)
+- [2026-02-20T10:42:15.112Z] Strengthen: Add robust error boundaries (#139)
