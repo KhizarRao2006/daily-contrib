@@ -1,0 +1,37 @@
+{
+  "version": "3.1.33",
+  "timestamp": 1771584541201,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 20969,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-972-hh74kg",
+    "hash": "eds0tv",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "1gkdip",
+      "enabled": true
+    },
+    {
+      "name": "cv1rmsf",
+      "enabled": true
+    },
+    {
+      "name": "kryw2s",
+      "enabled": true
+    },
+    {
+      "name": "nbx838",
+      "enabled": true
+    },
+    {
+      "name": "t17xd8",
+      "enabled": true
+    }
+  ]
+}
