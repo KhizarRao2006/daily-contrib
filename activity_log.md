@@ -937,3 +937,4 @@
 - [2026-02-20T10:41:56.852Z] Improve: Enhance state management with better scoping (#68)
 - [2026-02-20T10:41:57.346Z] Test: Increase coverage for edge cases in parser (#70)
 - [2026-02-20T10:41:57.848Z] Docs: Update API documentation for v2 (#72)
+- [2026-02-20T10:41:58.602Z] Chore: Remove deprecated methods and clean up (#75)
