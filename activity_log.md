@@ -826,3 +826,4 @@
 - [2026-02-20T10:38:27.414Z] Docs: Update API documentation for v2 (#803)
 - [2026-02-20T10:38:27.649Z] Improve: Enhance state management with better scoping (#804)
 - [2026-02-20T10:38:28.399Z] Test: Increase coverage for edge cases in parser (#807)
+- [2026-02-20T10:38:29.189Z] Update: Refresh dependencies for security compliance (#810)
