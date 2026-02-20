@@ -1,0 +1,37 @@
+{
+  "version": "2.0.28",
+  "timestamp": 1771584541167,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 25241,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-752-4b9249",
+    "hash": "iy3438",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "74c72",
+      "enabled": true
+    },
+    {
+      "name": "laozz",
+      "enabled": true
+    },
+    {
+      "name": "qbgpg6",
+      "enabled": true
+    },
+    {
+      "name": "n5zu2g",
+      "enabled": false
+    },
+    {
+      "name": "1b8bu9",
+      "enabled": true
+    }
+  ]
+}
