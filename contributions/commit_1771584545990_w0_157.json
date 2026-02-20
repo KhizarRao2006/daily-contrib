@@ -1,0 +1,37 @@
+{
+  "version": "2.10.17",
+  "timestamp": 1771584541170,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 27569,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-776-bwm9wp",
+    "hash": "tprozb",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "i3duy",
+      "enabled": false
+    },
+    {
+      "name": "8mys9",
+      "enabled": true
+    },
+    {
+      "name": "0az7zm",
+      "enabled": true
+    },
+    {
+      "name": "hcq2lc",
+      "enabled": true
+    },
+    {
+      "name": "b895e8",
+      "enabled": true
+    }
+  ]
+}
