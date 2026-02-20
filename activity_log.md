@@ -991,3 +991,4 @@
 - [2026-02-20T10:42:29.015Z] Docs: Clarify installation steps in README (#195)
 - [2026-02-20T10:42:29.498Z] Strengthen: Add robust error boundaries (#197)
 - [2026-02-20T10:42:29.741Z] Test: Increase coverage for edge cases in parser (#198)
+- [2026-02-20T10:42:30.463Z] Strengthen: Add robust error boundaries (#201)
