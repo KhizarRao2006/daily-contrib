@@ -1,0 +1,37 @@
+{
+  "version": "0.10.45",
+  "timestamp": 1771831740806,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 30580,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-446-zpbv",
+    "hash": "si767h",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ucnxgm",
+      "enabled": false
+    },
+    {
+      "name": "g65e2c",
+      "enabled": true
+    },
+    {
+      "name": "kbgbgq",
+      "enabled": true
+    },
+    {
+      "name": "ttpq2",
+      "enabled": false
+    },
+    {
+      "name": "fztyrm",
+      "enabled": false
+    }
+  ]
+}
