@@ -1,0 +1,37 @@
+{
+  "version": "4.13.69",
+  "timestamp": 1771831740888,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 11230,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-958-xybbe",
+    "hash": "bd69wp",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "n1z89i",
+      "enabled": true
+    },
+    {
+      "name": "ydur7",
+      "enabled": true
+    },
+    {
+      "name": "j2eekf",
+      "enabled": true
+    },
+    {
+      "name": "taih51u",
+      "enabled": true
+    },
+    {
+      "name": "sunf0m",
+      "enabled": false
+    }
+  ]
+}
