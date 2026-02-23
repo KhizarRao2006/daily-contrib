@@ -1,0 +1,37 @@
+{
+  "version": "4.19.98",
+  "timestamp": 1771831740770,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 31425,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-214-cojzb",
+    "hash": "2uj9l5",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "8d874l",
+      "enabled": true
+    },
+    {
+      "name": "k7f7mn",
+      "enabled": false
+    },
+    {
+      "name": "or1dm",
+      "enabled": true
+    },
+    {
+      "name": "kch8icb",
+      "enabled": true
+    },
+    {
+      "name": "hycd43",
+      "enabled": false
+    }
+  ]
+}
