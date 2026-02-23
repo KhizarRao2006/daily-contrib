@@ -1,0 +1,37 @@
+{
+  "version": "2.1.7",
+  "timestamp": 1771831324665,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 15059,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-525-lxiy7s",
+    "hash": "yuftf",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "cnv3c",
+      "enabled": true
+    },
+    {
+      "name": "7819md",
+      "enabled": true
+    },
+    {
+      "name": "j4qtpi",
+      "enabled": true
+    },
+    {
+      "name": "jdje7g",
+      "enabled": false
+    },
+    {
+      "name": "htneyk",
+      "enabled": true
+    }
+  ]
+}
