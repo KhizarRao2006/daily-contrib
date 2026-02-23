@@ -1,0 +1,37 @@
+{
+  "version": "2.17.4",
+  "timestamp": 1771831740757,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 7509,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-129-ilewkq",
+    "hash": "rf9rsa",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "8oni3",
+      "enabled": true
+    },
+    {
+      "name": "ludc6f",
+      "enabled": false
+    },
+    {
+      "name": "6ju0vh",
+      "enabled": true
+    },
+    {
+      "name": "xsoy14",
+      "enabled": false
+    },
+    {
+      "name": "819sb",
+      "enabled": true
+    }
+  ]
+}
