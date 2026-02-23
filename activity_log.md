@@ -1435,3 +1435,4 @@
 - [2026-02-23T07:05:29.402Z] Feat: Add support for multi-region clusters (#902)
 - [2026-02-23T07:05:30.379Z] Chore: Remove deprecated methods and clean up (#904)
 - [2026-02-23T07:05:30.807Z] Optimize: Minimize memory footprint of data structures (#905)
+- [2026-02-23T07:05:34.712Z] Docs: Update API documentation for v2 (#911)
