@@ -1,0 +1,37 @@
+{
+  "version": "0.12.35",
+  "timestamp": 1771831740873,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 26020,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-854-gv23ph",
+    "hash": "dtjqb7",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "rh0zrh",
+      "enabled": true
+    },
+    {
+      "name": "xywrsr",
+      "enabled": true
+    },
+    {
+      "name": "elboq8",
+      "enabled": false
+    },
+    {
+      "name": "9alnnb",
+      "enabled": false
+    },
+    {
+      "name": "9d7gwd",
+      "enabled": true
+    }
+  ]
+}
