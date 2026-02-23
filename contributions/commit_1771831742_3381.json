@@ -1,0 +1,37 @@
+{
+  "version": "4.4.5",
+  "timestamp": 1771831740849,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 34877,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-696-lo0wo",
+    "hash": "o5frqp",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "n14x9p",
+      "enabled": true
+    },
+    {
+      "name": "l45siq",
+      "enabled": true
+    },
+    {
+      "name": "k6bg28",
+      "enabled": false
+    },
+    {
+      "name": "s867gf",
+      "enabled": true
+    },
+    {
+      "name": "lcszi",
+      "enabled": true
+    }
+  ]
+}
