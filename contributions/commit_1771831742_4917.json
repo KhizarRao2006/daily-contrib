@@ -1,0 +1,37 @@
+{
+  "version": "4.12.3",
+  "timestamp": 1771831740744,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 21036,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-62-sn1oi4",
+    "hash": "yzp74e",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ex7dsa",
+      "enabled": true
+    },
+    {
+      "name": "367by5",
+      "enabled": true
+    },
+    {
+      "name": "k2jdyh",
+      "enabled": true
+    },
+    {
+      "name": "m0fu4b",
+      "enabled": true
+    },
+    {
+      "name": "28l5lx",
+      "enabled": false
+    }
+  ]
+}
