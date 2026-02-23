@@ -1,0 +1,37 @@
+{
+  "version": "4.17.53",
+  "timestamp": 1771831740829,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 10560,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-585-qn68h",
+    "hash": "xorgaf",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "4fbd5t",
+      "enabled": true
+    },
+    {
+      "name": "fakkgk",
+      "enabled": false
+    },
+    {
+      "name": "6o5cr",
+      "enabled": true
+    },
+    {
+      "name": "ses7wd",
+      "enabled": false
+    },
+    {
+      "name": "dlmq4",
+      "enabled": true
+    }
+  ]
+}
