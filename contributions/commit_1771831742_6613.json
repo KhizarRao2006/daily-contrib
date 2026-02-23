@@ -1,0 +1,37 @@
+{
+  "version": "0.4.96",
+  "timestamp": 1771831740795,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 28997,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-373-2daohu1",
+    "hash": "wn5c93",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "zg0raq",
+      "enabled": true
+    },
+    {
+      "name": "tszyxe",
+      "enabled": true
+    },
+    {
+      "name": "sry7e9",
+      "enabled": true
+    },
+    {
+      "name": "krimz",
+      "enabled": false
+    },
+    {
+      "name": "veber",
+      "enabled": true
+    }
+  ]
+}
