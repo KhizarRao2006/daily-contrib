@@ -1,0 +1,37 @@
+{
+  "version": "2.12.22",
+  "timestamp": 1771831740791,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 28739,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-339-2ltpvd",
+    "hash": "33kgev",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "sez1ts",
+      "enabled": true
+    },
+    {
+      "name": "ymg49d",
+      "enabled": false
+    },
+    {
+      "name": "fgnoko",
+      "enabled": false
+    },
+    {
+      "name": "r6xmar",
+      "enabled": true
+    },
+    {
+      "name": "2v553g",
+      "enabled": false
+    }
+  ]
+}
