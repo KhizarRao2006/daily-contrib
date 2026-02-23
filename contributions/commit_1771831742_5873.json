@@ -1,0 +1,37 @@
+{
+  "version": "0.14.44",
+  "timestamp": 1771831740874,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 26217,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-857-bw8hk",
+    "hash": "ca234",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "61xdg",
+      "enabled": true
+    },
+    {
+      "name": "r87eg4",
+      "enabled": true
+    },
+    {
+      "name": "hgvjt",
+      "enabled": true
+    },
+    {
+      "name": "1bjmr9",
+      "enabled": true
+    },
+    {
+      "name": "1rp5ug",
+      "enabled": true
+    }
+  ]
+}
