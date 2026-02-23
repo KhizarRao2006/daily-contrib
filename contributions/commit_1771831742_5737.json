@@ -1,0 +1,37 @@
+{
+  "version": "3.12.74",
+  "timestamp": 1771831740884,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 17840,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-931-t56ps0o",
+    "hash": "91u6r",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "vryzl",
+      "enabled": false
+    },
+    {
+      "name": "bmpga",
+      "enabled": true
+    },
+    {
+      "name": "y11nh",
+      "enabled": false
+    },
+    {
+      "name": "rfkyt7",
+      "enabled": true
+    },
+    {
+      "name": "2lgxsv",
+      "enabled": true
+    }
+  ]
+}
