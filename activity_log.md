@@ -1719,3 +1719,4 @@
 - [2026-02-23T07:13:48.584Z] Docs: Update API documentation for v2 (#1617)
 - [2026-02-23T07:13:49.659Z] Chore: Upgrade dependencies to latest stable (#1619)
 - [2026-02-23T07:13:50.183Z] Feat: Implement dark mode support (#1620)
+- [2026-02-23T07:13:52.797Z] Fix: Resolve race condition in auth flow (#1625)
