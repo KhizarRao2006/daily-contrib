@@ -1,0 +1,37 @@
+{
+  "version": "4.15.57",
+  "timestamp": 1771831740789,
+  "config": {
+    "parallel": true,
+    "workers": 5,
+    "timeout": 14920,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-328-cwspz",
+    "hash": "ku77h",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "o7kxrq",
+      "enabled": true
+    },
+    {
+      "name": "w1zb3",
+      "enabled": true
+    },
+    {
+      "name": "eake1h",
+      "enabled": true
+    },
+    {
+      "name": "00f3ro",
+      "enabled": false
+    },
+    {
+      "name": "suqboc",
+      "enabled": false
+    }
+  ]
+}
