@@ -1,0 +1,37 @@
+{
+  "version": "4.2.2",
+  "timestamp": 1771831740785,
+  "config": {
+    "parallel": true,
+    "workers": 5,
+    "timeout": 16725,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-299-3vu6au",
+    "hash": "niski",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "81rl1a",
+      "enabled": false
+    },
+    {
+      "name": "r2dsi",
+      "enabled": false
+    },
+    {
+      "name": "vjyjn",
+      "enabled": false
+    },
+    {
+      "name": "8qinb",
+      "enabled": false
+    },
+    {
+      "name": "2ftwr",
+      "enabled": true
+    }
+  ]
+}
