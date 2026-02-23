@@ -1377,3 +1377,4 @@
 - [2026-02-23T07:04:02.863Z] Fix: Resolve race condition in auth flow (#737)
 - [2026-02-23T07:04:03.383Z] Feat: Implement dark mode support (#738)
 - [2026-02-23T07:04:04.288Z] Improve: Enhance state management with better scoping (#740)
+- [2026-02-23T07:04:07.844Z] Docs: Update API documentation for v2 (#746)
