@@ -1,0 +1,37 @@
+{
+  "version": "2.17.7",
+  "timestamp": 1771831740804,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 17241,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-430-la6ic8",
+    "hash": "33nbts",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "86ullm",
+      "enabled": false
+    },
+    {
+      "name": "ea1fdb",
+      "enabled": false
+    },
+    {
+      "name": "fcu65c",
+      "enabled": true
+    },
+    {
+      "name": "dcevpk",
+      "enabled": false
+    },
+    {
+      "name": "xn7qgv",
+      "enabled": false
+    }
+  ]
+}
