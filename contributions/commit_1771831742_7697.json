@@ -1,0 +1,37 @@
+{
+  "version": "2.4.50",
+  "timestamp": 1771831740790,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 21662,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-338-2m2eog",
+    "hash": "f9v8ob",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "v8ilrm",
+      "enabled": false
+    },
+    {
+      "name": "zqbqgg",
+      "enabled": false
+    },
+    {
+      "name": "oviwl",
+      "enabled": true
+    },
+    {
+      "name": "smh14v",
+      "enabled": true
+    },
+    {
+      "name": "dh9hf",
+      "enabled": true
+    }
+  ]
+}
