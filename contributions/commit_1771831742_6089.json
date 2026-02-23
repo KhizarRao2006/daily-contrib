@@ -1,0 +1,37 @@
+{
+  "version": "4.11.73",
+  "timestamp": 1771831740735,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 20075,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-9-qz9jw",
+    "hash": "7dwytv",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "lso4rd",
+      "enabled": true
+    },
+    {
+      "name": "ovv03a",
+      "enabled": true
+    },
+    {
+      "name": "cr2kid",
+      "enabled": true
+    },
+    {
+      "name": "afwra",
+      "enabled": false
+    },
+    {
+      "name": "0n7wal",
+      "enabled": false
+    }
+  ]
+}
