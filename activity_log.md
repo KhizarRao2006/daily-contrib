@@ -1158,3 +1158,4 @@
 - [2026-02-23T06:59:31.675Z] Update: Refresh dependencies for security compliance (#209)
 - [2026-02-23T06:59:33.313Z] Docs: Clarify installation steps in README (#212)
 - [2026-02-23T06:59:34.185Z] Test: Increase coverage for edge cases in parser (#214)
+- [2026-02-23T06:59:36.066Z] Feat: Add support for multi-region clusters (#217)
