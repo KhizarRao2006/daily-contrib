@@ -1,0 +1,37 @@
+{
+  "version": "2.15.70",
+  "timestamp": 1771831740769,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 17846,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-206-6lrql",
+    "hash": "o5clek",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "oiqeq",
+      "enabled": false
+    },
+    {
+      "name": "nobhqm",
+      "enabled": true
+    },
+    {
+      "name": "zir6g2",
+      "enabled": true
+    },
+    {
+      "name": "yrfywa",
+      "enabled": true
+    },
+    {
+      "name": "tftad",
+      "enabled": false
+    }
+  ]
+}
