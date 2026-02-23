@@ -1,0 +1,37 @@
+{
+  "version": "3.14.17",
+  "timestamp": 1771831740889,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 11508,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-962-65d7re",
+    "hash": "cfj6pa",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "sd5n28",
+      "enabled": true
+    },
+    {
+      "name": "7inqbh",
+      "enabled": true
+    },
+    {
+      "name": "ouds1g",
+      "enabled": true
+    },
+    {
+      "name": "bru1",
+      "enabled": true
+    },
+    {
+      "name": "rhfhyd",
+      "enabled": false
+    }
+  ]
+}
