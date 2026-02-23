@@ -1,0 +1,37 @@
+{
+  "version": "1.4.18",
+  "timestamp": 1771831740856,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 34411,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-729-b3kbzm",
+    "hash": "cerpqf",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "umlmto",
+      "enabled": true
+    },
+    {
+      "name": "b7ccp",
+      "enabled": true
+    },
+    {
+      "name": "9z3sf",
+      "enabled": true
+    },
+    {
+      "name": "tqmlnl",
+      "enabled": false
+    },
+    {
+      "name": "9vey0h",
+      "enabled": false
+    }
+  ]
+}
