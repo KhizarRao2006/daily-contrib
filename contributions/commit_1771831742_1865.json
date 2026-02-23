@@ -1,0 +1,37 @@
+{
+  "version": "0.19.24",
+  "timestamp": 1771831740795,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 5128,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-371-p7od4a",
+    "hash": "lryyk6",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "olgme7",
+      "enabled": true
+    },
+    {
+      "name": "8iblwf",
+      "enabled": true
+    },
+    {
+      "name": "pamln4",
+      "enabled": true
+    },
+    {
+      "name": "vbi01c",
+      "enabled": false
+    },
+    {
+      "name": "tayecv",
+      "enabled": true
+    }
+  ]
+}
