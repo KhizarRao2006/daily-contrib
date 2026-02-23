@@ -1,0 +1,37 @@
+{
+  "version": "3.13.98",
+  "timestamp": 1771831740830,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 27494,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-589-eq1cpg",
+    "hash": "zbkxi",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "mzqgin",
+      "enabled": true
+    },
+    {
+      "name": "ndqt6",
+      "enabled": true
+    },
+    {
+      "name": "vma1cl",
+      "enabled": false
+    },
+    {
+      "name": "strpy",
+      "enabled": true
+    },
+    {
+      "name": "32n14a",
+      "enabled": false
+    }
+  ]
+}
