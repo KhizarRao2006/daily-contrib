@@ -1,0 +1,37 @@
+{
+  "version": "2.4.49",
+  "timestamp": 1771831740799,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 27520,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-396-5obhls",
+    "hash": "osp9v",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "e7gyrj",
+      "enabled": true
+    },
+    {
+      "name": "vwzhy",
+      "enabled": false
+    },
+    {
+      "name": "05n00l",
+      "enabled": true
+    },
+    {
+      "name": "7aoiln",
+      "enabled": false
+    },
+    {
+      "name": "bte6xe",
+      "enabled": true
+    }
+  ]
+}
