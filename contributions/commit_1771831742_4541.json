@@ -1,0 +1,37 @@
+{
+  "version": "4.10.27",
+  "timestamp": 1771831740869,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 19604,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-825-787wlq",
+    "hash": "55z00f",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "tt18op",
+      "enabled": true
+    },
+    {
+      "name": "o1w2i",
+      "enabled": false
+    },
+    {
+      "name": "6ugb4o",
+      "enabled": true
+    },
+    {
+      "name": "j1ek5s",
+      "enabled": true
+    },
+    {
+      "name": "ydpte",
+      "enabled": true
+    }
+  ]
+}
