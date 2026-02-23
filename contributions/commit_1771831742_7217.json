@@ -1,0 +1,37 @@
+{
+  "version": "4.1.28",
+  "timestamp": 1771831740836,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 7558,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-624-tro04",
+    "hash": "jitqe",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "u1scg",
+      "enabled": false
+    },
+    {
+      "name": "yoi1y",
+      "enabled": true
+    },
+    {
+      "name": "hq3zm",
+      "enabled": false
+    },
+    {
+      "name": "y4gvr",
+      "enabled": false
+    },
+    {
+      "name": "86lc8j",
+      "enabled": false
+    }
+  ]
+}
