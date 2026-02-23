@@ -1735,3 +1735,4 @@
 - [2026-02-23T07:14:12.199Z] Streamline: Simplify internal routing logic (#1663)
 - [2026-02-23T07:14:13.157Z] Implement: Add validation for incoming payloads (#1665)
 - [2026-02-23T07:14:16.849Z] Docs: Update API documentation for v2 (#1672)
+- [2026-02-23T07:14:17.894Z] Docs: Clarify installation steps in README (#1674)
