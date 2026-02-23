@@ -1,0 +1,37 @@
+{
+  "version": "3.8.92",
+  "timestamp": 1771831740824,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 13203,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-567-5z9nf",
+    "hash": "4ajcg",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "nnlnom",
+      "enabled": true
+    },
+    {
+      "name": "bnxofm",
+      "enabled": true
+    },
+    {
+      "name": "qxmpwp",
+      "enabled": false
+    },
+    {
+      "name": "hojrca",
+      "enabled": true
+    },
+    {
+      "name": "0nke69",
+      "enabled": true
+    }
+  ]
+}
