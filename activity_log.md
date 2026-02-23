@@ -1614,3 +1614,4 @@
 - [2026-02-23T07:11:34.628Z] Feat: Implement dark mode support (#1355)
 - [2026-02-23T07:11:35.723Z] Modernize: Transition to ES2023 features (#1357)
 - [2026-02-23T07:11:36.293Z] Docs: Update API documentation for v2 (#1358)
+- [2026-02-23T07:11:36.743Z] Docs: Clarify installation steps in README (#1359)
