@@ -1,0 +1,37 @@
+{
+  "version": "2.11.94",
+  "timestamp": 1771831740816,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 14738,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-513-qh6dqh",
+    "hash": "s0en6b",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "chujqt",
+      "enabled": true
+    },
+    {
+      "name": "ftov0i",
+      "enabled": true
+    },
+    {
+      "name": "vb87if",
+      "enabled": false
+    },
+    {
+      "name": "dytsm",
+      "enabled": true
+    },
+    {
+      "name": "abmeaq",
+      "enabled": true
+    }
+  ]
+}
