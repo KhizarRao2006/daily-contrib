@@ -1,0 +1,37 @@
+{
+  "version": "1.8.37",
+  "timestamp": 1771831740798,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 5885,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-392-ue96co",
+    "hash": "l0kjon",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "o3h2c",
+      "enabled": true
+    },
+    {
+      "name": "ldsil",
+      "enabled": true
+    },
+    {
+      "name": "co5xoo",
+      "enabled": false
+    },
+    {
+      "name": "kgc88",
+      "enabled": true
+    },
+    {
+      "name": "2xs324",
+      "enabled": false
+    }
+  ]
+}
