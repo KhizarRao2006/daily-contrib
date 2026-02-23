@@ -1,0 +1,37 @@
+{
+  "version": "1.10.20",
+  "timestamp": 1771831740743,
+  "config": {
+    "parallel": true,
+    "workers": 7,
+    "timeout": 33185,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-58-17m6i9",
+    "hash": "ioxos",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "gitnr",
+      "enabled": true
+    },
+    {
+      "name": "nhyix",
+      "enabled": true
+    },
+    {
+      "name": "861fav",
+      "enabled": true
+    },
+    {
+      "name": "kopamb",
+      "enabled": false
+    },
+    {
+      "name": "6ua7vd",
+      "enabled": true
+    }
+  ]
+}
