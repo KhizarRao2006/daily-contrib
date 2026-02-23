@@ -1,0 +1,37 @@
+{
+  "version": "3.9.12",
+  "timestamp": 1771831740767,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 26643,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-191-oz5iy",
+    "hash": "ylv3qf",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "grdpbc",
+      "enabled": true
+    },
+    {
+      "name": "agbzjl",
+      "enabled": true
+    },
+    {
+      "name": "002mz8e",
+      "enabled": false
+    },
+    {
+      "name": "fqxoeo",
+      "enabled": false
+    },
+    {
+      "name": "mnhyle",
+      "enabled": false
+    }
+  ]
+}
