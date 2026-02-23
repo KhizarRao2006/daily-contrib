@@ -1700,3 +1700,4 @@
 - [2026-02-23T07:13:23.154Z] Optimize: Minimize memory footprint of data structures (#1569)
 - [2026-02-23T07:13:24.749Z] Refine: Smooth out CSS transitions (#1572)
 - [2026-02-23T07:13:25.301Z] Improve: Enhance state management with better scoping (#1573)
+- [2026-02-23T07:13:26.728Z] Docs: Clarify installation steps in README (#1576)
