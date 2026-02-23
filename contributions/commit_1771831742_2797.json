@@ -1,0 +1,37 @@
+{
+  "version": "0.14.54",
+  "timestamp": 1771831740865,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 12969,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-795-omx0b",
+    "hash": "4bad8p",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "wlzn6",
+      "enabled": false
+    },
+    {
+      "name": "5kmnfm",
+      "enabled": true
+    },
+    {
+      "name": "p3ue8en",
+      "enabled": true
+    },
+    {
+      "name": "7pal34",
+      "enabled": false
+    },
+    {
+      "name": "jbp9ub",
+      "enabled": true
+    }
+  ]
+}
