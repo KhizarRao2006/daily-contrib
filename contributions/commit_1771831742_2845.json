@@ -1,0 +1,37 @@
+{
+  "version": "1.4.24",
+  "timestamp": 1771831740890,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 10925,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-967-8wfv2r",
+    "hash": "ougiem",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "33mu2n",
+      "enabled": false
+    },
+    {
+      "name": "twz3mb",
+      "enabled": true
+    },
+    {
+      "name": "tpehnn",
+      "enabled": true
+    },
+    {
+      "name": "0sogpg",
+      "enabled": true
+    },
+    {
+      "name": "x8ejl",
+      "enabled": false
+    }
+  ]
+}
