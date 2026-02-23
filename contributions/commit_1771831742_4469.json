@@ -1,0 +1,37 @@
+{
+  "version": "2.4.59",
+  "timestamp": 1771831740777,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 34850,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-260-l681as",
+    "hash": "zu9dz4",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "y1jg4",
+      "enabled": false
+    },
+    {
+      "name": "sid6qd",
+      "enabled": true
+    },
+    {
+      "name": "u05xhr",
+      "enabled": true
+    },
+    {
+      "name": "g613uo",
+      "enabled": false
+    },
+    {
+      "name": "ylhfqi",
+      "enabled": false
+    }
+  ]
+}
