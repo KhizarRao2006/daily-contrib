@@ -1,0 +1,37 @@
+{
+  "version": "0.5.86",
+  "timestamp": 1771831740810,
+  "config": {
+    "parallel": true,
+    "workers": 5,
+    "timeout": 22910,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-473-g16pyi",
+    "hash": "2yv1sf",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "8u4z7l",
+      "enabled": false
+    },
+    {
+      "name": "nn4icf",
+      "enabled": false
+    },
+    {
+      "name": "khs6c",
+      "enabled": true
+    },
+    {
+      "name": "xpsrsq",
+      "enabled": false
+    },
+    {
+      "name": "1ar76k",
+      "enabled": true
+    }
+  ]
+}
