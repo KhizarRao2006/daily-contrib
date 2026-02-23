@@ -1,0 +1,37 @@
+{
+  "version": "3.2.64",
+  "timestamp": 1771831740865,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 29299,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-797-5jix7m",
+    "hash": "8i8fec",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "aofczy",
+      "enabled": true
+    },
+    {
+      "name": "8ovhuf",
+      "enabled": true
+    },
+    {
+      "name": "rdnc6m",
+      "enabled": true
+    },
+    {
+      "name": "x6tn3s",
+      "enabled": false
+    },
+    {
+      "name": "179e3e",
+      "enabled": false
+    }
+  ]
+}
