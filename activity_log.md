@@ -1317,3 +1317,4 @@
 - [2026-02-23T07:02:57.381Z] Docs: Clarify installation steps in README (#608)
 - [2026-02-23T07:02:58.549Z] Style: Modernize UI components with better spacing (#610)
 - [2026-02-23T07:02:58.986Z] Perf: Improve database query execution time (#611)
+- [2026-02-23T07:02:59.992Z] Feat: Add support for multi-region clusters (#613)
