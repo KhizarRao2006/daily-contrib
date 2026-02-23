@@ -1,0 +1,37 @@
+{
+  "version": "2.14.88",
+  "timestamp": 1771831740802,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 24423,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-415-r3ljzm",
+    "hash": "v9l8mp",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "m2uraj",
+      "enabled": true
+    },
+    {
+      "name": "adjuxe",
+      "enabled": true
+    },
+    {
+      "name": "p0bi73",
+      "enabled": false
+    },
+    {
+      "name": "skkyy",
+      "enabled": true
+    },
+    {
+      "name": "mrm7a",
+      "enabled": false
+    }
+  ]
+}
