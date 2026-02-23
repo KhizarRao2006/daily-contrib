@@ -1,0 +1,37 @@
+{
+  "version": "4.13.20",
+  "timestamp": 1771831740785,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 10500,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-300-sprq7g",
+    "hash": "q5vshs2l",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "gab2fc",
+      "enabled": true
+    },
+    {
+      "name": "4y8ph",
+      "enabled": true
+    },
+    {
+      "name": "2jba3z",
+      "enabled": true
+    },
+    {
+      "name": "vs4mkb",
+      "enabled": true
+    },
+    {
+      "name": "9t4mea",
+      "enabled": false
+    }
+  ]
+}
