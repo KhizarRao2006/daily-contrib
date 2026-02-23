@@ -1,0 +1,37 @@
+{
+  "version": "3.13.25",
+  "timestamp": 1771831740809,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 32272,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-464-i4i8tr",
+    "hash": "g5fnej",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "pmzhz",
+      "enabled": true
+    },
+    {
+      "name": "ckyfyu",
+      "enabled": true
+    },
+    {
+      "name": "nkp3m",
+      "enabled": true
+    },
+    {
+      "name": "e6reof",
+      "enabled": false
+    },
+    {
+      "name": "9eby9l",
+      "enabled": true
+    }
+  ]
+}
