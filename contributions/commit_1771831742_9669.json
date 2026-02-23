@@ -1,0 +1,37 @@
+{
+  "version": "0.5.17",
+  "timestamp": 1771831740872,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 29403,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-844-rpzf6h",
+    "hash": "ynm0v",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "5viglm",
+      "enabled": false
+    },
+    {
+      "name": "mz7nqk",
+      "enabled": true
+    },
+    {
+      "name": "6qyptg",
+      "enabled": false
+    },
+    {
+      "name": "cm36l4",
+      "enabled": true
+    },
+    {
+      "name": "zo9a3b",
+      "enabled": true
+    }
+  ]
+}
