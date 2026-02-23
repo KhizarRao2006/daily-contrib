@@ -1,0 +1,37 @@
+{
+  "version": "2.4.99",
+  "timestamp": 1771831324645,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 33440,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-391-swj28m",
+    "hash": "oipz7",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "nshu0o",
+      "enabled": true
+    },
+    {
+      "name": "cmpnf",
+      "enabled": true
+    },
+    {
+      "name": "1qgus",
+      "enabled": false
+    },
+    {
+      "name": "9h9vw5",
+      "enabled": true
+    },
+    {
+      "name": "xmrxvp",
+      "enabled": true
+    }
+  ]
+}
