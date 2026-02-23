@@ -1,0 +1,37 @@
+{
+  "version": "3.1.39",
+  "timestamp": 1771831740768,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 28861,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-201-ixhogk",
+    "hash": "kl75d",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "glww4",
+      "enabled": false
+    },
+    {
+      "name": "12o049",
+      "enabled": false
+    },
+    {
+      "name": "glnjkw",
+      "enabled": false
+    },
+    {
+      "name": "jzn0cc",
+      "enabled": true
+    },
+    {
+      "name": "2ofjzn",
+      "enabled": true
+    }
+  ]
+}
