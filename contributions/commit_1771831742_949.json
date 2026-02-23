@@ -1,0 +1,37 @@
+{
+  "version": "1.10.42",
+  "timestamp": 1771831740860,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 7565,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-760-xjd72o",
+    "hash": "yhqzik",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "lxxk4",
+      "enabled": true
+    },
+    {
+      "name": "g3rbg",
+      "enabled": true
+    },
+    {
+      "name": "5sf1zg",
+      "enabled": false
+    },
+    {
+      "name": "gbnnrq",
+      "enabled": true
+    },
+    {
+      "name": "cbbjc7",
+      "enabled": true
+    }
+  ]
+}
