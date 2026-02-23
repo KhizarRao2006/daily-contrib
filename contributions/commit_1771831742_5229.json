@@ -1,0 +1,37 @@
+{
+  "version": "0.14.42",
+  "timestamp": 1771831740807,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 23057,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-452-c96iha",
+    "hash": "qftla8",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "nlv17n",
+      "enabled": true
+    },
+    {
+      "name": "wfi72",
+      "enabled": true
+    },
+    {
+      "name": "3v9byxi",
+      "enabled": false
+    },
+    {
+      "name": "8qi0d7",
+      "enabled": true
+    },
+    {
+      "name": "aany2m",
+      "enabled": false
+    }
+  ]
+}
