@@ -1,0 +1,37 @@
+{
+  "version": "1.18.99",
+  "timestamp": 1771831740842,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 14065,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-658-5s3vj",
+    "hash": "brcf5",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "n92s19",
+      "enabled": true
+    },
+    {
+      "name": "tni0nk",
+      "enabled": false
+    },
+    {
+      "name": "mgh21j",
+      "enabled": false
+    },
+    {
+      "name": "n0ssc",
+      "enabled": false
+    },
+    {
+      "name": "a6hysc",
+      "enabled": false
+    }
+  ]
+}
