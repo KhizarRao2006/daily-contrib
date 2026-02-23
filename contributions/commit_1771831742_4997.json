@@ -1,0 +1,37 @@
+{
+  "version": "4.14.86",
+  "timestamp": 1771831740835,
+  "config": {
+    "parallel": true,
+    "workers": 2,
+    "timeout": 16536,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-616-8egv3d",
+    "hash": "803jri",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "dior7h",
+      "enabled": false
+    },
+    {
+      "name": "bqqs58",
+      "enabled": false
+    },
+    {
+      "name": "nugdpf",
+      "enabled": true
+    },
+    {
+      "name": "4yuuqqr",
+      "enabled": true
+    },
+    {
+      "name": "zoily",
+      "enabled": true
+    }
+  ]
+}
