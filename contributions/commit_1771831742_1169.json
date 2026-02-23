@@ -1,0 +1,37 @@
+{
+  "version": "1.1.43",
+  "timestamp": 1771831740870,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 13320,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-836-srw653",
+    "hash": "8oqgkc",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "6jltgo",
+      "enabled": true
+    },
+    {
+      "name": "xit8h4",
+      "enabled": false
+    },
+    {
+      "name": "1ro9i",
+      "enabled": true
+    },
+    {
+      "name": "2uikv",
+      "enabled": true
+    },
+    {
+      "name": "10tzqe",
+      "enabled": false
+    }
+  ]
+}
