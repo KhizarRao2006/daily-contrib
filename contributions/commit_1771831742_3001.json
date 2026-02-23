@@ -1,0 +1,37 @@
+{
+  "version": "4.17.75",
+  "timestamp": 1771831740860,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 13926,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-759-qmevre",
+    "hash": "a7l814",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "043wp3",
+      "enabled": true
+    },
+    {
+      "name": "kua39k",
+      "enabled": true
+    },
+    {
+      "name": "w07o2",
+      "enabled": false
+    },
+    {
+      "name": "m9j6c9",
+      "enabled": false
+    },
+    {
+      "name": "9hhusc",
+      "enabled": true
+    }
+  ]
+}
