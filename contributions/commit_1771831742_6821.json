@@ -1,0 +1,37 @@
+{
+  "version": "1.14.21",
+  "timestamp": 1771831740809,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 34445,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-468-jueko7",
+    "hash": "vbbh6h",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "exhol",
+      "enabled": true
+    },
+    {
+      "name": "ospflf",
+      "enabled": false
+    },
+    {
+      "name": "in1xll",
+      "enabled": true
+    },
+    {
+      "name": "8lntds",
+      "enabled": false
+    },
+    {
+      "name": "wosp8d",
+      "enabled": true
+    }
+  ]
+}
