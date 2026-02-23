@@ -1348,3 +1348,4 @@
 - [2026-02-23T07:03:29.029Z] Modernize: Transition to ES2023 features (#670)
 - [2026-02-23T07:03:31.262Z] Test: Increase coverage for edge cases in parser (#674)
 - [2026-02-23T07:03:32.707Z] Update: Refresh dependencies for security compliance (#677)
+- [2026-02-23T07:03:33.707Z] Chore: Remove deprecated methods and clean up (#679)
