@@ -1,0 +1,37 @@
+{
+  "version": "2.4.60",
+  "timestamp": 1771831740836,
+  "config": {
+    "parallel": true,
+    "workers": 4,
+    "timeout": 7749,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-623-diuscp",
+    "hash": "e17qkx",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "kj8i1s",
+      "enabled": true
+    },
+    {
+      "name": "n8mqoho",
+      "enabled": true
+    },
+    {
+      "name": "upyv33",
+      "enabled": false
+    },
+    {
+      "name": "yccya",
+      "enabled": false
+    },
+    {
+      "name": "stygv",
+      "enabled": true
+    }
+  ]
+}
