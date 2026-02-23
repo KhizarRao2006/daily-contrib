@@ -1,0 +1,37 @@
+{
+  "version": "4.10.41",
+  "timestamp": 1771831324642,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 19717,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-369-sxwdk8",
+    "hash": "vfhh",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "lfschb",
+      "enabled": false
+    },
+    {
+      "name": "gai34m",
+      "enabled": true
+    },
+    {
+      "name": "tuirh6",
+      "enabled": true
+    },
+    {
+      "name": "vbl3mk",
+      "enabled": true
+    },
+    {
+      "name": "pxgsrm",
+      "enabled": false
+    }
+  ]
+}
