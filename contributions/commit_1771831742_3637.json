@@ -1,0 +1,37 @@
+{
+  "version": "2.7.20",
+  "timestamp": 1771831740875,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 28724,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-867-3o88u5h",
+    "hash": "ka08f",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "1m0mx",
+      "enabled": true
+    },
+    {
+      "name": "ekj79t",
+      "enabled": false
+    },
+    {
+      "name": "wpi8w",
+      "enabled": false
+    },
+    {
+      "name": "8gps98",
+      "enabled": true
+    },
+    {
+      "name": "k2ngwl",
+      "enabled": false
+    }
+  ]
+}
