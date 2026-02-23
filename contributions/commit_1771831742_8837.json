@@ -1,0 +1,37 @@
+{
+  "version": "3.2.21",
+  "timestamp": 1771831740868,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 9471,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-816-hgvgd",
+    "hash": "73ocxn",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "c08j7n",
+      "enabled": false
+    },
+    {
+      "name": "obg6p",
+      "enabled": false
+    },
+    {
+      "name": "gdrew",
+      "enabled": false
+    },
+    {
+      "name": "usy85c",
+      "enabled": false
+    },
+    {
+      "name": "aqpxqf",
+      "enabled": true
+    }
+  ]
+}
