@@ -1,0 +1,37 @@
+{
+  "version": "2.1.2",
+  "timestamp": 1771831740735,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 5825,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-8-xq40s4",
+    "hash": "tnbey5",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "j9cxa",
+      "enabled": true
+    },
+    {
+      "name": "s9xaml",
+      "enabled": true
+    },
+    {
+      "name": "8bdcz",
+      "enabled": true
+    },
+    {
+      "name": "yz3sqa",
+      "enabled": true
+    },
+    {
+      "name": "u08r9n",
+      "enabled": false
+    }
+  ]
+}
