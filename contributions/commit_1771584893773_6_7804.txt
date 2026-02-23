@@ -1,2 +1,0 @@
-// Update 7804
-console.log("version: c043ac96869a3b45");

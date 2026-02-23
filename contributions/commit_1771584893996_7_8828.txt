@@ -1,2 +1,0 @@
-// Update 8828
-console.log("version: 975ecac974102854");

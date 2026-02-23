@@ -1,2 +1,0 @@
-// Update 9232
-console.log("version: 7eb730a786507b7d");

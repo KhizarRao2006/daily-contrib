@@ -1,2 +1,0 @@
-// Update 2776
-console.log("version: ac3ab1771efb679b");

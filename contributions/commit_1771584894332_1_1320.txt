@@ -1,2 +1,0 @@
-// Update 1320
-console.log("version: c7aaff7aa8e1e7f2");

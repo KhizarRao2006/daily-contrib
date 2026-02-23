@@ -1,2 +1,0 @@
-// Update 8940
-console.log("version: 27c43288bfdea2e3");

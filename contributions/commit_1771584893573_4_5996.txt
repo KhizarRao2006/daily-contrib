@@ -1,2 +1,0 @@
-// Update 5996
-console.log("version: cd3f5616db765d7f");

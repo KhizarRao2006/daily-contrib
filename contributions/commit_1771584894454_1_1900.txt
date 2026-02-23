@@ -1,2 +1,0 @@
-// Update 1900
-console.log("version: bfdab935af2eebb5");

@@ -1,2 +1,0 @@
-// Update 712
-console.log("version: fa07a2e2f627ab2e");

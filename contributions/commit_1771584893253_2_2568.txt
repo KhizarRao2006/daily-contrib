@@ -1,2 +1,0 @@
-// Update 2568
-console.log("version: 29d51bfd360f29d0");

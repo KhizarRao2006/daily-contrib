@@ -1,2 +1,0 @@
-// Update 1964
-console.log("version: e220d476ff82e899");

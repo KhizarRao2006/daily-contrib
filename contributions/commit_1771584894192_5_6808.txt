@@ -1,2 +1,0 @@
-// Update 6808
-console.log("version: 354b572a5143f882");

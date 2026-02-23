@@ -1,2 +1,0 @@
-// Update 3924
-console.log("version: 5dfe911b45b7b569");

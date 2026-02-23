@@ -1,2 +1,0 @@
-// Update 4492
-console.log("version: 6c7066904ed80136");

@@ -1,2 +1,0 @@
-// Update 6196
-console.log("version: c200f70a2906f500");

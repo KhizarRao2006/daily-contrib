@@ -1,2 +1,0 @@
-// Update 1996
-console.log("version: ff488bc346da8c2c");

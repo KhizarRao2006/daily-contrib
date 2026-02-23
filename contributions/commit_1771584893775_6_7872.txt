@@ -1,2 +1,0 @@
-// Update 7872
-console.log("version: c21bb17745df4368");

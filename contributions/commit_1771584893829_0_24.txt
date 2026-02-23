@@ -1,2 +1,0 @@
-// Update 24
-console.log("version: 444cd23c08178b74");

@@ -1,2 +1,0 @@
-// Update 8900
-console.log("version: 6f1dbed871653374");

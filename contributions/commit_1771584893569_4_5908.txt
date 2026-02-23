@@ -1,2 +1,0 @@
-// Update 5908
-console.log("version: 6e7aeef0d6e6f5cb");

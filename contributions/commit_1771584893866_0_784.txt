@@ -1,2 +1,0 @@
-// Update 784
-console.log("version: 4179545c80f6aaaf");

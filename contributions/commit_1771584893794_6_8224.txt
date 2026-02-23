@@ -1,2 +1,0 @@
-// Update 8224
-console.log("version: 306f521ab476f37b");

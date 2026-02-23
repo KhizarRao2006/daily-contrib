@@ -1,2 +1,0 @@
-// Update 4728
-console.log("version: db9a101f6820ad44");

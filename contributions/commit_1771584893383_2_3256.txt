@@ -1,2 +1,0 @@
-// Update 3256
-console.log("version: cd27a112f4b14fb0");

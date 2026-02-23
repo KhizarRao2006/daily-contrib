@@ -1,2 +1,0 @@
-// Update 1384
-console.log("version: bec83e1355a760e9");

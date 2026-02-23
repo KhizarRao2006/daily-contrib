@@ -1,2 +1,0 @@
-// Update 2048
-console.log("version: 5a202059e58f3a8a");

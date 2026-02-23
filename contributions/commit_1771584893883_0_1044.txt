@@ -1,2 +1,0 @@
-// Update 1044
-console.log("version: 4660ef6604e6baec");

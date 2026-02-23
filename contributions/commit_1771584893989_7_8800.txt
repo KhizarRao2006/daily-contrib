@@ -1,2 +1,0 @@
-// Update 8800
-console.log("version: 42c5bbd6f35cc330");

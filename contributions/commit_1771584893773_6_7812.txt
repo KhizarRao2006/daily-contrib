@@ -1,2 +1,0 @@
-// Update 7812
-console.log("version: bf2f598746d2626f");

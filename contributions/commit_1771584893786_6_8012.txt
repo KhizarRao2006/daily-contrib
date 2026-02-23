@@ -1,2 +1,0 @@
-// Update 8012
-console.log("version: 6701a6e43e892fa9");

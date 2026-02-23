@@ -1,2 +1,0 @@
-// Update 9972
-console.log("version: fb472c951b2460a8");

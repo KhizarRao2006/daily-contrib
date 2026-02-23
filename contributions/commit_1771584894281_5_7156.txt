@@ -1,2 +1,0 @@
-// Update 7156
-console.log("version: 00c3926add73c7cd");

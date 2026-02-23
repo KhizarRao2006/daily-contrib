@@ -1,2 +1,0 @@
-// Update 2932
-console.log("version: ff22348d1a1025bc");

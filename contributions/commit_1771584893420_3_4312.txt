@@ -1,2 +1,0 @@
-// Update 4312
-console.log("version: ea7829a1e620ed87");

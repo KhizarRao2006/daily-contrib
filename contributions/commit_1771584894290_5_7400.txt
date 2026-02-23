@@ -1,2 +1,0 @@
-// Update 7400
-console.log("version: 875a1e6fbe286290");

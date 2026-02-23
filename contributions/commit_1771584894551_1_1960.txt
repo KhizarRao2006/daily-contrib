@@ -1,2 +1,0 @@
-// Update 1960
-console.log("version: b2dc7a62a5a60bdb");

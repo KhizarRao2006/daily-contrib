@@ -1,2 +1,0 @@
-// Update 5660
-console.log("version: 336c73281cb706d3");

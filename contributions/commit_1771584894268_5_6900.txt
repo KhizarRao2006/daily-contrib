@@ -1,2 +1,0 @@
-// Update 6900
-console.log("version: 3dd674536ec61b46");

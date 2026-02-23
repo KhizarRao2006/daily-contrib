@@ -1,2 +1,0 @@
-// Update 8748
-console.log("version: f429630fb605f1b8");

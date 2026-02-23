@@ -1,2 +1,0 @@
-// Update 2500
-console.log("version: c48fc228dc2e7c8a");

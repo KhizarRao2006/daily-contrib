@@ -1,2 +1,0 @@
-// Update 3412
-console.log("version: 8fa188ea7828659b");

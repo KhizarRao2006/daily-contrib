@@ -1,2 +1,0 @@
-// Update 7020
-console.log("version: e2f8f357ebd58d46");

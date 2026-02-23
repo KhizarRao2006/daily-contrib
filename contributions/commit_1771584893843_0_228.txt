@@ -1,2 +1,0 @@
-// Update 228
-console.log("version: 0642bdf6f83df2e3");

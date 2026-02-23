@@ -1,2 +1,0 @@
-// Update 1120
-console.log("version: cef510952c945d5c");

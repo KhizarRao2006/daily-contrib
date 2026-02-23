@@ -1,2 +1,0 @@
-// Update 7428
-console.log("version: 201694a8f63399e6");

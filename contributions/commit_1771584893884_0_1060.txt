@@ -1,2 +1,0 @@
-// Update 1060
-console.log("version: a693209bf47043f4");

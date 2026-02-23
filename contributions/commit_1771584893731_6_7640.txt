@@ -1,2 +1,0 @@
-// Update 7640
-console.log("version: 978e08ed26fe0393");

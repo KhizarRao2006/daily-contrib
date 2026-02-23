@@ -1,2 +1,0 @@
-// Update 9940
-console.log("version: fac85a93fe8cbfdc");

@@ -1,2 +1,0 @@
-// Update 700
-console.log("version: fc6336b286daa4eb");

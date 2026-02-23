@@ -1,2 +1,0 @@
-// Update 8080
-console.log("version: 022295e5cb5ad2e0");

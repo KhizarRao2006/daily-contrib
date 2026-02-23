@@ -1,2 +1,0 @@
-// Update 8684
-console.log("version: 4239bf105b4642d7");

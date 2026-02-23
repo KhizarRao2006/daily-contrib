@@ -1,2 +1,0 @@
-// Update 8524
-console.log("version: 85fc00ad351f6dfb");

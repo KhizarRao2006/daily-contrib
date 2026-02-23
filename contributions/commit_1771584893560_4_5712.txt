@@ -1,2 +1,0 @@
-// Update 5712
-console.log("version: d230d4c950dd60f9");

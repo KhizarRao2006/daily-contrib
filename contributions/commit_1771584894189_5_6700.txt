@@ -1,2 +1,0 @@
-// Update 6700
-console.log("version: 731e33c20a2fb94d");

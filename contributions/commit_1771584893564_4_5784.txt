@@ -1,2 +1,0 @@
-// Update 5784
-console.log("version: cf2570afe261ac1a");

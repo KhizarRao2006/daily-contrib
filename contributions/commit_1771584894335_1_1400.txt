@@ -1,2 +1,0 @@
-// Update 1400
-console.log("version: 5edb47ac6358081c");

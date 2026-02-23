@@ -1,2 +1,0 @@
-// Update 9580
-console.log("version: 77bf70a189d06c8f");

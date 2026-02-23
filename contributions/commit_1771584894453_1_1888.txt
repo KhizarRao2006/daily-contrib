@@ -1,2 +1,0 @@
-// Update 1888
-console.log("version: f9a8032000b94e83");

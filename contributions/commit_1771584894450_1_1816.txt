@@ -1,2 +1,0 @@
-// Update 1816
-console.log("version: d36dcb8f08690ddb");

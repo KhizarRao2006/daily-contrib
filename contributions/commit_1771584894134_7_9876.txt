@@ -1,2 +1,0 @@
-// Update 9876
-console.log("version: 7a241df603ff21a4");

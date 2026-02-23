@@ -1,2 +1,0 @@
-// Update 1504
-console.log("version: b9723ca8cfdaf4db");

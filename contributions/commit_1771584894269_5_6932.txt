@@ -1,2 +1,0 @@
-// Update 6932
-console.log("version: e93b6cb91a64eecd");

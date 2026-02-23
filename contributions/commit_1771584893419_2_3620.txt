@@ -1,2 +1,0 @@
-// Update 3620
-console.log("version: 52a2c3fd9aa1dff1");

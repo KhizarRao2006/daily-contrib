@@ -1,2 +1,0 @@
-// Update 2372
-console.log("version: dea2a2e65d11b622");

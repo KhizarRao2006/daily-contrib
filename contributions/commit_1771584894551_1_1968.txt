@@ -1,2 +1,0 @@
-// Update 1968
-console.log("version: fb7ce595c6ea451f");

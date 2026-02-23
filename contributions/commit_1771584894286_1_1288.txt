@@ -1,2 +1,0 @@
-// Update 1288
-console.log("version: 375c9e730840fff5");

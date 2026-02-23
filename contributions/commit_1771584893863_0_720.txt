@@ -1,2 +1,0 @@
-// Update 720
-console.log("version: bedca58035d4a8e5");

@@ -1,2 +1,0 @@
-// Update 3740
-console.log("version: f2f65ec2ee5aba23");

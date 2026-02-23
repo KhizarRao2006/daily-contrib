@@ -1,2 +1,0 @@
-// Update 1740
-console.log("version: b7ed2729f2cc6566");

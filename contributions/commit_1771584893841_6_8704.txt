@@ -1,2 +1,0 @@
-// Update 8704
-console.log("version: ff851b060f84c054");

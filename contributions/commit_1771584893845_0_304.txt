@@ -1,2 +1,0 @@
-// Update 304
-console.log("version: 99a0ee188367ed07");

@@ -1,2 +1,0 @@
-// Update 9416
-console.log("version: fc67ac3bd0315296");

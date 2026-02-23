@@ -1,2 +1,0 @@
-// Update 6052
-console.log("version: 06d2f1f8b31368f5");

@@ -1,2 +1,0 @@
-// Update 1304
-console.log("version: d5d4aea7b3b90b28");

@@ -1,2 +1,0 @@
-// Update 808
-console.log("version: 8e4e73ba75922c02");

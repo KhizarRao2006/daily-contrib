@@ -1,2 +1,0 @@
-// Update 1700
-console.log("version: 19e5756d0b2cb6d8");

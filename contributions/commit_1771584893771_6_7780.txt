@@ -1,2 +1,0 @@
-// Update 7780
-console.log("version: 4535572f400bdcf0");

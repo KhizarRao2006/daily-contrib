@@ -1,2 +1,0 @@
-// Update 1396
-console.log("version: b2a73ab8d10e9d5c");

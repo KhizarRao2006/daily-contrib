@@ -1,2 +1,0 @@
-// Update 40
-console.log("version: a1e325d161e97b18");

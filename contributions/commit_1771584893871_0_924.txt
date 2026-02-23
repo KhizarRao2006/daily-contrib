@@ -1,2 +1,0 @@
-// Update 924
-console.log("version: b48040260f1027ad");

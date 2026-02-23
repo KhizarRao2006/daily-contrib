@@ -1,2 +1,0 @@
-// Update 404
-console.log("version: f5cbab1241a74ccd");

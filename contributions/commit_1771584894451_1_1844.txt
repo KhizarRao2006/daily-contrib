@@ -1,2 +1,0 @@
-// Update 1844
-console.log("version: ed74e7473ff5888d");

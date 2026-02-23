@@ -1,2 +1,0 @@
-// Update 4920
-console.log("version: c30503291107ab01");

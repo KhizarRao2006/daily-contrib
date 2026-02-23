@@ -1,2 +1,0 @@
-// Update 6580
-console.log("version: c95a8d5352b06198");

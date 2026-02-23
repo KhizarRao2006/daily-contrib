@@ -1,2 +1,0 @@
-// Update 1280
-console.log("version: 414d307dbb90a1f6");

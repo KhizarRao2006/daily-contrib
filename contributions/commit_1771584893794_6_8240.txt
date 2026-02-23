@@ -1,2 +1,0 @@
-// Update 8240
-console.log("version: accb75dc88be68bc");

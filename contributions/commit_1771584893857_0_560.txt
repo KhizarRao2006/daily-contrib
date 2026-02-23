@@ -1,2 +1,0 @@
-// Update 560
-console.log("version: 658c350a5fd6c962");

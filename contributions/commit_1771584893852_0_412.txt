@@ -1,2 +1,0 @@
-// Update 412
-console.log("version: ee55b569735ab524");

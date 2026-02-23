@@ -1,2 +1,0 @@
-// Update 5704
-console.log("version: 30e2d99db5784d37");

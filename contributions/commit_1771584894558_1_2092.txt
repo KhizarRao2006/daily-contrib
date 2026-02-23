@@ -1,2 +1,0 @@
-// Update 2092
-console.log("version: f47ada043d1665f4");

@@ -1,2 +1,0 @@
-// Update 4940
-console.log("version: 0548016c018c24e2");

@@ -1,2 +1,0 @@
-// Update 428
-console.log("version: a5bb42ab0597c133");

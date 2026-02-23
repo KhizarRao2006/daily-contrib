@@ -1,2 +1,0 @@
-// Update 7236
-console.log("version: b8741f9bb2d3e879");

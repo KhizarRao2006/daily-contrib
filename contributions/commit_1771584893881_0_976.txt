@@ -1,2 +1,0 @@
-// Update 976
-console.log("version: a5c58daabc140c18");

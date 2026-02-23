@@ -1,2 +1,0 @@
-// Update 524
-console.log("version: edb11a54102066eb");

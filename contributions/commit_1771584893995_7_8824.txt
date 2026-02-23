@@ -1,2 +1,0 @@
-// Update 8824
-console.log("version: ec24e75da796f624");

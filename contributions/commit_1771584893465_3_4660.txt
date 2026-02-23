@@ -1,2 +1,0 @@
-// Update 4660
-console.log("version: afb943494a939c66");

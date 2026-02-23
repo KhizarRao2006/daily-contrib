@@ -1,2 +1,0 @@
-// Update 1216
-console.log("version: 8b560ab05925cb57");

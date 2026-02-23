@@ -1,2 +1,0 @@
-// Update 3856
-console.log("version: 426f521c35202335");

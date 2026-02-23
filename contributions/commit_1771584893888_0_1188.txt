@@ -1,2 +1,0 @@
-// Update 1188
-console.log("version: db97b50aba13f2aa");

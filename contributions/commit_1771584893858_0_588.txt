@@ -1,2 +1,0 @@
-// Update 588
-console.log("version: af4fdef86c5741f1");

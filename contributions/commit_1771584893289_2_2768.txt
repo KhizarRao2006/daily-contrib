@@ -1,2 +1,0 @@
-// Update 2768
-console.log("version: 96266ba2b52a225a");

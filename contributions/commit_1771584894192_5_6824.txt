@@ -1,2 +1,0 @@
-// Update 6824
-console.log("version: dcb3b0f41469cd92");

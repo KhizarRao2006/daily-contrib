@@ -1,2 +1,0 @@
-// Update 7012
-console.log("version: db87214637dbd2a0");

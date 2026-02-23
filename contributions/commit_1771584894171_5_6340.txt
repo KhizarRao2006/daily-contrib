@@ -1,2 +1,0 @@
-// Update 6340
-console.log("version: cd1e1dd31157d99b");

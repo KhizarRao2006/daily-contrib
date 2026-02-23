@@ -1,2 +1,0 @@
-// Update 9732
-console.log("version: c32625bad2e939f1");

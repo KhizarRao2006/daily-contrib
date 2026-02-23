@@ -1,2 +1,0 @@
-// Update 392
-console.log("version: f6cb5435c567a36a");

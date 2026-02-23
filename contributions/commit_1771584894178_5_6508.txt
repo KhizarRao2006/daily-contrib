@@ -1,2 +1,0 @@
-// Update 6508
-console.log("version: 8e32d21fc2c5d6fe");

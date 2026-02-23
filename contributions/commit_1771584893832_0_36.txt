@@ -1,2 +1,0 @@
-// Update 36
-console.log("version: efff6448d03ff449");

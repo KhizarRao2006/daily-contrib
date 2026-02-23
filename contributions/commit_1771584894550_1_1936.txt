@@ -1,2 +1,0 @@
-// Update 1936
-console.log("version: 0980c4d5c164424d");
