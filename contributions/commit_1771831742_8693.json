@@ -1,0 +1,37 @@
+{
+  "version": "0.14.9",
+  "timestamp": 1771831740826,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 8658,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-575-572y62",
+    "hash": "n59m5w",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "hv6qcf",
+      "enabled": true
+    },
+    {
+      "name": "m0o4n",
+      "enabled": true
+    },
+    {
+      "name": "qtu43m",
+      "enabled": true
+    },
+    {
+      "name": "8vy42i",
+      "enabled": true
+    },
+    {
+      "name": "setula",
+      "enabled": true
+    }
+  ]
+}
