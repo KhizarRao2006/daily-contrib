@@ -1,0 +1,37 @@
+{
+  "version": "4.18.12",
+  "timestamp": 1771831740762,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 15616,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-161-vmzlih",
+    "hash": "vkpbx8",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "3cryj",
+      "enabled": true
+    },
+    {
+      "name": "as3gpq",
+      "enabled": true
+    },
+    {
+      "name": "1wt7pc",
+      "enabled": true
+    },
+    {
+      "name": "ifa028",
+      "enabled": false
+    },
+    {
+      "name": "q0gjgu",
+      "enabled": false
+    }
+  ]
+}
