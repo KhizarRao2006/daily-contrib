@@ -1,0 +1,37 @@
+{
+  "version": "2.7.80",
+  "timestamp": 1771831740734,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 24414,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-5-0dao3",
+    "hash": "pk1in",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "fjlgiq",
+      "enabled": true
+    },
+    {
+      "name": "r1tgl9",
+      "enabled": true
+    },
+    {
+      "name": "7s43v",
+      "enabled": true
+    },
+    {
+      "name": "js780a",
+      "enabled": true
+    },
+    {
+      "name": "zaaik",
+      "enabled": false
+    }
+  ]
+}
