@@ -1331,3 +1331,4 @@
 - [2026-02-23T07:03:09.799Z] Build: Optimize CI/CD pipeline stages (#632)
 - [2026-02-23T07:03:10.911Z] Security: Patch vulnerability in session handling (#634)
 - [2026-02-23T07:03:12.262Z] Feat: Implement dark mode support (#636)
+- [2026-02-23T07:03:12.655Z] Docs: Clarify installation steps in README (#637)
