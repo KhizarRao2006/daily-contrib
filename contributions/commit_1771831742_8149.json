@@ -1,0 +1,37 @@
+{
+  "version": "1.17.4",
+  "timestamp": 1771831740830,
+  "config": {
+    "parallel": true,
+    "workers": 3,
+    "timeout": 23646,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-587-8kb8ei",
+    "hash": "m67fnm",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "pwqtzw",
+      "enabled": true
+    },
+    {
+      "name": "r0tqh",
+      "enabled": true
+    },
+    {
+      "name": "aozuh7",
+      "enabled": true
+    },
+    {
+      "name": "n8jjuj",
+      "enabled": true
+    },
+    {
+      "name": "a61rl8",
+      "enabled": false
+    }
+  ]
+}
