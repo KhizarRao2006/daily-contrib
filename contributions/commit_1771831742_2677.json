@@ -1,0 +1,37 @@
+{
+  "version": "3.6.58",
+  "timestamp": 1771831740885,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 18651,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-933-s301ff",
+    "hash": "x8tmj6",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "gzixal",
+      "enabled": true
+    },
+    {
+      "name": "alh5k",
+      "enabled": true
+    },
+    {
+      "name": "xrba32",
+      "enabled": true
+    },
+    {
+      "name": "2gyslw",
+      "enabled": false
+    },
+    {
+      "name": "2umvz7",
+      "enabled": true
+    }
+  ]
+}
