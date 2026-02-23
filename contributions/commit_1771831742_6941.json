@@ -1,0 +1,37 @@
+{
+  "version": "2.2.91",
+  "timestamp": 1771831740882,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 28250,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-911-zpkz5p",
+    "hash": "lj92sc",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "vn0h8a",
+      "enabled": false
+    },
+    {
+      "name": "ooeig",
+      "enabled": true
+    },
+    {
+      "name": "y5icqq",
+      "enabled": false
+    },
+    {
+      "name": "mlyvn8",
+      "enabled": false
+    },
+    {
+      "name": "n16kf",
+      "enabled": true
+    }
+  ]
+}
