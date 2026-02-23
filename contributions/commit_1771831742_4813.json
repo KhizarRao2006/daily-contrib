@@ -1,0 +1,37 @@
+{
+  "version": "0.10.58",
+  "timestamp": 1771831740823,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 24551,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-558-m8cco7",
+    "hash": "c3g3b1",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "mli4",
+      "enabled": true
+    },
+    {
+      "name": "oqakwb",
+      "enabled": true
+    },
+    {
+      "name": "pev94j",
+      "enabled": true
+    },
+    {
+      "name": "di392n",
+      "enabled": false
+    },
+    {
+      "name": "uz5ilf",
+      "enabled": true
+    }
+  ]
+}
