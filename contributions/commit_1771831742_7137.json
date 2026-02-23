@@ -1,0 +1,37 @@
+{
+  "version": "1.7.8",
+  "timestamp": 1771831740783,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 10066,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-288-xsi43a",
+    "hash": "a9ydj9",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "9606to",
+      "enabled": true
+    },
+    {
+      "name": "7xja7q",
+      "enabled": true
+    },
+    {
+      "name": "x4tl5j",
+      "enabled": true
+    },
+    {
+      "name": "xvd3pp",
+      "enabled": false
+    },
+    {
+      "name": "kfhmxn",
+      "enabled": true
+    }
+  ]
+}
