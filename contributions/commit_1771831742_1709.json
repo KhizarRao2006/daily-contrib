@@ -1,0 +1,37 @@
+{
+  "version": "1.2.85",
+  "timestamp": 1771831740785,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 19119,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-301-w7rhoo",
+    "hash": "rbzb59",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "vru8hm",
+      "enabled": true
+    },
+    {
+      "name": "m0zw48",
+      "enabled": true
+    },
+    {
+      "name": "io4yki",
+      "enabled": false
+    },
+    {
+      "name": "imv4fh",
+      "enabled": false
+    },
+    {
+      "name": "9sjyn3",
+      "enabled": true
+    }
+  ]
+}
