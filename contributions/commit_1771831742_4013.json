@@ -1,0 +1,37 @@
+{
+  "version": "2.3.30",
+  "timestamp": 1771831740862,
+  "config": {
+    "parallel": true,
+    "workers": 5,
+    "timeout": 5583,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-773-m05kia",
+    "hash": "a6w6pa",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ks54kq",
+      "enabled": true
+    },
+    {
+      "name": "drat7",
+      "enabled": true
+    },
+    {
+      "name": "51njwk",
+      "enabled": false
+    },
+    {
+      "name": "89049n",
+      "enabled": false
+    },
+    {
+      "name": "cvxi3",
+      "enabled": true
+    }
+  ]
+}
