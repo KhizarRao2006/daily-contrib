@@ -1,0 +1,37 @@
+{
+  "version": "4.19.35",
+  "timestamp": 1771831740739,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 32370,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-32-at5pj",
+    "hash": "um2nc6",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "bugq6n",
+      "enabled": true
+    },
+    {
+      "name": "fqnk8n",
+      "enabled": true
+    },
+    {
+      "name": "td4fke",
+      "enabled": false
+    },
+    {
+      "name": "87n3ch",
+      "enabled": false
+    },
+    {
+      "name": "ajopj",
+      "enabled": true
+    }
+  ]
+}
