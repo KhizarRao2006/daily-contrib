@@ -1,0 +1,37 @@
+{
+  "version": "2.15.94",
+  "timestamp": 1771831740831,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 24286,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-594-j6dtdg",
+    "hash": "f7m6q",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "9lgcv",
+      "enabled": false
+    },
+    {
+      "name": "kvfp5v",
+      "enabled": true
+    },
+    {
+      "name": "etpcoa",
+      "enabled": false
+    },
+    {
+      "name": "x9o31",
+      "enabled": true
+    },
+    {
+      "name": "y474b",
+      "enabled": true
+    }
+  ]
+}
