@@ -1,0 +1,37 @@
+{
+  "version": "2.1.6",
+  "timestamp": 1771831740873,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 15924,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-855-ge5tp",
+    "hash": "iv371",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "1j96ai",
+      "enabled": false
+    },
+    {
+      "name": "k37d9k",
+      "enabled": true
+    },
+    {
+      "name": "me2hr",
+      "enabled": true
+    },
+    {
+      "name": "omqzgs",
+      "enabled": false
+    },
+    {
+      "name": "u6q06",
+      "enabled": false
+    }
+  ]
+}
