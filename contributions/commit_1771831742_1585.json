@@ -1,0 +1,37 @@
+{
+  "version": "0.17.87",
+  "timestamp": 1771831740871,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 7244,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-838-qyeqk9",
+    "hash": "socrv9",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ir3vjf",
+      "enabled": false
+    },
+    {
+      "name": "ske84m",
+      "enabled": true
+    },
+    {
+      "name": "b6bu99",
+      "enabled": true
+    },
+    {
+      "name": "2a75tv",
+      "enabled": true
+    },
+    {
+      "name": "f25on",
+      "enabled": true
+    }
+  ]
+}
