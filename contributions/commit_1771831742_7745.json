@@ -1,0 +1,37 @@
+{
+  "version": "0.15.99",
+  "timestamp": 1771831740820,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 5304,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-537-mintb",
+    "hash": "ex5mf2",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "vjwy9",
+      "enabled": false
+    },
+    {
+      "name": "cp6a8s",
+      "enabled": false
+    },
+    {
+      "name": "nne84v",
+      "enabled": true
+    },
+    {
+      "name": "2oexnd",
+      "enabled": true
+    },
+    {
+      "name": "pe0z9h",
+      "enabled": true
+    }
+  ]
+}
