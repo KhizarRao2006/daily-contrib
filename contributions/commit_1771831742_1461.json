@@ -1,0 +1,37 @@
+{
+  "version": "4.16.21",
+  "timestamp": 1771831740870,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 17458,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-830-8rqsng",
+    "hash": "luxbvg",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "dnoneo",
+      "enabled": false
+    },
+    {
+      "name": "wc7ikd",
+      "enabled": false
+    },
+    {
+      "name": "lfss0l",
+      "enabled": true
+    },
+    {
+      "name": "k3smzk",
+      "enabled": false
+    },
+    {
+      "name": "z0qpfd",
+      "enabled": true
+    }
+  ]
+}
