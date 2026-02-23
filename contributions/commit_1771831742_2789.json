@@ -1,0 +1,37 @@
+{
+  "version": "2.19.70",
+  "timestamp": 1771831740850,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 16769,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-706-zqet1",
+    "hash": "e9rj4q",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ye74g",
+      "enabled": false
+    },
+    {
+      "name": "kjq65n",
+      "enabled": true
+    },
+    {
+      "name": "cw6f3s",
+      "enabled": false
+    },
+    {
+      "name": "pqdied",
+      "enabled": true
+    },
+    {
+      "name": "jk3d9d",
+      "enabled": true
+    }
+  ]
+}
