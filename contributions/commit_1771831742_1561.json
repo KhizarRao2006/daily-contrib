@@ -1,0 +1,37 @@
+{
+  "version": "0.3.55",
+  "timestamp": 1771831740821,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 15459,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-547-qbcqu",
+    "hash": "zugkup",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "dlcdo",
+      "enabled": false
+    },
+    {
+      "name": "8hxspn",
+      "enabled": true
+    },
+    {
+      "name": "qvpm4j",
+      "enabled": true
+    },
+    {
+      "name": "sxghm",
+      "enabled": true
+    },
+    {
+      "name": "q3kaus",
+      "enabled": true
+    }
+  ]
+}
