@@ -1,0 +1,37 @@
+{
+  "version": "1.10.49",
+  "timestamp": 1771831740790,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 7618,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-332-nrygpp",
+    "hash": "yh1n9",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "nbqhto",
+      "enabled": true
+    },
+    {
+      "name": "3syybc",
+      "enabled": false
+    },
+    {
+      "name": "n3479h",
+      "enabled": true
+    },
+    {
+      "name": "ijixpe",
+      "enabled": true
+    },
+    {
+      "name": "b9r4va",
+      "enabled": false
+    }
+  ]
+}
