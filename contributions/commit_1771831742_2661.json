@@ -1,0 +1,37 @@
+{
+  "version": "4.19.40",
+  "timestamp": 1771831740859,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 17658,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-752-s8bvco",
+    "hash": "vad913",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "br7et7",
+      "enabled": false
+    },
+    {
+      "name": "effas",
+      "enabled": true
+    },
+    {
+      "name": "4bcjmk",
+      "enabled": false
+    },
+    {
+      "name": "djv1it",
+      "enabled": true
+    },
+    {
+      "name": "8vb3",
+      "enabled": true
+    }
+  ]
+}
