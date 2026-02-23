@@ -1,0 +1,37 @@
+{
+  "version": "3.17.11",
+  "timestamp": 1771831740871,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 19023,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-840-cly0w",
+    "hash": "zxlrg4",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "iytt6j",
+      "enabled": false
+    },
+    {
+      "name": "11lzxb",
+      "enabled": true
+    },
+    {
+      "name": "devqiq",
+      "enabled": true
+    },
+    {
+      "name": "dwerya",
+      "enabled": true
+    },
+    {
+      "name": "m91lw9",
+      "enabled": false
+    }
+  ]
+}
