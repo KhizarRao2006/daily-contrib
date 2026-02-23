@@ -1236,3 +1236,4 @@
 - [2026-02-23T07:01:01.307Z] Modularize: Break down large components into smaller ones (#388)
 - [2026-02-23T07:01:02.202Z] Docs: Clarify installation steps in README (#390)
 - [2026-02-23T07:01:03.145Z] Fix: Resolve race condition in auth flow (#392)
+- [2026-02-23T07:01:04.766Z] Docs: Clarify installation steps in README (#395)
