@@ -1546,3 +1546,4 @@
 - [2026-02-23T07:10:04.763Z] Chore: Upgrade dependencies to latest stable (#1193)
 - [2026-02-23T07:10:05.312Z] Feat: Implement dark mode support (#1194)
 - [2026-02-23T07:10:08.830Z] Security: Patch vulnerability in session handling (#1200)
+- [2026-02-23T07:10:10.716Z] Docs: Clarify installation steps in README (#1203)
