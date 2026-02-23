@@ -1,0 +1,37 @@
+{
+  "version": "0.4.37",
+  "timestamp": 1771831740893,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 6163,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-990-f7orhn",
+    "hash": "ltllqx",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "p860gl",
+      "enabled": true
+    },
+    {
+      "name": "cg3kkz",
+      "enabled": true
+    },
+    {
+      "name": "24x49p",
+      "enabled": true
+    },
+    {
+      "name": "kznzmn",
+      "enabled": false
+    },
+    {
+      "name": "9yde5",
+      "enabled": true
+    }
+  ]
+}
