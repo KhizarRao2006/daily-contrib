@@ -1,0 +1,37 @@
+{
+  "version": "1.8.92",
+  "timestamp": 1771831324740,
+  "config": {
+    "parallel": true,
+    "workers": 3,
+    "timeout": 33648,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-994-rbmmt",
+    "hash": "qnmyff",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "bmsz1a",
+      "enabled": false
+    },
+    {
+      "name": "xq8jk4",
+      "enabled": true
+    },
+    {
+      "name": "7ozut",
+      "enabled": true
+    },
+    {
+      "name": "pghxgi",
+      "enabled": true
+    },
+    {
+      "name": "nijkn",
+      "enabled": false
+    }
+  ]
+}
