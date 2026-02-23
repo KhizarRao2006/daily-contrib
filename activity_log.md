@@ -1418,3 +1418,4 @@
 - [2026-02-23T07:05:06.153Z] Feat: Add support for multi-region clusters (#857)
 - [2026-02-23T07:05:09.263Z] Docs: Clarify installation steps in README (#863)
 - [2026-02-23T07:05:10.240Z] Modularize: Break down large components into smaller ones (#865)
+- [2026-02-23T07:05:11.194Z] Docs: Clarify installation steps in README (#867)
