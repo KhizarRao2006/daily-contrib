@@ -1,0 +1,37 @@
+{
+  "version": "4.9.38",
+  "timestamp": 1771831740886,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 17170,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-945-x07jnb",
+    "hash": "m6r5hi",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ihznbk",
+      "enabled": false
+    },
+    {
+      "name": "hh1vam",
+      "enabled": false
+    },
+    {
+      "name": "63uim",
+      "enabled": false
+    },
+    {
+      "name": "3tm45",
+      "enabled": true
+    },
+    {
+      "name": "7okc7f",
+      "enabled": true
+    }
+  ]
+}
