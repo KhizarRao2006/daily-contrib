@@ -1,0 +1,37 @@
+{
+  "version": "4.19.13",
+  "timestamp": 1771831324708,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 14669,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-793-3w2clg",
+    "hash": "obiyruh",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "5m53uc",
+      "enabled": false
+    },
+    {
+      "name": "73ukck",
+      "enabled": true
+    },
+    {
+      "name": "lw7eaq",
+      "enabled": true
+    },
+    {
+      "name": "4rj1l",
+      "enabled": true
+    },
+    {
+      "name": "lx84td",
+      "enabled": false
+    }
+  ]
+}
