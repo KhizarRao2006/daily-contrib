@@ -1,0 +1,37 @@
+{
+  "version": "4.13.64",
+  "timestamp": 1771831740886,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 29396,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-942-482hj3",
+    "hash": "texw4",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "h065cq",
+      "enabled": false
+    },
+    {
+      "name": "cw65fl",
+      "enabled": false
+    },
+    {
+      "name": "mocrk",
+      "enabled": true
+    },
+    {
+      "name": "oemrr",
+      "enabled": false
+    },
+    {
+      "name": "plwit8",
+      "enabled": true
+    }
+  ]
+}
