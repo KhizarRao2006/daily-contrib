@@ -1,0 +1,37 @@
+{
+  "version": "2.2.59",
+  "timestamp": 1771831740857,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 27316,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-738-pkfb9b",
+    "hash": "fbxnc",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "wbtafc",
+      "enabled": true
+    },
+    {
+      "name": "tfwpd",
+      "enabled": false
+    },
+    {
+      "name": "5ipka9",
+      "enabled": true
+    },
+    {
+      "name": "k7tt9",
+      "enabled": false
+    },
+    {
+      "name": "47cw4i",
+      "enabled": true
+    }
+  ]
+}
