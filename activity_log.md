@@ -1243,3 +1243,4 @@
 - [2026-02-23T07:01:10.899Z] Feat: Add support for multi-region clusters (#407)
 - [2026-02-23T07:01:13.443Z] Optimize: Minimize memory footprint of data structures (#412)
 - [2026-02-23T07:01:14.338Z] Refine: Smooth out CSS transitions (#414)
+- [2026-02-23T07:01:15.747Z] Fix: Resolve race condition in auth flow (#417)
