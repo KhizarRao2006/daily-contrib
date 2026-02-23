@@ -1407,3 +1407,4 @@
 - [2026-02-23T07:04:47.611Z] Chore: Upgrade dependencies to latest stable (#823)
 - [2026-02-23T07:04:49.121Z] Build: Optimize CI/CD pipeline stages (#826)
 - [2026-02-23T07:04:49.501Z] Refactor: Optimize rendering logic (#827)
+- [2026-02-23T07:04:51.010Z] Docs: Clarify installation steps in README (#830)
