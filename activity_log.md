@@ -1432,3 +1432,4 @@
 - [2026-02-23T07:05:25.896Z] Chore: Upgrade dependencies to latest stable (#895)
 - [2026-02-23T07:05:26.268Z] Implement: Add validation for incoming payloads (#896)
 - [2026-02-23T07:05:26.658Z] Docs: Clarify installation steps in README (#897)
+- [2026-02-23T07:05:29.402Z] Feat: Add support for multi-region clusters (#902)
