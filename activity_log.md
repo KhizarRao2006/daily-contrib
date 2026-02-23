@@ -1571,3 +1571,4 @@
 - [2026-02-23T07:10:38.781Z] Perf: Improve database query execution time (#1253)
 - [2026-02-23T07:10:39.932Z] Refactor: Optimize rendering logic (#1255)
 - [2026-02-23T07:10:41.131Z] Refine: Smooth out CSS transitions (#1257)
+- [2026-02-23T07:10:42.163Z] Docs: Update API documentation for v2 (#1259)
