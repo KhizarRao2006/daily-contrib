@@ -1,0 +1,37 @@
+{
+  "version": "0.3.84",
+  "timestamp": 1771831740836,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 25125,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-622-4pvmkg",
+    "hash": "j30hwo",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "joxbb",
+      "enabled": false
+    },
+    {
+      "name": "gre99nf",
+      "enabled": false
+    },
+    {
+      "name": "7zv0gk",
+      "enabled": false
+    },
+    {
+      "name": "g5bsqh",
+      "enabled": false
+    },
+    {
+      "name": "bxq2n7",
+      "enabled": true
+    }
+  ]
+}
