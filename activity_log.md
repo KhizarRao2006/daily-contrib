@@ -1452,3 +1452,4 @@
 - [2026-02-23T07:06:03.089Z] Modularize: Break down large components into smaller ones (#940)
 - [2026-02-23T07:06:05.933Z] Build: Optimize CI/CD pipeline stages (#943)
 - [2026-02-23T07:06:06.455Z] Feat: Add support for multi-region clusters (#944)
+- [2026-02-23T07:06:06.949Z] Docs: Clarify installation steps in README (#945)
