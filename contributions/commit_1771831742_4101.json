@@ -1,0 +1,37 @@
+{
+  "version": "3.0.21",
+  "timestamp": 1771831740789,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 25748,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-325-60yu1g",
+    "hash": "u7gwv",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "4nl6mq",
+      "enabled": false
+    },
+    {
+      "name": "ou9ox",
+      "enabled": false
+    },
+    {
+      "name": "o04l3q",
+      "enabled": true
+    },
+    {
+      "name": "ix9yd",
+      "enabled": false
+    },
+    {
+      "name": "xpy33oc",
+      "enabled": false
+    }
+  ]
+}
