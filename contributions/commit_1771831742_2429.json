@@ -1,0 +1,37 @@
+{
+  "version": "0.2.25",
+  "timestamp": 1771831740782,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 30969,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-283-o1g2i",
+    "hash": "29uukq",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "f8ibd",
+      "enabled": false
+    },
+    {
+      "name": "bvevsk",
+      "enabled": false
+    },
+    {
+      "name": "sjghy",
+      "enabled": true
+    },
+    {
+      "name": "zsxmk",
+      "enabled": false
+    },
+    {
+      "name": "fd00al",
+      "enabled": true
+    }
+  ]
+}
