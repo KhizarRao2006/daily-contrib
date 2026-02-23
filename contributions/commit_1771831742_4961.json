@@ -1,0 +1,37 @@
+{
+  "version": "0.14.88",
+  "timestamp": 1771831740800,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 29410,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-400-n20a",
+    "hash": "03uu7",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "8uuzsf",
+      "enabled": true
+    },
+    {
+      "name": "49gtd",
+      "enabled": true
+    },
+    {
+      "name": "rfrmv8",
+      "enabled": true
+    },
+    {
+      "name": "l99awd",
+      "enabled": true
+    },
+    {
+      "name": "zjv8av",
+      "enabled": true
+    }
+  ]
+}
