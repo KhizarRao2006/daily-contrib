@@ -1,0 +1,37 @@
+{
+  "version": "4.2.4",
+  "timestamp": 1771831740742,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 19181,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-46-1qkxu",
+    "hash": "pzgx0p",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "jahf9u",
+      "enabled": true
+    },
+    {
+      "name": "p2j118",
+      "enabled": true
+    },
+    {
+      "name": "9cqr5u",
+      "enabled": false
+    },
+    {
+      "name": "flgxv",
+      "enabled": false
+    },
+    {
+      "name": "01r3fk",
+      "enabled": false
+    }
+  ]
+}
