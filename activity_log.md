@@ -1455,3 +1455,4 @@
 - [2026-02-23T07:06:06.949Z] Docs: Clarify installation steps in README (#945)
 - [2026-02-23T07:06:09.992Z] Optimize: Minimize memory footprint of data structures (#949)
 - [2026-02-23T07:06:12.499Z] Modernize: Transition to ES2023 features (#953)
+- [2026-02-23T07:06:14.763Z] Refine: Smooth out CSS transitions (#957)
