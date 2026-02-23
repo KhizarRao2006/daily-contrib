@@ -1,0 +1,37 @@
+{
+  "version": "0.7.21",
+  "timestamp": 1771831740751,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 23341,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-87-6d5ff7",
+    "hash": "krrr17",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "rjq0s",
+      "enabled": false
+    },
+    {
+      "name": "htai2b",
+      "enabled": true
+    },
+    {
+      "name": "lc572r",
+      "enabled": true
+    },
+    {
+      "name": "zil12",
+      "enabled": false
+    },
+    {
+      "name": "ybtmw6",
+      "enabled": true
+    }
+  ]
+}
