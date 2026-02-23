@@ -1,0 +1,37 @@
+{
+  "version": "1.17.24",
+  "timestamp": 1771831324663,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 5079,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-511-6e7h7",
+    "hash": "wfymd4",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ndigmbt",
+      "enabled": true
+    },
+    {
+      "name": "hpm1iw",
+      "enabled": true
+    },
+    {
+      "name": "m32m8",
+      "enabled": false
+    },
+    {
+      "name": "nbovc",
+      "enabled": false
+    },
+    {
+      "name": "nkwoi",
+      "enabled": false
+    }
+  ]
+}
