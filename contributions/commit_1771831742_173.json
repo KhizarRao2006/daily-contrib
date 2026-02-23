@@ -1,0 +1,37 @@
+{
+  "version": "4.14.76",
+  "timestamp": 1771831740793,
+  "config": {
+    "parallel": true,
+    "workers": 3,
+    "timeout": 22333,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-353-xbsflp",
+    "hash": "f1s3w3g",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "lu4h7r",
+      "enabled": false
+    },
+    {
+      "name": "7bpxdq",
+      "enabled": true
+    },
+    {
+      "name": "28006e",
+      "enabled": true
+    },
+    {
+      "name": "1y1gba",
+      "enabled": false
+    },
+    {
+      "name": "6m7csp",
+      "enabled": false
+    }
+  ]
+}
