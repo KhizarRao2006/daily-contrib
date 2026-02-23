@@ -1,0 +1,37 @@
+{
+  "version": "4.11.82",
+  "timestamp": 1771831740825,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 14815,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-573-6spsvq",
+    "hash": "fyxhfm",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "g46t78",
+      "enabled": true
+    },
+    {
+      "name": "5eh6ko",
+      "enabled": true
+    },
+    {
+      "name": "olok1",
+      "enabled": true
+    },
+    {
+      "name": "lfxt6r",
+      "enabled": true
+    },
+    {
+      "name": "9ma1wm",
+      "enabled": false
+    }
+  ]
+}
