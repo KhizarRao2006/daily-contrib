@@ -1,0 +1,37 @@
+{
+  "version": "1.3.49",
+  "timestamp": 1771831740858,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 24412,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-745-rhbe03",
+    "hash": "jk3dq",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "9wrt7v",
+      "enabled": false
+    },
+    {
+      "name": "q0e2vyb",
+      "enabled": true
+    },
+    {
+      "name": "ok3b8",
+      "enabled": true
+    },
+    {
+      "name": "ewbcdi",
+      "enabled": true
+    },
+    {
+      "name": "b63cgk",
+      "enabled": true
+    }
+  ]
+}
