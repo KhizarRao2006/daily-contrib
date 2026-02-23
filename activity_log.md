@@ -1295,3 +1295,4 @@
 - [2026-02-23T07:02:23.554Z] Refactor: Optimize rendering logic (#548)
 - [2026-02-23T07:02:25.825Z] Test: Increase coverage for edge cases in parser (#552)
 - [2026-02-23T07:02:26.317Z] Streamline: Simplify internal routing logic (#553)
+- [2026-02-23T07:02:27.233Z] Chore: Remove deprecated methods and clean up (#555)
