@@ -1,0 +1,37 @@
+{
+  "version": "2.5.94",
+  "timestamp": 1771831324653,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 29559,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-443-bhofa",
+    "hash": "mb3twz",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "hrnbhl",
+      "enabled": true
+    },
+    {
+      "name": "y71k7h",
+      "enabled": true
+    },
+    {
+      "name": "cem63",
+      "enabled": false
+    },
+    {
+      "name": "cveeu6",
+      "enabled": true
+    },
+    {
+      "name": "xvvffs",
+      "enabled": true
+    }
+  ]
+}
