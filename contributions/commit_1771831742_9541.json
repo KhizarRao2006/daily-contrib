@@ -1,0 +1,37 @@
+{
+  "version": "1.1.40",
+  "timestamp": 1771831740741,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 26697,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-45-f7xb0i",
+    "hash": "p6t52j",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "c2ulym",
+      "enabled": true
+    },
+    {
+      "name": "2emcgc",
+      "enabled": true
+    },
+    {
+      "name": "opltel",
+      "enabled": true
+    },
+    {
+      "name": "4cpy4s",
+      "enabled": false
+    },
+    {
+      "name": "hyxnsm",
+      "enabled": false
+    }
+  ]
+}
