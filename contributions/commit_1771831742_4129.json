@@ -1,0 +1,37 @@
+{
+  "version": "0.12.28",
+  "timestamp": 1771831740756,
+  "config": {
+    "parallel": true,
+    "workers": 2,
+    "timeout": 15786,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-122-rpeo1a",
+    "hash": "i8j0s",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "00pitk",
+      "enabled": true
+    },
+    {
+      "name": "9nzt3c",
+      "enabled": false
+    },
+    {
+      "name": "gtketl",
+      "enabled": false
+    },
+    {
+      "name": "t578n",
+      "enabled": false
+    },
+    {
+      "name": "d793",
+      "enabled": true
+    }
+  ]
+}
