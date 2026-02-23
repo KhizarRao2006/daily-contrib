@@ -1,0 +1,37 @@
+{
+  "version": "3.6.17",
+  "timestamp": 1771831740762,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 20297,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-160-0tq70e",
+    "hash": "xm0n0q",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "0a4jck",
+      "enabled": true
+    },
+    {
+      "name": "difrag",
+      "enabled": true
+    },
+    {
+      "name": "qf1r4s",
+      "enabled": true
+    },
+    {
+      "name": "u3r9ay",
+      "enabled": true
+    },
+    {
+      "name": "moze5c",
+      "enabled": true
+    }
+  ]
+}
