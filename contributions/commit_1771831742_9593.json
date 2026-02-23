@@ -1,0 +1,37 @@
+{
+  "version": "1.12.80",
+  "timestamp": 1771831740819,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 11733,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-530-sdmmbq",
+    "hash": "4yjpw",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "b69eu9",
+      "enabled": true
+    },
+    {
+      "name": "me0i69",
+      "enabled": true
+    },
+    {
+      "name": "jqepd9",
+      "enabled": false
+    },
+    {
+      "name": "y537u",
+      "enabled": false
+    },
+    {
+      "name": "ojnqae",
+      "enabled": true
+    }
+  ]
+}
