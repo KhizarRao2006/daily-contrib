@@ -1,0 +1,37 @@
+{
+  "version": "3.15.74",
+  "timestamp": 1771831324666,
+  "config": {
+    "parallel": true,
+    "workers": 7,
+    "timeout": 23891,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-530-joe1ik",
+    "hash": "tebny",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "mwny0q",
+      "enabled": false
+    },
+    {
+      "name": "6xy4oi",
+      "enabled": false
+    },
+    {
+      "name": "uw3ufj",
+      "enabled": false
+    },
+    {
+      "name": "v5xlwb",
+      "enabled": true
+    },
+    {
+      "name": "tzu5il",
+      "enabled": false
+    }
+  ]
+}
