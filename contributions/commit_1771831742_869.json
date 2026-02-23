@@ -1,0 +1,37 @@
+{
+  "version": "2.11.64",
+  "timestamp": 1771831740809,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 34239,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-463-e9orj",
+    "hash": "b23rbg",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "av2by",
+      "enabled": true
+    },
+    {
+      "name": "jr7j6u",
+      "enabled": false
+    },
+    {
+      "name": "tr7y06",
+      "enabled": true
+    },
+    {
+      "name": "30k42b",
+      "enabled": true
+    },
+    {
+      "name": "9u5qfs",
+      "enabled": false
+    }
+  ]
+}
