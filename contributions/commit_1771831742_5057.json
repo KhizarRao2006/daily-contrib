@@ -1,0 +1,37 @@
+{
+  "version": "2.17.56",
+  "timestamp": 1771831740784,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 28134,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-297-vk8md",
+    "hash": "6dr06",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "acj97f",
+      "enabled": true
+    },
+    {
+      "name": "802eid",
+      "enabled": true
+    },
+    {
+      "name": "htwgz8",
+      "enabled": false
+    },
+    {
+      "name": "o6bgrp",
+      "enabled": true
+    },
+    {
+      "name": "ivhx4o",
+      "enabled": true
+    }
+  ]
+}
