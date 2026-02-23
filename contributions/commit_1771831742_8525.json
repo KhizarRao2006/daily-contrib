@@ -1,0 +1,37 @@
+{
+  "version": "4.4.83",
+  "timestamp": 1771831740874,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 31337,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-856-0axfsc",
+    "hash": "cz59hk",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "22v9z",
+      "enabled": true
+    },
+    {
+      "name": "vr8n1",
+      "enabled": true
+    },
+    {
+      "name": "3gl4wl",
+      "enabled": false
+    },
+    {
+      "name": "p7b70l",
+      "enabled": false
+    },
+    {
+      "name": "305ev",
+      "enabled": true
+    }
+  ]
+}
