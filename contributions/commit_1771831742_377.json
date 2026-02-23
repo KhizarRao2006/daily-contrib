@@ -1,0 +1,37 @@
+{
+  "version": "3.15.3",
+  "timestamp": 1771831740770,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 18078,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-212-hejjzu",
+    "hash": "7hthgm",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "xadqik",
+      "enabled": true
+    },
+    {
+      "name": "9xvkmm",
+      "enabled": true
+    },
+    {
+      "name": "peihii",
+      "enabled": true
+    },
+    {
+      "name": "c9c2vf",
+      "enabled": false
+    },
+    {
+      "name": "2l66is",
+      "enabled": true
+    }
+  ]
+}
