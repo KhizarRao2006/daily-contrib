@@ -1,0 +1,37 @@
+{
+  "version": "3.14.40",
+  "timestamp": 1771831740867,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 20369,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-809-1eds",
+    "hash": "stnl0e",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "pk1ito",
+      "enabled": false
+    },
+    {
+      "name": "d01rrn",
+      "enabled": true
+    },
+    {
+      "name": "68venc",
+      "enabled": false
+    },
+    {
+      "name": "xwb93e",
+      "enabled": false
+    },
+    {
+      "name": "a2cv",
+      "enabled": false
+    }
+  ]
+}
