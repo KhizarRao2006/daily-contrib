@@ -1,0 +1,37 @@
+{
+  "version": "1.4.13",
+  "timestamp": 1771831740790,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 30666,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-333-6g9q6",
+    "hash": "koftm",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "o2te5q",
+      "enabled": false
+    },
+    {
+      "name": "a26szq",
+      "enabled": true
+    },
+    {
+      "name": "d4q08",
+      "enabled": false
+    },
+    {
+      "name": "aahon",
+      "enabled": false
+    },
+    {
+      "name": "vrqtd",
+      "enabled": false
+    }
+  ]
+}
