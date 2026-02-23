@@ -1670,3 +1670,4 @@
 - [2026-02-23T07:12:33.330Z] Chore: Upgrade dependencies to latest stable (#1473)
 - [2026-02-23T07:12:33.740Z] Docs: Clarify installation steps in README (#1474)
 - [2026-02-23T07:12:37.059Z] Strengthen: Add robust error boundaries (#1479)
+- [2026-02-23T07:12:41.665Z] Feat: Add support for multi-region clusters (#1487)
