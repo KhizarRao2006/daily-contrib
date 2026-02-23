@@ -1,0 +1,37 @@
+{
+  "version": "4.8.46",
+  "timestamp": 1771831740818,
+  "config": {
+    "parallel": true,
+    "workers": 5,
+    "timeout": 30641,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-523-lt2s7m",
+    "hash": "kss7r",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "td4asp",
+      "enabled": true
+    },
+    {
+      "name": "1suf4",
+      "enabled": true
+    },
+    {
+      "name": "l2z06h",
+      "enabled": true
+    },
+    {
+      "name": "gciuem",
+      "enabled": true
+    },
+    {
+      "name": "oed1qs",
+      "enabled": false
+    }
+  ]
+}
