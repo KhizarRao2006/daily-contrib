@@ -1,0 +1,37 @@
+{
+  "version": "2.10.30",
+  "timestamp": 1771831740874,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 19941,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-860-ianqcg",
+    "hash": "zas34e",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ndvnb6",
+      "enabled": true
+    },
+    {
+      "name": "usdvia",
+      "enabled": true
+    },
+    {
+      "name": "tnq7t",
+      "enabled": true
+    },
+    {
+      "name": "kvjdtd",
+      "enabled": false
+    },
+    {
+      "name": "z5bclv",
+      "enabled": true
+    }
+  ]
+}
