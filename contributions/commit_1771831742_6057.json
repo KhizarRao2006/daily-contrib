@@ -1,0 +1,37 @@
+{
+  "version": "4.12.41",
+  "timestamp": 1771831740837,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 12898,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-628-0aj9f",
+    "hash": "wirm9a",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ws5cq",
+      "enabled": true
+    },
+    {
+      "name": "2xj1es",
+      "enabled": false
+    },
+    {
+      "name": "5lq2q7",
+      "enabled": false
+    },
+    {
+      "name": "ieh6b9",
+      "enabled": false
+    },
+    {
+      "name": "dwdnll9",
+      "enabled": false
+    }
+  ]
+}
