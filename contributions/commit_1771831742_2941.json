@@ -1,0 +1,37 @@
+{
+  "version": "1.6.84",
+  "timestamp": 1771831740863,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 13218,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-778-wam2xs",
+    "hash": "bkgcl",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "8ujaxi",
+      "enabled": true
+    },
+    {
+      "name": "bfzh8r",
+      "enabled": true
+    },
+    {
+      "name": "eqiuhk",
+      "enabled": true
+    },
+    {
+      "name": "85go2i",
+      "enabled": true
+    },
+    {
+      "name": "r0aepr",
+      "enabled": true
+    }
+  ]
+}
