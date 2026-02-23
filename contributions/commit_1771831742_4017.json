@@ -1,0 +1,37 @@
+{
+  "version": "0.17.30",
+  "timestamp": 1771831740875,
+  "config": {
+    "parallel": true,
+    "workers": 4,
+    "timeout": 25723,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-865-b7pamo",
+    "hash": "60qa3p",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ki5rm",
+      "enabled": true
+    },
+    {
+      "name": "y9jin",
+      "enabled": true
+    },
+    {
+      "name": "2b5x6l",
+      "enabled": false
+    },
+    {
+      "name": "oluk18",
+      "enabled": false
+    },
+    {
+      "name": "b2xz4l",
+      "enabled": false
+    }
+  ]
+}
