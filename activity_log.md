@@ -1636,3 +1636,4 @@
 - [2026-02-23T07:11:53.124Z] Docs: Clarify installation steps in README (#1392)
 - [2026-02-23T07:11:53.528Z] Modernize: Transition to ES2023 features (#1393)
 - [2026-02-23T07:11:53.900Z] Fix: Resolve race condition in auth flow (#1394)
+- [2026-02-23T07:11:54.290Z] Refine: Smooth out CSS transitions (#1395)
