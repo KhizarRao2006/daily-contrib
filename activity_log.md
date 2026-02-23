@@ -1381,3 +1381,4 @@
 - [2026-02-23T07:04:09.554Z] Implement: Add validation for incoming payloads (#749)
 - [2026-02-23T07:04:09.922Z] Feat: Add support for multi-region clusters (#750)
 - [2026-02-23T07:04:10.295Z] Refactor: Optimize rendering logic (#751)
+- [2026-02-23T07:04:13.016Z] Docs: Update API documentation for v2 (#756)
