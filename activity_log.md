@@ -1409,3 +1409,4 @@
 - [2026-02-23T07:04:49.501Z] Refactor: Optimize rendering logic (#827)
 - [2026-02-23T07:04:51.010Z] Docs: Clarify installation steps in README (#830)
 - [2026-02-23T07:04:52.714Z] Streamline: Simplify internal routing logic (#833)
+- [2026-02-23T07:04:56.792Z] Docs: Clarify installation steps in README (#840)
