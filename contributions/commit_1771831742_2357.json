@@ -1,0 +1,37 @@
+{
+  "version": "4.4.84",
+  "timestamp": 1771831740795,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 21323,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-368-3seytp",
+    "hash": "mc1up3",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "5yo8qd",
+      "enabled": false
+    },
+    {
+      "name": "v5z3xo",
+      "enabled": true
+    },
+    {
+      "name": "iejxw",
+      "enabled": true
+    },
+    {
+      "name": "dny5sk",
+      "enabled": true
+    },
+    {
+      "name": "y7wxi4",
+      "enabled": true
+    }
+  ]
+}
