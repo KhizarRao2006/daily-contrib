@@ -1,0 +1,37 @@
+{
+  "version": "3.12.86",
+  "timestamp": 1771831740796,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 27170,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-375-h58gpo",
+    "hash": "q34fvp",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "mcng1",
+      "enabled": true
+    },
+    {
+      "name": "6astwf",
+      "enabled": true
+    },
+    {
+      "name": "lijuds",
+      "enabled": false
+    },
+    {
+      "name": "os4rfh",
+      "enabled": true
+    },
+    {
+      "name": "9nqzw6",
+      "enabled": false
+    }
+  ]
+}
