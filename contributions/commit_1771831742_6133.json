@@ -1,0 +1,37 @@
+{
+  "version": "4.13.46",
+  "timestamp": 1771831740802,
+  "config": {
+    "parallel": true,
+    "workers": 3,
+    "timeout": 16787,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-420-2apf8",
+    "hash": "x0chhm",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "3l5abz",
+      "enabled": true
+    },
+    {
+      "name": "2ojiy7",
+      "enabled": true
+    },
+    {
+      "name": "30xmd",
+      "enabled": false
+    },
+    {
+      "name": "d3l4iu",
+      "enabled": false
+    },
+    {
+      "name": "7nfxsl",
+      "enabled": true
+    }
+  ]
+}
