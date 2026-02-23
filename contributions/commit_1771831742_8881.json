@@ -1,0 +1,37 @@
+{
+  "version": "4.3.26",
+  "timestamp": 1771831740812,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 16518,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-481-em95ae",
+    "hash": "19k2tq",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "vjf0n1",
+      "enabled": false
+    },
+    {
+      "name": "vkitd9",
+      "enabled": false
+    },
+    {
+      "name": "d0n8lc",
+      "enabled": true
+    },
+    {
+      "name": "24mu2i",
+      "enabled": true
+    },
+    {
+      "name": "sh6uzo",
+      "enabled": true
+    }
+  ]
+}
