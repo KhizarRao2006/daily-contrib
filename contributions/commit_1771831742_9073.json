@@ -1,0 +1,37 @@
+{
+  "version": "2.9.87",
+  "timestamp": 1771831740815,
+  "config": {
+    "parallel": true,
+    "workers": 4,
+    "timeout": 23086,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-504-2cwk5w",
+    "hash": "9p4opa",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "j06fc",
+      "enabled": false
+    },
+    {
+      "name": "v4pgrb",
+      "enabled": true
+    },
+    {
+      "name": "rofo9j9j",
+      "enabled": true
+    },
+    {
+      "name": "u89kyk",
+      "enabled": true
+    },
+    {
+      "name": "iq3z35",
+      "enabled": true
+    }
+  ]
+}
