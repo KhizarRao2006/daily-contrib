@@ -1,0 +1,37 @@
+{
+  "version": "0.17.2",
+  "timestamp": 1771831740814,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 7575,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-499-xnoo8",
+    "hash": "mr7939",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "nwmzm",
+      "enabled": true
+    },
+    {
+      "name": "gmeno",
+      "enabled": false
+    },
+    {
+      "name": "f8yn0f",
+      "enabled": true
+    },
+    {
+      "name": "47o7un",
+      "enabled": true
+    },
+    {
+      "name": "5zycn",
+      "enabled": true
+    }
+  ]
+}
