@@ -1,0 +1,37 @@
+{
+  "version": "4.19.28",
+  "timestamp": 1771831740874,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 18307,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-858-fn2ed",
+    "hash": "s8sis",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "txow5",
+      "enabled": false
+    },
+    {
+      "name": "oontjq",
+      "enabled": true
+    },
+    {
+      "name": "o0lg3f",
+      "enabled": false
+    },
+    {
+      "name": "qipbu",
+      "enabled": false
+    },
+    {
+      "name": "3dpcu",
+      "enabled": true
+    }
+  ]
+}
