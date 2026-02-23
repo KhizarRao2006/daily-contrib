@@ -1,0 +1,37 @@
+{
+  "version": "4.8.78",
+  "timestamp": 1771831740894,
+  "config": {
+    "parallel": true,
+    "workers": 5,
+    "timeout": 34957,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-998-pz5a8",
+    "hash": "k810po",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "i0pbu",
+      "enabled": true
+    },
+    {
+      "name": "4ktowf",
+      "enabled": false
+    },
+    {
+      "name": "t7n4lr",
+      "enabled": false
+    },
+    {
+      "name": "w9nyjs",
+      "enabled": true
+    },
+    {
+      "name": "x18wb9",
+      "enabled": false
+    }
+  ]
+}
