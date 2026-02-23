@@ -1,0 +1,37 @@
+{
+  "version": "0.2.79",
+  "timestamp": 1771831740885,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 16936,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-934-ybusrn",
+    "hash": "zkk1un",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "pirmt2",
+      "enabled": true
+    },
+    {
+      "name": "hervp",
+      "enabled": false
+    },
+    {
+      "name": "mxe81",
+      "enabled": false
+    },
+    {
+      "name": "o8t1m",
+      "enabled": true
+    },
+    {
+      "name": "msgid4",
+      "enabled": true
+    }
+  ]
+}
