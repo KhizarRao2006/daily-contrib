@@ -1,0 +1,37 @@
+{
+  "version": "1.5.83",
+  "timestamp": 1771831740774,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 33620,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-240-0qfd8p",
+    "hash": "ki29h",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "xdax1",
+      "enabled": true
+    },
+    {
+      "name": "rvsxp4",
+      "enabled": false
+    },
+    {
+      "name": "9i8zi",
+      "enabled": true
+    },
+    {
+      "name": "zc8kkj",
+      "enabled": true
+    },
+    {
+      "name": "rq8t9b",
+      "enabled": false
+    }
+  ]
+}
