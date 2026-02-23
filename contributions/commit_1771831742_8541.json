@@ -1,0 +1,37 @@
+{
+  "version": "2.5.78",
+  "timestamp": 1771831740759,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 13205,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-138-vg468i",
+    "hash": "febnx",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "avuz5r",
+      "enabled": true
+    },
+    {
+      "name": "6y9akh",
+      "enabled": true
+    },
+    {
+      "name": "63zwg3",
+      "enabled": false
+    },
+    {
+      "name": "lb9va",
+      "enabled": false
+    },
+    {
+      "name": "cyfy2l",
+      "enabled": false
+    }
+  ]
+}
