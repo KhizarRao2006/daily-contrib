@@ -1,0 +1,37 @@
+{
+  "version": "0.9.4",
+  "timestamp": 1771831740879,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 15438,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-896-cw2ix8",
+    "hash": "fwhcn",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "dryy15",
+      "enabled": false
+    },
+    {
+      "name": "krxrp8",
+      "enabled": false
+    },
+    {
+      "name": "2tz3oe",
+      "enabled": false
+    },
+    {
+      "name": "xi19hi",
+      "enabled": true
+    },
+    {
+      "name": "hx0sf7",
+      "enabled": false
+    }
+  ]
+}
