@@ -1,0 +1,37 @@
+{
+  "version": "0.13.8",
+  "timestamp": 1771831740847,
+  "config": {
+    "parallel": true,
+    "workers": 3,
+    "timeout": 32028,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-685-i0z62d",
+    "hash": "yimius",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "8ftnbq",
+      "enabled": true
+    },
+    {
+      "name": "2zcsuk",
+      "enabled": true
+    },
+    {
+      "name": "fw2wyq",
+      "enabled": false
+    },
+    {
+      "name": "w6hsn6",
+      "enabled": true
+    },
+    {
+      "name": "mupig",
+      "enabled": false
+    }
+  ]
+}
