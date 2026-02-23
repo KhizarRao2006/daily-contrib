@@ -1,0 +1,37 @@
+{
+  "version": "4.15.4",
+  "timestamp": 1771831740771,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 27657,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-218-8dlmg",
+    "hash": "ulfkth",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "2xhud",
+      "enabled": false
+    },
+    {
+      "name": "1gohj",
+      "enabled": true
+    },
+    {
+      "name": "8ac7nh",
+      "enabled": true
+    },
+    {
+      "name": "yvkkmb",
+      "enabled": false
+    },
+    {
+      "name": "6s25vw",
+      "enabled": true
+    }
+  ]
+}
