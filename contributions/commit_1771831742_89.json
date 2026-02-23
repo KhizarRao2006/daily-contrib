@@ -1,0 +1,37 @@
+{
+  "version": "2.10.30",
+  "timestamp": 1771831740860,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 13220,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-762-ahwwc",
+    "hash": "wo90a",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "sub36u",
+      "enabled": true
+    },
+    {
+      "name": "dj7ik4",
+      "enabled": false
+    },
+    {
+      "name": "lbq6v",
+      "enabled": true
+    },
+    {
+      "name": "3qqxoh",
+      "enabled": true
+    },
+    {
+      "name": "jh27at",
+      "enabled": true
+    }
+  ]
+}
