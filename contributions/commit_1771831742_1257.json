@@ -1,0 +1,37 @@
+{
+  "version": "1.14.17",
+  "timestamp": 1771831740841,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 27202,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-653-hwyryb",
+    "hash": "ozf9ry",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ya9ij",
+      "enabled": true
+    },
+    {
+      "name": "8r4i5k",
+      "enabled": true
+    },
+    {
+      "name": "mll59b",
+      "enabled": true
+    },
+    {
+      "name": "cbjy7y",
+      "enabled": true
+    },
+    {
+      "name": "iktk19",
+      "enabled": false
+    }
+  ]
+}
