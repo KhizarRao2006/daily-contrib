@@ -1,0 +1,37 @@
+{
+  "version": "1.14.68",
+  "timestamp": 1771831740815,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 23729,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-501-0ard17",
+    "hash": "m2mdoa",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "rvq4b6",
+      "enabled": false
+    },
+    {
+      "name": "u3h59s",
+      "enabled": true
+    },
+    {
+      "name": "zn2g5j",
+      "enabled": true
+    },
+    {
+      "name": "ga9h0t",
+      "enabled": true
+    },
+    {
+      "name": "0t7p6w",
+      "enabled": false
+    }
+  ]
+}
