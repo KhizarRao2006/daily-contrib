@@ -1,0 +1,37 @@
+{
+  "version": "2.18.16",
+  "timestamp": 1771831740889,
+  "config": {
+    "parallel": true,
+    "workers": 7,
+    "timeout": 15145,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-960-qss5ee",
+    "hash": "eo5op",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "488ky8",
+      "enabled": false
+    },
+    {
+      "name": "jt52t9",
+      "enabled": true
+    },
+    {
+      "name": "ytcf99",
+      "enabled": true
+    },
+    {
+      "name": "b2nv8",
+      "enabled": true
+    },
+    {
+      "name": "udvhr",
+      "enabled": true
+    }
+  ]
+}
