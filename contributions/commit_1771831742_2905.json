@@ -1,0 +1,37 @@
+{
+  "version": "4.14.21",
+  "timestamp": 1771831740751,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 6329,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-88-bem6l",
+    "hash": "xik34h",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "h0csw6",
+      "enabled": true
+    },
+    {
+      "name": "2pqou9",
+      "enabled": true
+    },
+    {
+      "name": "d7oc",
+      "enabled": true
+    },
+    {
+      "name": "11zxw",
+      "enabled": false
+    },
+    {
+      "name": "h89sqn",
+      "enabled": true
+    }
+  ]
+}
