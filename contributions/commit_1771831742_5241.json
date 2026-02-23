@@ -1,0 +1,37 @@
+{
+  "version": "0.16.61",
+  "timestamp": 1771831740889,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 19740,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-959-vudtrh",
+    "hash": "2r7k08",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "0607r4",
+      "enabled": true
+    },
+    {
+      "name": "k0z6hj",
+      "enabled": true
+    },
+    {
+      "name": "0ohdp",
+      "enabled": true
+    },
+    {
+      "name": "ygzgaa",
+      "enabled": false
+    },
+    {
+      "name": "n3wkyrr",
+      "enabled": true
+    }
+  ]
+}
