@@ -1,0 +1,37 @@
+{
+  "version": "1.12.93",
+  "timestamp": 1771831740863,
+  "config": {
+    "parallel": true,
+    "workers": 3,
+    "timeout": 29309,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-783-1sjtw9",
+    "hash": "d2aqd9",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "i266w",
+      "enabled": true
+    },
+    {
+      "name": "jlfwnm",
+      "enabled": true
+    },
+    {
+      "name": "lagztn",
+      "enabled": true
+    },
+    {
+      "name": "uf9pd",
+      "enabled": false
+    },
+    {
+      "name": "11xtdl",
+      "enabled": false
+    }
+  ]
+}
