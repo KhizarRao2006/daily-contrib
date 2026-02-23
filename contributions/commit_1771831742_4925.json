@@ -1,0 +1,37 @@
+{
+  "version": "4.15.93",
+  "timestamp": 1771831740823,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 12886,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-560-eabx4s",
+    "hash": "12vu1",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "6s2kvq",
+      "enabled": true
+    },
+    {
+      "name": "hfmrhn",
+      "enabled": true
+    },
+    {
+      "name": "4wl2rp",
+      "enabled": false
+    },
+    {
+      "name": "8duxs",
+      "enabled": true
+    },
+    {
+      "name": "5oadw",
+      "enabled": true
+    }
+  ]
+}
