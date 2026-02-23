@@ -1,0 +1,37 @@
+{
+  "version": "4.15.42",
+  "timestamp": 1771831740760,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 19538,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-147-rozoa",
+    "hash": "wb8v6d",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "mv4x5c",
+      "enabled": true
+    },
+    {
+      "name": "eiod5w",
+      "enabled": true
+    },
+    {
+      "name": "iu2d0p",
+      "enabled": true
+    },
+    {
+      "name": "se9i5c",
+      "enabled": false
+    },
+    {
+      "name": "uf5num",
+      "enabled": true
+    }
+  ]
+}
