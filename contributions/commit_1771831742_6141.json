@@ -1,0 +1,37 @@
+{
+  "version": "0.16.2",
+  "timestamp": 1771831740741,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 15224,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-41-d9yl4",
+    "hash": "15u7k",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "iebgsw",
+      "enabled": true
+    },
+    {
+      "name": "xm4qtf",
+      "enabled": true
+    },
+    {
+      "name": "ogm2ga",
+      "enabled": false
+    },
+    {
+      "name": "q5102",
+      "enabled": true
+    },
+    {
+      "name": "tzpylk",
+      "enabled": true
+    }
+  ]
+}
