@@ -1,0 +1,37 @@
+{
+  "version": "3.14.20",
+  "timestamp": 1771831740892,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 19191,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-980-rwox9u",
+    "hash": "ohrldb",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "y17v1o",
+      "enabled": true
+    },
+    {
+      "name": "q3kzyf",
+      "enabled": true
+    },
+    {
+      "name": "7nfxo",
+      "enabled": true
+    },
+    {
+      "name": "ueyz7",
+      "enabled": true
+    },
+    {
+      "name": "to5cd",
+      "enabled": false
+    }
+  ]
+}
