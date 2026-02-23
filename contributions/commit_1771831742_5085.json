@@ -1,0 +1,37 @@
+{
+  "version": "2.10.92",
+  "timestamp": 1771831740859,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 23856,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-750-5pb0xb",
+    "hash": "5btikq",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "pvxji4",
+      "enabled": true
+    },
+    {
+      "name": "5f7kwn",
+      "enabled": true
+    },
+    {
+      "name": "g5pg1q",
+      "enabled": true
+    },
+    {
+      "name": "kroxcc",
+      "enabled": true
+    },
+    {
+      "name": "co59vd",
+      "enabled": false
+    }
+  ]
+}
