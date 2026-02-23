@@ -1,0 +1,37 @@
+{
+  "version": "2.14.57",
+  "timestamp": 1771831740862,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 5906,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-777-m4cftr",
+    "hash": "p0o5xo",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "gwmrhr",
+      "enabled": false
+    },
+    {
+      "name": "no2dit",
+      "enabled": true
+    },
+    {
+      "name": "4kcnrq",
+      "enabled": true
+    },
+    {
+      "name": "gut36o",
+      "enabled": false
+    },
+    {
+      "name": "cvc0n8",
+      "enabled": true
+    }
+  ]
+}
