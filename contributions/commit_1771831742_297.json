@@ -1,0 +1,37 @@
+{
+  "version": "0.12.78",
+  "timestamp": 1771831740870,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 7136,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-832-fh7xh6",
+    "hash": "wk7cbn",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "3alvr",
+      "enabled": true
+    },
+    {
+      "name": "6g01cwx",
+      "enabled": true
+    },
+    {
+      "name": "ckwjni",
+      "enabled": false
+    },
+    {
+      "name": "4cou7",
+      "enabled": false
+    },
+    {
+      "name": "48z6gb",
+      "enabled": false
+    }
+  ]
+}
