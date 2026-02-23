@@ -1,0 +1,37 @@
+{
+  "version": "0.19.11",
+  "timestamp": 1771831740798,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 19528,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-391-18c2em",
+    "hash": "3410nb",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "sthvm7",
+      "enabled": true
+    },
+    {
+      "name": "u5hm5h",
+      "enabled": false
+    },
+    {
+      "name": "1mbt7",
+      "enabled": false
+    },
+    {
+      "name": "s3pqoo",
+      "enabled": true
+    },
+    {
+      "name": "owx0om",
+      "enabled": true
+    }
+  ]
+}
