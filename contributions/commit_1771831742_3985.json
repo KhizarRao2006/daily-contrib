@@ -1,0 +1,37 @@
+{
+  "version": "2.14.90",
+  "timestamp": 1771831740760,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 9748,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-146-x6rga",
+    "hash": "4hsv2",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "u8627j",
+      "enabled": true
+    },
+    {
+      "name": "kuseuo",
+      "enabled": false
+    },
+    {
+      "name": "luo2q",
+      "enabled": false
+    },
+    {
+      "name": "r4sipk",
+      "enabled": true
+    },
+    {
+      "name": "i0emsa",
+      "enabled": true
+    }
+  ]
+}
