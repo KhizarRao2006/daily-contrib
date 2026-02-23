@@ -1,0 +1,37 @@
+{
+  "version": "3.17.17",
+  "timestamp": 1771831740793,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 6831,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-357-dsgbt",
+    "hash": "8s3f89",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "8mp6j",
+      "enabled": true
+    },
+    {
+      "name": "w6b6v",
+      "enabled": false
+    },
+    {
+      "name": "x4snvi",
+      "enabled": true
+    },
+    {
+      "name": "h2smg",
+      "enabled": true
+    },
+    {
+      "name": "wqc1iy",
+      "enabled": false
+    }
+  ]
+}
