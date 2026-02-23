@@ -1822,3 +1822,4 @@
 - [2026-02-23T07:16:03.582Z] Docs: Clarify installation steps in README (#1874)
 - [2026-02-23T07:16:05.386Z] Feat: Add support for multi-region clusters (#1876)
 - [2026-02-23T07:16:09.139Z] Docs: Clarify installation steps in README (#1882)
+- [2026-02-23T07:16:11.079Z] Refactor: Extract utility functions for cleaner code (#1885)
