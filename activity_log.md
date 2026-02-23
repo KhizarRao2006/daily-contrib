@@ -1286,3 +1286,4 @@
 - [2026-02-23T07:02:04.704Z] Style: Modernize UI components with better spacing (#513)
 - [2026-02-23T07:02:07.354Z] Build: Optimize CI/CD pipeline stages (#518)
 - [2026-02-23T07:02:11.190Z] Update: Refresh dependencies for security compliance (#525)
+- [2026-02-23T07:02:13.924Z] Docs: Clarify installation steps in README (#530)
