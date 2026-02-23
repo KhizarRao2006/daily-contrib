@@ -1,0 +1,37 @@
+{
+  "version": "4.12.23",
+  "timestamp": 1771831740839,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 12782,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-640-8rgum4",
+    "hash": "qjdb9l",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "2br7c9",
+      "enabled": true
+    },
+    {
+      "name": "hw9cq",
+      "enabled": true
+    },
+    {
+      "name": "83xjvn",
+      "enabled": true
+    },
+    {
+      "name": "i1cfh",
+      "enabled": false
+    },
+    {
+      "name": "9aoq2",
+      "enabled": true
+    }
+  ]
+}
