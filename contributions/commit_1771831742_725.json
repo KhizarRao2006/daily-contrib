@@ -1,0 +1,37 @@
+{
+  "version": "0.8.6",
+  "timestamp": 1771831740803,
+  "config": {
+    "parallel": true,
+    "workers": 5,
+    "timeout": 27501,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-423-iy3jjn",
+    "hash": "bj3tbx",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "sids6v",
+      "enabled": true
+    },
+    {
+      "name": "u950jt",
+      "enabled": false
+    },
+    {
+      "name": "98apwh",
+      "enabled": false
+    },
+    {
+      "name": "re18ws",
+      "enabled": true
+    },
+    {
+      "name": "rxc5",
+      "enabled": false
+    }
+  ]
+}
