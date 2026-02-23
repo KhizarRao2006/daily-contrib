@@ -1,0 +1,37 @@
+{
+  "version": "3.8.31",
+  "timestamp": 1771831740837,
+  "config": {
+    "parallel": true,
+    "workers": 2,
+    "timeout": 32121,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-631-i5amhp",
+    "hash": "i2m9ri",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "8a5xry",
+      "enabled": false
+    },
+    {
+      "name": "9uuiva",
+      "enabled": true
+    },
+    {
+      "name": "qd1u5g",
+      "enabled": true
+    },
+    {
+      "name": "mapnro",
+      "enabled": true
+    },
+    {
+      "name": "tu2kfk",
+      "enabled": true
+    }
+  ]
+}
