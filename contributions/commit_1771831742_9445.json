@@ -1,0 +1,37 @@
+{
+  "version": "4.12.41",
+  "timestamp": 1771831740830,
+  "config": {
+    "parallel": true,
+    "workers": 3,
+    "timeout": 16022,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-586-x468z",
+    "hash": "ng0jy",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "sb5tc7",
+      "enabled": true
+    },
+    {
+      "name": "by8xd",
+      "enabled": true
+    },
+    {
+      "name": "dezw2",
+      "enabled": false
+    },
+    {
+      "name": "rhav0v",
+      "enabled": true
+    },
+    {
+      "name": "p57lce",
+      "enabled": true
+    }
+  ]
+}
