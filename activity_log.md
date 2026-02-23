@@ -1416,3 +1416,4 @@
 - [2026-02-23T07:05:03.870Z] Improve: Enhance state management with better scoping (#853)
 - [2026-02-23T07:05:04.999Z] Build: Optimize CI/CD pipeline stages (#855)
 - [2026-02-23T07:05:06.153Z] Feat: Add support for multi-region clusters (#857)
+- [2026-02-23T07:05:09.263Z] Docs: Clarify installation steps in README (#863)
