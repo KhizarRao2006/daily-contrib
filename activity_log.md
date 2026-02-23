@@ -1427,3 +1427,4 @@
 - [2026-02-23T07:05:19.507Z] Docs: Update API documentation for v2 (#883)
 - [2026-02-23T07:05:21.003Z] Modernize: Transition to ES2023 features (#886)
 - [2026-02-23T07:05:21.494Z] Perf: Improve database query execution time (#887)
+- [2026-02-23T07:05:24.507Z] Feat: Add support for multi-region clusters (#892)
