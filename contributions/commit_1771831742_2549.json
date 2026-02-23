@@ -1,0 +1,37 @@
+{
+  "version": "0.5.55",
+  "timestamp": 1771831740797,
+  "config": {
+    "parallel": true,
+    "workers": 2,
+    "timeout": 16507,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-383-44kqi",
+    "hash": "kuvnng",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "uzrj1",
+      "enabled": true
+    },
+    {
+      "name": "2219pv",
+      "enabled": false
+    },
+    {
+      "name": "9jhd7f",
+      "enabled": true
+    },
+    {
+      "name": "pgjt08",
+      "enabled": false
+    },
+    {
+      "name": "bgvi4p",
+      "enabled": true
+    }
+  ]
+}
