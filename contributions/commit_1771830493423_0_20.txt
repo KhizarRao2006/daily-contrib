@@ -1,2 +1,0 @@
-// Update 20
-console.log("version: 67e33b2bf40ea424");

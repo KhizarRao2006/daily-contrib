@@ -1,2 +1,0 @@
-// Update 1768
-console.log("version: 87fcc7a9d57de60c");

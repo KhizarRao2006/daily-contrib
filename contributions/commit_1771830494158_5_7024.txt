@@ -1,2 +1,0 @@
-// Update 7024
-console.log("version: 57880fa28b12932d");

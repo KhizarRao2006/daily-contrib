@@ -1,2 +1,0 @@
-// Update 2688
-console.log("version: b2bab0e24eb0b904");

@@ -1,2 +1,0 @@
-// Update 1204
-console.log("version: 63b5f24d155f109f");

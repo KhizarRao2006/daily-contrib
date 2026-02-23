@@ -1,2 +1,0 @@
-// Update 7860
-console.log("version: 789536ab9e015340");

@@ -1,2 +1,0 @@
-// Update 940
-console.log("version: cc20e55962220dd8");

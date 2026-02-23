@@ -1,2 +1,0 @@
-// Update 2776
-console.log("version: b65d0d5cd05b9184");

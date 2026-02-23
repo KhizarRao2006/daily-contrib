@@ -1,2 +1,0 @@
-// Update 1704
-console.log("version: a9c88536dd14a49f");

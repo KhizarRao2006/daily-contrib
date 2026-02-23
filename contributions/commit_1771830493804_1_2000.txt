@@ -1,2 +1,0 @@
-// Update 2000
-console.log("version: 89adab1dba7bfd60");

@@ -1,2 +1,0 @@
-// Update 1640
-console.log("version: 8a8e84b5f570613d");

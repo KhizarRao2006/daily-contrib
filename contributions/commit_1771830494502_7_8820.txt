@@ -1,2 +1,0 @@
-// Update 8820
-console.log("version: adf8476d840991e7");

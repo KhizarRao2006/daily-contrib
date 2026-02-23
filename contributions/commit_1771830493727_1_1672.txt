@@ -1,2 +1,0 @@
-// Update 1672
-console.log("version: 2805f4a9bf9f1a5f");

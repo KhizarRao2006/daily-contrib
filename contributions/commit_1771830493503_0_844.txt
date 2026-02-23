@@ -1,2 +1,0 @@
-// Update 844
-console.log("version: b22cf55e247d6ee2");

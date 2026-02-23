@@ -1,2 +1,0 @@
-// Update 9412
-console.log("version: 400dd07fb8cbe271");

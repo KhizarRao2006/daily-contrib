@@ -1,2 +1,0 @@
-// Update 6624
-console.log("version: da1227047cfb1ffe");

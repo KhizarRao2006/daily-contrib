@@ -1,2 +1,0 @@
-// Update 300
-console.log("version: 05eaaff6ef28bd2c");

@@ -1,2 +1,0 @@
-// Update 688
-console.log("version: dc401e2458ba1569");

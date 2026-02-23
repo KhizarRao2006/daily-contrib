@@ -1,2 +1,0 @@
-// Update 3072
-console.log("version: c631c4704dd008f8");

@@ -1,2 +1,0 @@
-// Update 1884
-console.log("version: 967a4097826f246a");

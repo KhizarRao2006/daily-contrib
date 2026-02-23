@@ -1,2 +1,0 @@
-// Update 1860
-console.log("version: e9031fd83c29bfeb");

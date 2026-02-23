@@ -1,2 +1,0 @@
-// Update 8600
-console.log("version: e67391a85ac6adb4");

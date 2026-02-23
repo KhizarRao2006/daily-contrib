@@ -1,2 +1,0 @@
-// Update 6780
-console.log("version: 6f8a372cd25065cb");

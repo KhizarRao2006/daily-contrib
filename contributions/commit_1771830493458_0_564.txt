@@ -1,2 +1,0 @@
-// Update 564
-console.log("version: 17b3245c59c51a0f");

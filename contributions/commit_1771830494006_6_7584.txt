@@ -1,2 +1,0 @@
-// Update 7584
-console.log("version: 00ca498290810473");

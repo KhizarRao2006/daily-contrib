@@ -1,2 +1,0 @@
-// Update 1300
-console.log("version: d30ae048805719ba");

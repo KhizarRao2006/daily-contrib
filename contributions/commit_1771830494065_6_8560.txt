@@ -1,2 +1,0 @@
-// Update 8560
-console.log("version: 726ba3d8f56a7b89");

@@ -1,2 +1,0 @@
-// Update 6804
-console.log("version: 874a39542001d7e8");

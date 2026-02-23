@@ -1,2 +1,0 @@
-// Update 9600
-console.log("version: 5bec37bd250e2250");

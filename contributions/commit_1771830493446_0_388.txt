@@ -1,2 +1,0 @@
-// Update 388
-console.log("version: 93f6adf879af6c7f");

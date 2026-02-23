@@ -1,2 +1,0 @@
-// Update 436
-console.log("version: af41a8f69124830a");

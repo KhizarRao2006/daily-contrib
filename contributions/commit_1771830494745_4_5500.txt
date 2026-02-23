@@ -1,2 +1,0 @@
-// Update 5500
-console.log("version: 9241014101a62e66");

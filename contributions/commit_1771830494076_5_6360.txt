@@ -1,2 +1,0 @@
-// Update 6360
-console.log("version: ef269fc8a76c2132");

@@ -1,2 +1,0 @@
-// Update 8308
-console.log("version: eb64b52ff6bed729");

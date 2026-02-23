@@ -1,2 +1,0 @@
-// Update 7340
-console.log("version: dd18bd7047cb315e");

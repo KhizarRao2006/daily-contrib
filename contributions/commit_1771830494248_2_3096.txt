@@ -1,2 +1,0 @@
-// Update 3096
-console.log("version: 08ce26cf6be67191");

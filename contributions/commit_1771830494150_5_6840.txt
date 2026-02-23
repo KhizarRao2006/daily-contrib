@@ -1,2 +1,0 @@
-// Update 6840
-console.log("version: c42f65e4e97baf47");

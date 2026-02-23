@@ -1,2 +1,0 @@
-// Update 7432
-console.log("version: ef4482c589446457");

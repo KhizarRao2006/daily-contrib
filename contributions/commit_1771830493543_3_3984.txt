@@ -1,2 +1,0 @@
-// Update 3984
-console.log("version: 0c7990258de215fd");

@@ -1,2 +1,0 @@
-// Update 4420
-console.log("version: ed9c583f436dc367");

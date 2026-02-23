@@ -1,2 +1,0 @@
-// Update 1908
-console.log("version: c0c295a3aa646ed5");

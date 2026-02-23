@@ -1,2 +1,0 @@
-// Update 6432
-console.log("version: abc6c951f0782d68");

@@ -1,2 +1,0 @@
-// Update 608
-console.log("version: c36334eca0bf9349");

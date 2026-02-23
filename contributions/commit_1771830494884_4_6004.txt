@@ -1,2 +1,0 @@
-// Update 6004
-console.log("version: f58494636426b32d");

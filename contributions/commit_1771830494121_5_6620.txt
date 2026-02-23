@@ -1,2 +1,0 @@
-// Update 6620
-console.log("version: b43df19fd5b8698f");

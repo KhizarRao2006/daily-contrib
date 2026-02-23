@@ -1,2 +1,0 @@
-// Update 6020
-console.log("version: ef20e04ff24e275c");

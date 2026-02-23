@@ -1,2 +1,0 @@
-// Update 4224
-console.log("version: f4756a7dbc901948");

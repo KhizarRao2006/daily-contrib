@@ -1,2 +1,0 @@
-// Update 8780
-console.log("version: c282245bed2caf62");

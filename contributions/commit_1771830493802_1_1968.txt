@@ -1,2 +1,0 @@
-// Update 1968
-console.log("version: dac3501130d9aa48");

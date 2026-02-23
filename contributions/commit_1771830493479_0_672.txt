@@ -1,2 +1,0 @@
-// Update 672
-console.log("version: 0d0ba660f78e6394");

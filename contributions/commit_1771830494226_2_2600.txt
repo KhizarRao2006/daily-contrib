@@ -1,2 +1,0 @@
-// Update 2600
-console.log("version: a62feaecdd474f1c");

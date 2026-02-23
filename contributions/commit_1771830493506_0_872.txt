@@ -1,2 +1,0 @@
-// Update 872
-console.log("version: db5168fb4c6a7415");

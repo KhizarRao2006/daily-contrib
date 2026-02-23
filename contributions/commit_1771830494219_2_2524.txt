@@ -1,2 +1,0 @@
-// Update 2524
-console.log("version: ca61b7137bcd3547");

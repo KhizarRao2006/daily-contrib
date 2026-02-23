@@ -1,2 +1,0 @@
-// Update 800
-console.log("version: 2d1a221ca71060d0");

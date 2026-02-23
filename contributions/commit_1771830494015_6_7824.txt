@@ -1,2 +1,0 @@
-// Update 7824
-console.log("version: edbab7b39930662a");

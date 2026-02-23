@@ -1,2 +1,0 @@
-// Update 3700
-console.log("version: 3023495fcd793250");

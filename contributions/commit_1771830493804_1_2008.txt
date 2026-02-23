@@ -1,2 +1,0 @@
-// Update 2008
-console.log("version: f26557bf457f5b4c");

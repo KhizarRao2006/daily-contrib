@@ -1,2 +1,0 @@
-// Update 7728
-console.log("version: f854af604745e35f");

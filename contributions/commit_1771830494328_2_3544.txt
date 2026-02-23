@@ -1,2 +1,0 @@
-// Update 3544
-console.log("version: a926c5798d2366c0");

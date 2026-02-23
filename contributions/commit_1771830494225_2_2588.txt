@@ -1,2 +1,0 @@
-// Update 2588
-console.log("version: 8a30556faa2ca89d");

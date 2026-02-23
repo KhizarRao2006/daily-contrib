@@ -1,2 +1,0 @@
-// Update 3780
-console.log("version: 564dd886eeb7b25e");

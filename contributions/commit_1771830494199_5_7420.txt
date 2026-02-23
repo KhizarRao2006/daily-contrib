@@ -1,2 +1,0 @@
-// Update 7420
-console.log("version: 16c800c03ed3151e");

@@ -1,2 +1,0 @@
-// Update 860
-console.log("version: 1a1944dd2e905df8");

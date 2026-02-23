@@ -1,2 +1,0 @@
-// Update 4700
-console.log("version: faf20e78a25b4c90");

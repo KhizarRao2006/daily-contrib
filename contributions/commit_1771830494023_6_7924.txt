@@ -1,2 +1,0 @@
-// Update 7924
-console.log("version: 9b89444c21b07e9d");

@@ -1,2 +1,0 @@
-// Update 4228
-console.log("version: 39675985cfb79cc3");

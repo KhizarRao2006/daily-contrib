@@ -1,2 +1,0 @@
-// Update 6460
-console.log("version: 2b356f53702fa1ed");

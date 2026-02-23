@@ -1,2 +1,0 @@
-// Update 2020
-console.log("version: 3c817b3df18d93ea");

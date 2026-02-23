@@ -1,2 +1,0 @@
-// Update 7944
-console.log("version: 1570af6e233c2b3e");

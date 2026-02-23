@@ -1,2 +1,0 @@
-// Update 728
-console.log("version: 734b5962069928b5");

@@ -1,2 +1,0 @@
-// Update 1516
-console.log("version: db4b8ec6b76fe8f6");

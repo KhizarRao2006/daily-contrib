@@ -1,2 +1,0 @@
-// Update 5788
-console.log("version: ff832ecca8b19c8a");

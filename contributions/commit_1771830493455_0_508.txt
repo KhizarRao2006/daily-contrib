@@ -1,2 +1,0 @@
-// Update 508
-console.log("version: 7c7e1b5bc04e6df8");

@@ -1,2 +1,0 @@
-// Update 8440
-console.log("version: 3882e4b35f300998");

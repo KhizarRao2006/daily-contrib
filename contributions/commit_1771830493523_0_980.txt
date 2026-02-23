@@ -1,2 +1,0 @@
-// Update 980
-console.log("version: 60eef5a59c31178c");

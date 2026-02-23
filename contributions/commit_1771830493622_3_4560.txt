@@ -1,2 +1,0 @@
-// Update 4560
-console.log("version: a97bef4bedcfdccd");

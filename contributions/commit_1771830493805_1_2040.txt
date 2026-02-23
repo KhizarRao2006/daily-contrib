@@ -1,2 +1,0 @@
-// Update 2040
-console.log("version: e46472ef8991270d");

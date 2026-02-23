@@ -1,2 +1,0 @@
-// Update 736
-console.log("version: c991b06347f7af4e");

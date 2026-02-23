@@ -1,2 +1,0 @@
-// Update 9404
-console.log("version: 3c0202d377b010b8");

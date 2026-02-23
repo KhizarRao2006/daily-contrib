@@ -1,2 +1,0 @@
-// Update 316
-console.log("version: 6f4d14eea5d70970");

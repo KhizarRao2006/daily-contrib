@@ -1,2 +1,0 @@
-// Update 9844
-console.log("version: bc3bf2c89a129f44");

@@ -1,2 +1,0 @@
-// Update 3028
-console.log("version: 4976b7893d5d7874");

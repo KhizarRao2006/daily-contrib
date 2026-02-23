@@ -1,2 +1,0 @@
-// Update 5700
-console.log("version: e27bc1bddef8225d");

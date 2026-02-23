@@ -1,2 +1,0 @@
-// Update 2804
-console.log("version: ac6973d2eaf01acc");

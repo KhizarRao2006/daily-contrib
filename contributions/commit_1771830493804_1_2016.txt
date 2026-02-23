@@ -1,2 +1,0 @@
-// Update 2016
-console.log("version: e37e6831b5ed22f5");

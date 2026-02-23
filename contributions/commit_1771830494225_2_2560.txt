@@ -1,2 +1,0 @@
-// Update 2560
-console.log("version: 996fec58f89fb003");

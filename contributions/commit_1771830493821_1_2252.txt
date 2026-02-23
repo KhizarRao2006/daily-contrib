@@ -1,2 +1,0 @@
-// Update 2252
-console.log("version: 06a14ee5264919b5");

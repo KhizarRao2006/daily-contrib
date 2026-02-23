@@ -1,2 +1,0 @@
-// Update 1568
-console.log("version: aa10e494e8e43513");

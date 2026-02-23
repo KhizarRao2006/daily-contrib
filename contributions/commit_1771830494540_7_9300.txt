@@ -1,2 +1,0 @@
-// Update 9300
-console.log("version: 28e6dc8f18b7cbf9");

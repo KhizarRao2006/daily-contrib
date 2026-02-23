@@ -1,2 +1,0 @@
-// Update 8504
-console.log("version: 05d5913df3f2074d");

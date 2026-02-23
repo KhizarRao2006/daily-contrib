@@ -1,2 +1,0 @@
-// Update 9720
-console.log("version: ea71f0ed2ab03415");

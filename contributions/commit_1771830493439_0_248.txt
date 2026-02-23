@@ -1,2 +1,0 @@
-// Update 248
-console.log("version: be50021727594c52");

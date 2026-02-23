@@ -1,2 +1,0 @@
-// Update 5724
-console.log("version: b27c3988682d4cef");

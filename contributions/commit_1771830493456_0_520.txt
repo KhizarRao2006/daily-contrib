@@ -1,2 +1,0 @@
-// Update 520
-console.log("version: 2bf67d43303897c2");

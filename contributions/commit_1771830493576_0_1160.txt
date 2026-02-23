@@ -1,2 +1,0 @@
-// Update 1160
-console.log("version: be724bec4a716c11");

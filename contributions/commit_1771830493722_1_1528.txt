@@ -1,2 +1,0 @@
-// Update 1528
-console.log("version: cace587728127344");

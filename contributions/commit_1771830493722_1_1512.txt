@@ -1,2 +1,0 @@
-// Update 1512
-console.log("version: c1070823f4c3b9fa");

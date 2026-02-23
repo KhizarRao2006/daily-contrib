@@ -1,2 +1,0 @@
-// Update 8028
-console.log("version: a8717a2e54f35b0b");

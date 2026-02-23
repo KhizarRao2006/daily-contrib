@@ -1,2 +1,0 @@
-// Update 7820
-console.log("version: 054e8c40efc87686");

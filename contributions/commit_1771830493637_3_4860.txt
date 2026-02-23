@@ -1,2 +1,0 @@
-// Update 4860
-console.log("version: e385e908e9b53f21");

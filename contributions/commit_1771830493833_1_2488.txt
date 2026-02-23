@@ -1,2 +1,0 @@
-// Update 2488
-console.log("version: db5bf11d93b4c7cb");

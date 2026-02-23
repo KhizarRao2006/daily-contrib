@@ -1,2 +1,0 @@
-// Update 2240
-console.log("version: ff11257e3e5a0a84");

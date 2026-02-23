@@ -1,2 +1,0 @@
-// Update 776
-console.log("version: fc90f215b073b031");

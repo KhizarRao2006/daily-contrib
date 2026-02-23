@@ -1,2 +1,0 @@
-// Update 2980
-console.log("version: 290e349fa529276d");

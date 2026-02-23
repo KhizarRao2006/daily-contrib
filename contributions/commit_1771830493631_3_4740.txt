@@ -1,2 +1,0 @@
-// Update 4740
-console.log("version: df51462817b99860");

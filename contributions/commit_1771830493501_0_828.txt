@@ -1,2 +1,0 @@
-// Update 828
-console.log("version: aeeda2855ed5ab30");

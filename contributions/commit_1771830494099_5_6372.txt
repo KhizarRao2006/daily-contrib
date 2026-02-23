@@ -1,2 +1,0 @@
-// Update 6372
-console.log("version: d64d63dd6aa367b4");

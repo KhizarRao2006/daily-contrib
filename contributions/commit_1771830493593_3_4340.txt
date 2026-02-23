@@ -1,2 +1,0 @@
-// Update 4340
-console.log("version: ea05da7f88034dac");

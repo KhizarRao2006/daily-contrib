@@ -1,2 +1,0 @@
-// Update 1660
-console.log("version: 0fcb95b2ec451753");

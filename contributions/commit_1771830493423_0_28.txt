@@ -1,2 +1,0 @@
-// Update 28
-console.log("version: fba600234a09f7a5");

@@ -1,2 +1,0 @@
-// Update 2672
-console.log("version: 4098bd2bf5d2713a");

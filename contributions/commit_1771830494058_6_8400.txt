@@ -1,2 +1,0 @@
-// Update 8400
-console.log("version: 806bcf47ee3e63af");

@@ -1,2 +1,0 @@
-// Update 1496
-console.log("version: ee1a07e9662207ff");

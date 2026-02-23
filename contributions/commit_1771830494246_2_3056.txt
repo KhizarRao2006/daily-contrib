@@ -1,2 +1,0 @@
-// Update 3056
-console.log("version: cc7d63d35717e360");

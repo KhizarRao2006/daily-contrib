@@ -1,2 +1,0 @@
-// Update 8896
-console.log("version: f10250539320d3f2");

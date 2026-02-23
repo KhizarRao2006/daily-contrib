@@ -1,2 +1,0 @@
-// Update 660
-console.log("version: 04ffb0f159c81ec4");

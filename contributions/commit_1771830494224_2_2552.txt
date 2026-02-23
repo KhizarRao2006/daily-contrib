@@ -1,2 +1,0 @@
-// Update 2552
-console.log("version: ec9566859c25c2c3");

@@ -1,2 +1,0 @@
-// Update 604
-console.log("version: 5c2a8532563a12d6");

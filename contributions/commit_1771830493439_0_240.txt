@@ -1,2 +1,0 @@
-// Update 240
-console.log("version: ce16ec67b9452415");

@@ -1,2 +1,0 @@
-// Update 760
-console.log("version: c2169215075664f0");

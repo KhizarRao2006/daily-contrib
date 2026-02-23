@@ -1,2 +1,0 @@
-// Update 1560
-console.log("version: cb047fa009d36a9d");

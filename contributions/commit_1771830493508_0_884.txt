@@ -1,2 +1,0 @@
-// Update 884
-console.log("version: 26bcc28b1b9c7c09");

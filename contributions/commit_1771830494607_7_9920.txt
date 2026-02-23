@@ -1,2 +1,0 @@
-// Update 9920
-console.log("version: 839d2b24d957834b");

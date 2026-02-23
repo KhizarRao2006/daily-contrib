@@ -1,2 +1,0 @@
-// Update 1600
-console.log("version: 662e1259280f543b");

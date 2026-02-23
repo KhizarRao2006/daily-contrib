@@ -1,2 +1,0 @@
-// Update 4
-console.log("version: e17a4c6af2420fca");

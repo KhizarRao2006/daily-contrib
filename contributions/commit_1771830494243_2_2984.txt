@@ -1,2 +1,0 @@
-// Update 2984
-console.log("version: def264d791b79683");

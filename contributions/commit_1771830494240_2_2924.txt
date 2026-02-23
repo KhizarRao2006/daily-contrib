@@ -1,2 +1,0 @@
-// Update 2924
-console.log("version: a6dce8d0e34777bf");

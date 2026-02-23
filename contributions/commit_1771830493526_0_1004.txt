@@ -1,2 +1,0 @@
-// Update 1004
-console.log("version: 6957c4a6873f22c2");

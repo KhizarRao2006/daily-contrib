@@ -1,2 +1,0 @@
-// Update 260
-console.log("version: 279be74e7904c71b");

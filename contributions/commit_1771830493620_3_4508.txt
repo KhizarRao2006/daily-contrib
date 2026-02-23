@@ -1,2 +1,0 @@
-// Update 4508
-console.log("version: e4df494bca5e6b42");

@@ -1,2 +1,0 @@
-// Update 480
-console.log("version: 65696345aaede1c9");

@@ -1,2 +1,0 @@
-// Update 380
-console.log("version: c774414668e7ddd5");

@@ -1,2 +1,0 @@
-// Update 1804
-console.log("version: d45b11d9b8f539e3");

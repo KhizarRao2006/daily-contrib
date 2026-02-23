@@ -1,2 +1,0 @@
-// Update 6120
-console.log("version: 8c8fc770c0223e8f");

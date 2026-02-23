@@ -1,2 +1,0 @@
-// Update 2072
-console.log("version: b72f2cfdc55d2dcd");

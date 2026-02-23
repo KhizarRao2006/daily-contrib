@@ -1,2 +1,0 @@
-// Update 7260
-console.log("version: 02fa0b24837bcf08");

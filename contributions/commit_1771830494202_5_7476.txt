@@ -1,2 +1,0 @@
-// Update 7476
-console.log("version: d168cc03bc474841");

@@ -1,2 +1,0 @@
-// Update 8364
-console.log("version: 00c846e927db24d2");

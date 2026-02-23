@@ -1,2 +1,0 @@
-// Update 1920
-console.log("version: 46f93268e7834d19");

@@ -1,2 +1,0 @@
-// Update 2304
-console.log("version: 96882a737097b543");

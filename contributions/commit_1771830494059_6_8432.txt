@@ -1,2 +1,0 @@
-// Update 8432
-console.log("version: 0471b83605f4ecf2");

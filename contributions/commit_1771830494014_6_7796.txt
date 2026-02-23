@@ -1,2 +1,0 @@
-// Update 7796
-console.log("version: cd3eb7cdb3f9e4b4");

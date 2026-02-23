@@ -1,2 +1,0 @@
-// Update 6916
-console.log("version: da2d2a4d64d57d5e");

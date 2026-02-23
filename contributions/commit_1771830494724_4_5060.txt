@@ -1,2 +1,0 @@
-// Update 5060
-console.log("version: 306aee8959ad2ddb");

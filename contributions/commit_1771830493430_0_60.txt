@@ -1,2 +1,0 @@
-// Update 60
-console.log("version: 6f2a2a46d32e5e2c");

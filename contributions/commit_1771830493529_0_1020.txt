@@ -1,2 +1,0 @@
-// Update 1020
-console.log("version: 1a7b95d4da224087");

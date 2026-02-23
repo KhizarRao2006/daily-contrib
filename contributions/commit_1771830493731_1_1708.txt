@@ -1,2 +1,0 @@
-// Update 1708
-console.log("version: eeae2958ccb354ba");

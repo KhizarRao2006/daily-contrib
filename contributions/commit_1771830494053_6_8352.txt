@@ -1,2 +1,0 @@
-// Update 8352
-console.log("version: 6b54ba838494315a");

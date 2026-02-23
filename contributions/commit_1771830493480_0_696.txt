@@ -1,2 +1,0 @@
-// Update 696
-console.log("version: 2415b14d37f8107b");

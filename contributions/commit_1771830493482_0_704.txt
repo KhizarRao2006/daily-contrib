@@ -1,2 +1,0 @@
-// Update 704
-console.log("version: 7da9795044bb7b7e");

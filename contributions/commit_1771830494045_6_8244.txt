@@ -1,2 +1,0 @@
-// Update 8244
-console.log("version: 411a682ad60fedd2");

@@ -1,2 +1,0 @@
-// Update 312
-console.log("version: 15421cb56b5f578b");

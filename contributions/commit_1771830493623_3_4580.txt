@@ -1,2 +1,0 @@
-// Update 4580
-console.log("version: e06127c04e060af7");

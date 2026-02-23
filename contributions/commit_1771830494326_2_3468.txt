@@ -1,2 +1,0 @@
-// Update 3468
-console.log("version: cdb03af634216320");

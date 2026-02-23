@@ -1,2 +1,0 @@
-// Update 504
-console.log("version: 71ad0bbf8651e6f1");

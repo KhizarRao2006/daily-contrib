@@ -1,2 +1,0 @@
-// Update 420
-console.log("version: d401621326486ca4");

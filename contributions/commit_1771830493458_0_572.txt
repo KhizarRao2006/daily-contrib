@@ -1,2 +1,0 @@
-// Update 572
-console.log("version: c50dd24b3109455b");

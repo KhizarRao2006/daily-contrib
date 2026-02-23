@@ -1,2 +1,0 @@
-// Update 1880
-console.log("version: 3c652bb86de7fc65");

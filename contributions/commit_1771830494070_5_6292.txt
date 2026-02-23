@@ -1,2 +1,0 @@
-// Update 6292
-console.log("version: bf6b23ffd75c6f8c");

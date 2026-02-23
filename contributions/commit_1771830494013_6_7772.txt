@@ -1,2 +1,0 @@
-// Update 7772
-console.log("version: 822d33d042bd9f88");

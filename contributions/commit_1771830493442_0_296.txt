@@ -1,2 +1,0 @@
-// Update 296
-console.log("version: ff319b8b0e4b74bd");

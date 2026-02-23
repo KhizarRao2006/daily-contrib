@@ -1,2 +1,0 @@
-// Update 9900
-console.log("version: 73df2332c55cbfe1");

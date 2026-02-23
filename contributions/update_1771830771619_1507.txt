@@ -1,6 +1,0 @@
-{
-  "status": "success",
-  "timestamp": "2026-02-23T07:12:51.620Z",
-  "entropy": 0.06445388876888725,
-  "node": "cluster-2"
-}

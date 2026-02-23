@@ -1,2 +1,0 @@
-// Update 384
-console.log("version: adf2a12cf61771f9");

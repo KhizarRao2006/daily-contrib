@@ -1,2 +1,0 @@
-// Update 1948
-console.log("version: c0aeb7fd75325789");

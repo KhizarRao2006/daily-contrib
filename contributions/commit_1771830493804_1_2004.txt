@@ -1,2 +1,0 @@
-// Update 2004
-console.log("version: 7e43cb8423fd783d");

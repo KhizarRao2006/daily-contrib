@@ -1,2 +1,0 @@
-// Update 6600
-console.log("version: d2c26f9efbcd7950");

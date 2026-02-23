@@ -1,2 +1,0 @@
-// Update 2520
-console.log("version: ca28c6f85ea381d7");

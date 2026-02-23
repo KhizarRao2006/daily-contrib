@@ -1,2 +1,0 @@
-// Update 668
-console.log("version: afe46fa98c57a586");

@@ -1,2 +1,0 @@
-// Update 9812
-console.log("version: bd4afcc04fb136e3");

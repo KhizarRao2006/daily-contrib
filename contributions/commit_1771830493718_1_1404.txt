@@ -1,2 +1,0 @@
-// Update 1404
-console.log("version: cccbe568d4aebee8");

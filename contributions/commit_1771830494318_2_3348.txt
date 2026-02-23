@@ -1,2 +1,0 @@
-// Update 3348
-console.log("version: ca70596940f95ac1");

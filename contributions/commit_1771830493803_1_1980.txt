@@ -1,2 +1,0 @@
-// Update 1980
-console.log("version: 887961decc5fe3b5");

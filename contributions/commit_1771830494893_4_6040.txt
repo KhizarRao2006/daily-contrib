@@ -1,2 +1,0 @@
-// Update 6040
-console.log("version: b9900ea26ccb7654");

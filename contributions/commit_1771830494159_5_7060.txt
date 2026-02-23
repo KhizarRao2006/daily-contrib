@@ -1,2 +1,0 @@
-// Update 7060
-console.log("version: 6c5d1261156e212d");

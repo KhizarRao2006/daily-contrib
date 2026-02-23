@@ -1,2 +1,0 @@
-// Update 1976
-console.log("version: ca141b13213696e8");

@@ -1,2 +1,0 @@
-// Update 1524
-console.log("version: caf1039a80a223f9");

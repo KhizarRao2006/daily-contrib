@@ -1,2 +1,0 @@
-// Update 7888
-console.log("version: b56260fa55c7b63e");

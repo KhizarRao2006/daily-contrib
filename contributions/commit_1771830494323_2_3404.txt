@@ -1,2 +1,0 @@
-// Update 3404
-console.log("version: 81a5901c2de9e8a5");

@@ -1,2 +1,0 @@
-// Update 2880
-console.log("version: ecea8d8ddf3d09c5");

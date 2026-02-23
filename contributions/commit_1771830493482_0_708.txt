@@ -1,2 +1,0 @@
-// Update 708
-console.log("version: 0b8a9d1baa6c0eef");

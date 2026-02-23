@@ -1,2 +1,0 @@
-// Update 2540
-console.log("version: 8c1a1ffecf6e1772");

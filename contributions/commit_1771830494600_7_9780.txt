@@ -1,2 +1,0 @@
-// Update 9780
-console.log("version: cd2e7d8b9e870bbe");

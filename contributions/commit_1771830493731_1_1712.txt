@@ -1,2 +1,0 @@
-// Update 1712
-console.log("version: 149e6bd080749069");

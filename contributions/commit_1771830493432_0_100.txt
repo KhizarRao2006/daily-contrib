@@ -1,2 +1,0 @@
-// Update 100
-console.log("version: a7423669d3861693");

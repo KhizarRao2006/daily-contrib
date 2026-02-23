@@ -1,2 +1,0 @@
-// Update 4704
-console.log("version: 6d934a03eddc478f");

@@ -1,2 +1,0 @@
-// Update 3008
-console.log("version: 20acdb9391a7156d");

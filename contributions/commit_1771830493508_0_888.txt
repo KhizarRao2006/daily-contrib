@@ -1,2 +1,0 @@
-// Update 888
-console.log("version: 06625e95352ede0e");

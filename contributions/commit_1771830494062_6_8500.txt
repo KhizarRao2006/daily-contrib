@@ -1,2 +1,0 @@
-// Update 8500
-console.log("version: 67b3649918416bf2");

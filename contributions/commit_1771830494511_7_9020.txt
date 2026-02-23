@@ -1,2 +1,0 @@
-// Update 9020
-console.log("version: 04b85da241394a2a");

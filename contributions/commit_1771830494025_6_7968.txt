@@ -1,2 +1,0 @@
-// Update 7968
-console.log("version: f739ba034dccce25");

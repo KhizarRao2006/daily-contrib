@@ -1,2 +1,0 @@
-// Update 7248
-console.log("version: ca410030b3b1b332");

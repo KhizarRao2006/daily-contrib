@@ -1,2 +1,0 @@
-// Update 2580
-console.log("version: d7b64f4ac6574508");

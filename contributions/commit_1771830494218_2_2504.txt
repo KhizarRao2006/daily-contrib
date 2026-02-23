@@ -1,2 +1,0 @@
-// Update 2504
-console.log("version: a11a3f85d225269d");

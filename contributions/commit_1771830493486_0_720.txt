@@ -1,2 +1,0 @@
-// Update 720
-console.log("version: d21f97fb20b01c1d");

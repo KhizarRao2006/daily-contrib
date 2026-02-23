@@ -1,2 +1,0 @@
-// Update 0
-console.log("version: d801aa762c2313a9");

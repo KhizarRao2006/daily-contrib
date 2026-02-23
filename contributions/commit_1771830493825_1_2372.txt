@@ -1,2 +1,0 @@
-// Update 2372
-console.log("version: adb88cf0b0ee1768");

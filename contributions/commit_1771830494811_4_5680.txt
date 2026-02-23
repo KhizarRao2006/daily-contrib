@@ -1,2 +1,0 @@
-// Update 5680
-console.log("version: c2a4ea4f9f9cd305");

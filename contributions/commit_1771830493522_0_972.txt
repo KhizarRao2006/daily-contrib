@@ -1,2 +1,0 @@
-// Update 972
-console.log("version: 31493d93256fc951");

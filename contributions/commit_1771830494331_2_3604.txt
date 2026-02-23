@@ -1,2 +1,0 @@
-// Update 3604
-console.log("version: d7a5d1d06d864920");

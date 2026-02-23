@@ -1,2 +1,0 @@
-// Update 556
-console.log("version: 768ca32c2496368a");

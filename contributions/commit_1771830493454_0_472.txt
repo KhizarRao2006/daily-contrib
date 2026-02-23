@@ -1,2 +1,0 @@
-// Update 472
-console.log("version: 9a3447a44ef24d8a");

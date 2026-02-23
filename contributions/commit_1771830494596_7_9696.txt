@@ -1,2 +1,0 @@
-// Update 9696
-console.log("version: f3d9ffccb9768018");

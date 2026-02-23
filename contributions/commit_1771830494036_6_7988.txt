@@ -1,2 +1,0 @@
-// Update 7988
-console.log("version: de404917c8101cfd");

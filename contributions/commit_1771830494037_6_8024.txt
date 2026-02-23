@@ -1,2 +1,0 @@
-// Update 8024
-console.log("version: 54e3271fcac22d20");

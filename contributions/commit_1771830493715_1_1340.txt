@@ -1,2 +1,0 @@
-// Update 1340
-console.log("version: df11dbfd1cfa96bb");

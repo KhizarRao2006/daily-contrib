@@ -1,2 +1,0 @@
-// Update 5708
-console.log("version: 0297a0b3592f2ae1");

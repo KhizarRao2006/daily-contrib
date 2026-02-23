@@ -1,2 +1,0 @@
-// Update 2320
-console.log("version: 3c74753d403434ae");

@@ -1,2 +1,0 @@
-// Update 1984
-console.log("version: 073f2c349ffc9600");

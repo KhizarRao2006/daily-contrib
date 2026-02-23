@@ -1,2 +1,0 @@
-// Update 1500
-console.log("version: f3e5162cf482a3e5");

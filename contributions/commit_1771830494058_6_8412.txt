@@ -1,2 +1,0 @@
-// Update 8412
-console.log("version: edf580ae16676d3e");

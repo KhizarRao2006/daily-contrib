@@ -1,2 +1,0 @@
-// Update 960
-console.log("version: 0ec69c5cf3f2c574");

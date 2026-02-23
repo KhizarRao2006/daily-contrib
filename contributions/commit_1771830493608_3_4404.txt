@@ -1,2 +1,0 @@
-// Update 4404
-console.log("version: fb9063be00b5e601");
