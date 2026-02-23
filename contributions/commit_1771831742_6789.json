@@ -1,0 +1,37 @@
+{
+  "version": "3.5.80",
+  "timestamp": 1771831740794,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 13249,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-361-3ybtzn9",
+    "hash": "58qkl",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "odsxf",
+      "enabled": true
+    },
+    {
+      "name": "yj7ps",
+      "enabled": true
+    },
+    {
+      "name": "2q3o0v",
+      "enabled": true
+    },
+    {
+      "name": "zjy1y",
+      "enabled": false
+    },
+    {
+      "name": "vv9mmi",
+      "enabled": true
+    }
+  ]
+}
