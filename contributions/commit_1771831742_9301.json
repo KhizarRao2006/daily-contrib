@@ -1,0 +1,37 @@
+{
+  "version": "4.7.94",
+  "timestamp": 1771831740751,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 32147,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-89-vzqlsg",
+    "hash": "65tr6",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "y0vyb",
+      "enabled": false
+    },
+    {
+      "name": "utjynq",
+      "enabled": true
+    },
+    {
+      "name": "3cj5wh",
+      "enabled": true
+    },
+    {
+      "name": "gw85k",
+      "enabled": true
+    },
+    {
+      "name": "7sm8oe",
+      "enabled": true
+    }
+  ]
+}
