@@ -1,0 +1,37 @@
+{
+  "version": "1.5.89",
+  "timestamp": 1771831740847,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 23725,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-686-lxntqc",
+    "hash": "3r539",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "3l0ihd",
+      "enabled": true
+    },
+    {
+      "name": "9ibwxr",
+      "enabled": true
+    },
+    {
+      "name": "bmf9uu",
+      "enabled": false
+    },
+    {
+      "name": "nus38",
+      "enabled": true
+    },
+    {
+      "name": "qi95qr",
+      "enabled": false
+    }
+  ]
+}
