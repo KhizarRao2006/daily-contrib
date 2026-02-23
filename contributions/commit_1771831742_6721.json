@@ -1,0 +1,37 @@
+{
+  "version": "3.8.18",
+  "timestamp": 1771831740883,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 8820,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-921-nheuv6",
+    "hash": "6vpqon",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "5nbo8a",
+      "enabled": true
+    },
+    {
+      "name": "vy7u7p",
+      "enabled": true
+    },
+    {
+      "name": "zz6024",
+      "enabled": true
+    },
+    {
+      "name": "pch4k",
+      "enabled": true
+    },
+    {
+      "name": "kyqvu",
+      "enabled": true
+    }
+  ]
+}
