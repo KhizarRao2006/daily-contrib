@@ -1,0 +1,37 @@
+{
+  "version": "2.14.84",
+  "timestamp": 1771831740883,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 10064,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-925-qo4d4",
+    "hash": "8xi2kd",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "dnvejl",
+      "enabled": false
+    },
+    {
+      "name": "cpnpw",
+      "enabled": true
+    },
+    {
+      "name": "1zgtw7",
+      "enabled": true
+    },
+    {
+      "name": "21h86u",
+      "enabled": false
+    },
+    {
+      "name": "so1v1d",
+      "enabled": true
+    }
+  ]
+}
