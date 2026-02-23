@@ -1,0 +1,37 @@
+{
+  "version": "1.17.15",
+  "timestamp": 1771831740890,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 8858,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-970-gx55pq",
+    "hash": "hddut",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "257klx",
+      "enabled": false
+    },
+    {
+      "name": "kzlrpw",
+      "enabled": true
+    },
+    {
+      "name": "d7cqtp",
+      "enabled": true
+    },
+    {
+      "name": "yo80ep",
+      "enabled": true
+    },
+    {
+      "name": "r8g6iv",
+      "enabled": true
+    }
+  ]
+}
