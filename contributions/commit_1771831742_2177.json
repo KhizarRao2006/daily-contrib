@@ -1,0 +1,37 @@
+{
+  "version": "1.8.15",
+  "timestamp": 1771831740893,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 24148,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-989-ol4akl",
+    "hash": "dq87zl",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "hzgwedj",
+      "enabled": false
+    },
+    {
+      "name": "p2xvr",
+      "enabled": true
+    },
+    {
+      "name": "5sjkpi",
+      "enabled": true
+    },
+    {
+      "name": "swb0es",
+      "enabled": true
+    },
+    {
+      "name": "9q3liu",
+      "enabled": true
+    }
+  ]
+}
