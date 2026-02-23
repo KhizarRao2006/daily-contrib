@@ -1,0 +1,37 @@
+{
+  "version": "1.13.61",
+  "timestamp": 1771831740747,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 12576,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-70-o91sw",
+    "hash": "qoo7s9",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "vsosj",
+      "enabled": true
+    },
+    {
+      "name": "vre8wg",
+      "enabled": true
+    },
+    {
+      "name": "yswpro",
+      "enabled": false
+    },
+    {
+      "name": "vcska",
+      "enabled": false
+    },
+    {
+      "name": "w2wld5",
+      "enabled": false
+    }
+  ]
+}
