@@ -1,0 +1,37 @@
+{
+  "version": "3.1.4",
+  "timestamp": 1771831740890,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 33569,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-971-qbk67",
+    "hash": "b973b9",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "88taa",
+      "enabled": true
+    },
+    {
+      "name": "m8a1l",
+      "enabled": true
+    },
+    {
+      "name": "71a4e7",
+      "enabled": false
+    },
+    {
+      "name": "qudsrd",
+      "enabled": true
+    },
+    {
+      "name": "4647l3",
+      "enabled": true
+    }
+  ]
+}
