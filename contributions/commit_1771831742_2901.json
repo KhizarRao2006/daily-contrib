@@ -1,0 +1,37 @@
+{
+  "version": "3.15.14",
+  "timestamp": 1771831740788,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 34998,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-321-dc2lk",
+    "hash": "6y946q",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "xl2ss",
+      "enabled": true
+    },
+    {
+      "name": "7eiwy",
+      "enabled": true
+    },
+    {
+      "name": "i9xqtq",
+      "enabled": false
+    },
+    {
+      "name": "parkgs",
+      "enabled": true
+    },
+    {
+      "name": "fed514",
+      "enabled": false
+    }
+  ]
+}
