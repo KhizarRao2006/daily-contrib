@@ -1,0 +1,37 @@
+{
+  "version": "2.14.41",
+  "timestamp": 1771831740800,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 19001,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-405-ido6h8",
+    "hash": "jcnjno",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "pgnshq",
+      "enabled": true
+    },
+    {
+      "name": "pn",
+      "enabled": true
+    },
+    {
+      "name": "3uk6l",
+      "enabled": false
+    },
+    {
+      "name": "s9d8g",
+      "enabled": true
+    },
+    {
+      "name": "1qg8tr",
+      "enabled": false
+    }
+  ]
+}
