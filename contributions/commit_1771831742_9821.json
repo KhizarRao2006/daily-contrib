@@ -1,0 +1,37 @@
+{
+  "version": "3.13.64",
+  "timestamp": 1771831740784,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 12188,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-296-kmwugj",
+    "hash": "zcazpth",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "2m9v8e",
+      "enabled": true
+    },
+    {
+      "name": "3tyzcf",
+      "enabled": true
+    },
+    {
+      "name": "m6va43",
+      "enabled": true
+    },
+    {
+      "name": "e3efj7",
+      "enabled": false
+    },
+    {
+      "name": "0ciqgi",
+      "enabled": true
+    }
+  ]
+}
