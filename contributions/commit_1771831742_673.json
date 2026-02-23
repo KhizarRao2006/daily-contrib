@@ -1,0 +1,37 @@
+{
+  "version": "4.13.95",
+  "timestamp": 1771831740887,
+  "config": {
+    "parallel": true,
+    "workers": 4,
+    "timeout": 16589,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-946-fgucuq",
+    "hash": "eoz48j",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "dohj0d",
+      "enabled": false
+    },
+    {
+      "name": "no351",
+      "enabled": true
+    },
+    {
+      "name": "il1h72",
+      "enabled": true
+    },
+    {
+      "name": "kzs99",
+      "enabled": true
+    },
+    {
+      "name": "xxfui2i",
+      "enabled": false
+    }
+  ]
+}
