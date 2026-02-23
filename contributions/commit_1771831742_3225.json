@@ -1,0 +1,37 @@
+{
+  "version": "0.8.12",
+  "timestamp": 1771831740759,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 19650,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-137-hs7l2o",
+    "hash": "emx3pu",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "zu50n",
+      "enabled": true
+    },
+    {
+      "name": "kx0bbh",
+      "enabled": true
+    },
+    {
+      "name": "z7muw",
+      "enabled": true
+    },
+    {
+      "name": "tpmegm",
+      "enabled": false
+    },
+    {
+      "name": "irob4t",
+      "enabled": true
+    }
+  ]
+}
