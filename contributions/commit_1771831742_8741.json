@@ -1,0 +1,37 @@
+{
+  "version": "4.14.84",
+  "timestamp": 1771831740770,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 7839,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-211-wijhcd",
+    "hash": "afgvvi",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ki490k",
+      "enabled": true
+    },
+    {
+      "name": "2rpdmc",
+      "enabled": true
+    },
+    {
+      "name": "ktcckr",
+      "enabled": false
+    },
+    {
+      "name": "rfhxjs",
+      "enabled": false
+    },
+    {
+      "name": "a77epo",
+      "enabled": true
+    }
+  ]
+}
