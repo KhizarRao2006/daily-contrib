@@ -1,0 +1,37 @@
+{
+  "version": "2.3.34",
+  "timestamp": 1771831324724,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 8774,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-890-jxqw5a",
+    "hash": "rgksp",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "pisnij",
+      "enabled": false
+    },
+    {
+      "name": "gwk44s",
+      "enabled": true
+    },
+    {
+      "name": "x16wy",
+      "enabled": true
+    },
+    {
+      "name": "hkvwdc",
+      "enabled": true
+    },
+    {
+      "name": "vhxpx",
+      "enabled": true
+    }
+  ]
+}
