@@ -1,0 +1,37 @@
+{
+  "version": "2.9.72",
+  "timestamp": 1771831740785,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 25789,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-303-mcdmx4",
+    "hash": "1i6e99",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "gt4ioc",
+      "enabled": true
+    },
+    {
+      "name": "im2wei",
+      "enabled": true
+    },
+    {
+      "name": "iajwi",
+      "enabled": true
+    },
+    {
+      "name": "x2nray",
+      "enabled": true
+    },
+    {
+      "name": "lajz17",
+      "enabled": true
+    }
+  ]
+}
