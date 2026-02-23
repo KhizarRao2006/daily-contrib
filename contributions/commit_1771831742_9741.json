@@ -1,0 +1,37 @@
+{
+  "version": "4.14.80",
+  "timestamp": 1771831740775,
+  "config": {
+    "parallel": true,
+    "workers": 7,
+    "timeout": 16913,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-250-u54c1h",
+    "hash": "r1yhnt",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "un8hel",
+      "enabled": true
+    },
+    {
+      "name": "1slxy",
+      "enabled": true
+    },
+    {
+      "name": "0lwhfa",
+      "enabled": true
+    },
+    {
+      "name": "ufkl8q",
+      "enabled": false
+    },
+    {
+      "name": "4j2b1v",
+      "enabled": true
+    }
+  ]
+}
