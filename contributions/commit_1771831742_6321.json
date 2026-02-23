@@ -1,0 +1,37 @@
+{
+  "version": "2.1.67",
+  "timestamp": 1771831740796,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 28747,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-377-hi5ji",
+    "hash": "7nhn1y",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "nasmm",
+      "enabled": false
+    },
+    {
+      "name": "yz7fyf",
+      "enabled": true
+    },
+    {
+      "name": "gv91r",
+      "enabled": true
+    },
+    {
+      "name": "r2fj5n",
+      "enabled": false
+    },
+    {
+      "name": "aqd2jm",
+      "enabled": true
+    }
+  ]
+}
