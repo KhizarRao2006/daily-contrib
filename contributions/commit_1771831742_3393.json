@@ -1,0 +1,37 @@
+{
+  "version": "1.19.83",
+  "timestamp": 1771831740792,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 12599,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-351-oksk9y",
+    "hash": "usx3dq",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "qm05mwa",
+      "enabled": true
+    },
+    {
+      "name": "31v43",
+      "enabled": false
+    },
+    {
+      "name": "zg01f",
+      "enabled": true
+    },
+    {
+      "name": "pcq9pf",
+      "enabled": true
+    },
+    {
+      "name": "aymstd",
+      "enabled": true
+    }
+  ]
+}
