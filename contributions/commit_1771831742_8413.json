@@ -1,0 +1,37 @@
+{
+  "version": "4.8.3",
+  "timestamp": 1771831740850,
+  "config": {
+    "parallel": true,
+    "workers": 1,
+    "timeout": 33489,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-708-l4pfsa",
+    "hash": "19yj8b",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "qljy9",
+      "enabled": true
+    },
+    {
+      "name": "ob99ei",
+      "enabled": false
+    },
+    {
+      "name": "ndvg9j",
+      "enabled": false
+    },
+    {
+      "name": "d2lqb",
+      "enabled": true
+    },
+    {
+      "name": "r2j5m",
+      "enabled": true
+    }
+  ]
+}
