@@ -1,0 +1,37 @@
+{
+  "version": "2.12.3",
+  "timestamp": 1771831740893,
+  "config": {
+    "parallel": true,
+    "workers": 6,
+    "timeout": 12878,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-987-zypk",
+    "hash": "m0khj8",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "9zqvmo",
+      "enabled": true
+    },
+    {
+      "name": "wn9e4t",
+      "enabled": true
+    },
+    {
+      "name": "qhg8o7",
+      "enabled": true
+    },
+    {
+      "name": "n9exb6",
+      "enabled": false
+    },
+    {
+      "name": "omlang",
+      "enabled": true
+    }
+  ]
+}
