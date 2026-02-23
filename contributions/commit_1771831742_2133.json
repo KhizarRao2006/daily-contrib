@@ -1,0 +1,37 @@
+{
+  "version": "2.8.21",
+  "timestamp": 1771831740828,
+  "config": {
+    "parallel": true,
+    "workers": 2,
+    "timeout": 23745,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-579-resbbn",
+    "hash": "buvjet",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "2miv4k",
+      "enabled": false
+    },
+    {
+      "name": "slptgl",
+      "enabled": true
+    },
+    {
+      "name": "tv713p",
+      "enabled": true
+    },
+    {
+      "name": "haf08f",
+      "enabled": false
+    },
+    {
+      "name": "j1xx4",
+      "enabled": true
+    }
+  ]
+}
