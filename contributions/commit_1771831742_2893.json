@@ -1,0 +1,37 @@
+{
+  "version": "2.3.25",
+  "timestamp": 1771831740831,
+  "config": {
+    "parallel": true,
+    "workers": 5,
+    "timeout": 19670,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-596-ddwn5",
+    "hash": "p4hqa6",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "kuloy",
+      "enabled": false
+    },
+    {
+      "name": "ki6n6f",
+      "enabled": false
+    },
+    {
+      "name": "4ye69",
+      "enabled": true
+    },
+    {
+      "name": "vopb6a",
+      "enabled": true
+    },
+    {
+      "name": "et5g0v",
+      "enabled": true
+    }
+  ]
+}
