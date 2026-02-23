@@ -1,0 +1,37 @@
+{
+  "version": "0.13.50",
+  "timestamp": 1771831740799,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 8978,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-398-g9zmpd",
+    "hash": "c50zun",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "n5166c",
+      "enabled": false
+    },
+    {
+      "name": "k7wmwm",
+      "enabled": true
+    },
+    {
+      "name": "h4wte8",
+      "enabled": true
+    },
+    {
+      "name": "3xpdj",
+      "enabled": true
+    },
+    {
+      "name": "l4ylo",
+      "enabled": true
+    }
+  ]
+}
