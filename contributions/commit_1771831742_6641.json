@@ -1,0 +1,37 @@
+{
+  "version": "0.17.53",
+  "timestamp": 1771831740887,
+  "config": {
+    "parallel": false,
+    "workers": 3,
+    "timeout": 6797,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-951-7tyylv",
+    "hash": "zsk6sp",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "kaqfbc",
+      "enabled": true
+    },
+    {
+      "name": "y61upc",
+      "enabled": true
+    },
+    {
+      "name": "je3qa",
+      "enabled": true
+    },
+    {
+      "name": "ejvcbt",
+      "enabled": false
+    },
+    {
+      "name": "mjzbc",
+      "enabled": false
+    }
+  ]
+}
