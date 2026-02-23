@@ -1,0 +1,37 @@
+{
+  "version": "0.13.41",
+  "timestamp": 1771831740825,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 9234,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-571-boip8a",
+    "hash": "cxue4",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "btup3",
+      "enabled": true
+    },
+    {
+      "name": "v8v8ym",
+      "enabled": true
+    },
+    {
+      "name": "ritz8",
+      "enabled": true
+    },
+    {
+      "name": "7ts9md",
+      "enabled": true
+    },
+    {
+      "name": "xjwqrr",
+      "enabled": true
+    }
+  ]
+}
