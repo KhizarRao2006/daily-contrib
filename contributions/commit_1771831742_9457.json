@@ -1,0 +1,37 @@
+{
+  "version": "2.12.50",
+  "timestamp": 1771831740858,
+  "config": {
+    "parallel": true,
+    "workers": 2,
+    "timeout": 22715,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-749-mxmkpj",
+    "hash": "h1euc",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "9vpo2",
+      "enabled": true
+    },
+    {
+      "name": "t5p7or",
+      "enabled": true
+    },
+    {
+      "name": "lmywzx",
+      "enabled": true
+    },
+    {
+      "name": "afky2",
+      "enabled": true
+    },
+    {
+      "name": "7qa2bq",
+      "enabled": false
+    }
+  ]
+}
