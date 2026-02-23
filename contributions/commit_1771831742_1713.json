@@ -1,0 +1,37 @@
+{
+  "version": "1.14.98",
+  "timestamp": 1771831740785,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 32934,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-302-rvd26",
+    "hash": "owqlco",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "qoxcjg",
+      "enabled": false
+    },
+    {
+      "name": "szf9rm",
+      "enabled": true
+    },
+    {
+      "name": "hqa1",
+      "enabled": true
+    },
+    {
+      "name": "d945j5",
+      "enabled": false
+    },
+    {
+      "name": "jvqr6lu",
+      "enabled": true
+    }
+  ]
+}
