@@ -1,0 +1,37 @@
+{
+  "version": "4.19.81",
+  "timestamp": 1771831740838,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 33016,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-633-1ozat8",
+    "hash": "mv76q9",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "leaq4h4",
+      "enabled": true
+    },
+    {
+      "name": "uuqxph",
+      "enabled": false
+    },
+    {
+      "name": "0280l8",
+      "enabled": true
+    },
+    {
+      "name": "k4fqzy",
+      "enabled": true
+    },
+    {
+      "name": "tbusm",
+      "enabled": true
+    }
+  ]
+}
