@@ -1,0 +1,37 @@
+{
+  "version": "4.17.63",
+  "timestamp": 1771831740840,
+  "config": {
+    "parallel": false,
+    "workers": 8,
+    "timeout": 27932,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-646-mgw1gw",
+    "hash": "dgfqxx",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "2c6yld",
+      "enabled": true
+    },
+    {
+      "name": "toc9eg",
+      "enabled": false
+    },
+    {
+      "name": "9em8y",
+      "enabled": true
+    },
+    {
+      "name": "for7g3",
+      "enabled": true
+    },
+    {
+      "name": "swmepl",
+      "enabled": false
+    }
+  ]
+}
