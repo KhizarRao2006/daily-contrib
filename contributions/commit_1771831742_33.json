@@ -1,0 +1,37 @@
+{
+  "version": "0.17.52",
+  "timestamp": 1771831740822,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 25905,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-553-bsxpyb",
+    "hash": "hxjcx",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "n9aklq",
+      "enabled": false
+    },
+    {
+      "name": "hyyu0r",
+      "enabled": true
+    },
+    {
+      "name": "kbpt3",
+      "enabled": true
+    },
+    {
+      "name": "3glcxg",
+      "enabled": true
+    },
+    {
+      "name": "k0idgp",
+      "enabled": true
+    }
+  ]
+}
