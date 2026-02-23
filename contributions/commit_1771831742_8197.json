@@ -1,0 +1,37 @@
+{
+  "version": "0.6.30",
+  "timestamp": 1771831740766,
+  "config": {
+    "parallel": true,
+    "workers": 7,
+    "timeout": 23360,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-186-ghm11e",
+    "hash": "nyama4g",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ends",
+      "enabled": false
+    },
+    {
+      "name": "d66zer",
+      "enabled": true
+    },
+    {
+      "name": "irn23",
+      "enabled": true
+    },
+    {
+      "name": "f0zct3",
+      "enabled": true
+    },
+    {
+      "name": "d7y6gp",
+      "enabled": true
+    }
+  ]
+}
