@@ -1,0 +1,37 @@
+{
+  "version": "1.14.94",
+  "timestamp": 1771831740857,
+  "config": {
+    "parallel": false,
+    "workers": 2,
+    "timeout": 25857,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-741-ofnfhb",
+    "hash": "vdqxa8",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "v9dje6",
+      "enabled": true
+    },
+    {
+      "name": "a8347",
+      "enabled": true
+    },
+    {
+      "name": "95rau",
+      "enabled": true
+    },
+    {
+      "name": "ynzoqr",
+      "enabled": true
+    },
+    {
+      "name": "jo5qb",
+      "enabled": true
+    }
+  ]
+}
