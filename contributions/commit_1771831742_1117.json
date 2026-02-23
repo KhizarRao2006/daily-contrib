@@ -1,0 +1,37 @@
+{
+  "version": "4.3.94",
+  "timestamp": 1771831740816,
+  "config": {
+    "parallel": false,
+    "workers": 5,
+    "timeout": 15037,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-510-2emy7",
+    "hash": "pzmcii",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "jspdxs",
+      "enabled": false
+    },
+    {
+      "name": "9qjyii",
+      "enabled": true
+    },
+    {
+      "name": "ljhxx",
+      "enabled": false
+    },
+    {
+      "name": "ianv1l",
+      "enabled": true
+    },
+    {
+      "name": "dihctu",
+      "enabled": false
+    }
+  ]
+}
