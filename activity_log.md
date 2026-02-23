@@ -1485,3 +1485,4 @@
 - [2026-02-23T07:07:33.233Z] Chore: Remove deprecated methods and clean up (#1039)
 - [2026-02-23T07:07:37.561Z] Optimize: Minimize memory footprint of data structures (#1041)
 - [2026-02-23T07:07:41.083Z] Build: Optimize CI/CD pipeline stages (#1044)
+- [2026-02-23T07:07:44.092Z] Docs: Update API documentation for v2 (#1047)
