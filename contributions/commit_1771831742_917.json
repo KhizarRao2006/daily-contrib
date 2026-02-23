@@ -1,0 +1,37 @@
+{
+  "version": "0.10.91",
+  "timestamp": 1771831740801,
+  "config": {
+    "parallel": false,
+    "workers": 4,
+    "timeout": 22686,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-412-97hch",
+    "hash": "vsejyf",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "6buutch",
+      "enabled": false
+    },
+    {
+      "name": "vpdj7",
+      "enabled": true
+    },
+    {
+      "name": "vz11wv",
+      "enabled": true
+    },
+    {
+      "name": "jy34tk",
+      "enabled": false
+    },
+    {
+      "name": "bx5vtx",
+      "enabled": false
+    }
+  ]
+}
