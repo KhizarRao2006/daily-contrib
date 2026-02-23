@@ -1,0 +1,37 @@
+{
+  "version": "4.14.98",
+  "timestamp": 1771831740806,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 11901,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-443-dok2to",
+    "hash": "5xevkd",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "0646w9",
+      "enabled": false
+    },
+    {
+      "name": "ioexqo",
+      "enabled": false
+    },
+    {
+      "name": "3lcjcp",
+      "enabled": false
+    },
+    {
+      "name": "erka6q",
+      "enabled": true
+    },
+    {
+      "name": "sju59l",
+      "enabled": true
+    }
+  ]
+}
