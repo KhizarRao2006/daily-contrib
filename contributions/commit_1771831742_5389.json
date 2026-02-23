@@ -1,0 +1,37 @@
+{
+  "version": "4.1.57",
+  "timestamp": 1771831740798,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 27262,
+    "retries": 4
+  },
+  "metadata": {
+    "id": "commit-390-cocwt",
+    "hash": "ov3qaf",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "u865rj",
+      "enabled": true
+    },
+    {
+      "name": "asjlmd",
+      "enabled": false
+    },
+    {
+      "name": "bx8b0p",
+      "enabled": true
+    },
+    {
+      "name": "l9zhcg",
+      "enabled": true
+    },
+    {
+      "name": "cl3az",
+      "enabled": true
+    }
+  ]
+}
