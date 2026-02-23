@@ -1676,3 +1676,4 @@
 - [2026-02-23T07:12:44.634Z] Build: Optimize CI/CD pipeline stages (#1493)
 - [2026-02-23T07:12:45.129Z] Perf: Improve database query execution time (#1494)
 - [2026-02-23T07:12:45.506Z] Feat: Implement dark mode support (#1495)
+- [2026-02-23T07:12:47.419Z] Docs: Clarify installation steps in README (#1499)
