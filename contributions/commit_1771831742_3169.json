@@ -1,0 +1,37 @@
+{
+  "version": "2.15.36",
+  "timestamp": 1771831740772,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 15467,
+    "retries": 3
+  },
+  "metadata": {
+    "id": "commit-230-zmh7vf",
+    "hash": "n4acxg",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "ae4red",
+      "enabled": true
+    },
+    {
+      "name": "s9ccb",
+      "enabled": true
+    },
+    {
+      "name": "bmvk8",
+      "enabled": false
+    },
+    {
+      "name": "ennuxf",
+      "enabled": true
+    },
+    {
+      "name": "cebaf",
+      "enabled": false
+    }
+  ]
+}
