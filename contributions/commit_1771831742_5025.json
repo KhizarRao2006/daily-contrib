@@ -1,0 +1,37 @@
+{
+  "version": "4.1.90",
+  "timestamp": 1771831740892,
+  "config": {
+    "parallel": false,
+    "workers": 7,
+    "timeout": 24573,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-984-ov93v",
+    "hash": "79nay9",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "s7uf1",
+      "enabled": true
+    },
+    {
+      "name": "b25ajk",
+      "enabled": true
+    },
+    {
+      "name": "my0e3u",
+      "enabled": false
+    },
+    {
+      "name": "ia8l7j",
+      "enabled": false
+    },
+    {
+      "name": "k8ayk4",
+      "enabled": false
+    }
+  ]
+}
