@@ -1,0 +1,37 @@
+{
+  "version": "2.15.57",
+  "timestamp": 1771831740803,
+  "config": {
+    "parallel": false,
+    "workers": 6,
+    "timeout": 33166,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-428-z4t7t",
+    "hash": "q75ina",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "tnxjr7",
+      "enabled": true
+    },
+    {
+      "name": "fahk88",
+      "enabled": true
+    },
+    {
+      "name": "ktgdge",
+      "enabled": true
+    },
+    {
+      "name": "a504ub",
+      "enabled": true
+    },
+    {
+      "name": "dh7pne",
+      "enabled": false
+    }
+  ]
+}
