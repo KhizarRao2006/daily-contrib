@@ -1,0 +1,37 @@
+{
+  "version": "2.19.25",
+  "timestamp": 1771831740737,
+  "config": {
+    "parallel": true,
+    "workers": 8,
+    "timeout": 21832,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-21-wch0jf",
+    "hash": "pste6w",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "jey27j",
+      "enabled": false
+    },
+    {
+      "name": "wt4lfq",
+      "enabled": false
+    },
+    {
+      "name": "wprsph",
+      "enabled": false
+    },
+    {
+      "name": "lmn2qm",
+      "enabled": true
+    },
+    {
+      "name": "dzigrr",
+      "enabled": false
+    }
+  ]
+}
