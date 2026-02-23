@@ -1,0 +1,37 @@
+{
+  "version": "2.14.41",
+  "timestamp": 1771831740762,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 34635,
+    "retries": 2
+  },
+  "metadata": {
+    "id": "commit-155-mux4g8",
+    "hash": "me2njb",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "9st7ut",
+      "enabled": false
+    },
+    {
+      "name": "awiuur",
+      "enabled": false
+    },
+    {
+      "name": "wsr83v",
+      "enabled": true
+    },
+    {
+      "name": "4nm34c",
+      "enabled": true
+    },
+    {
+      "name": "9aqxrw",
+      "enabled": true
+    }
+  ]
+}
