@@ -1,0 +1,37 @@
+{
+  "version": "1.5.94",
+  "timestamp": 1771831740752,
+  "config": {
+    "parallel": false,
+    "workers": 1,
+    "timeout": 7584,
+    "retries": 1
+  },
+  "metadata": {
+    "id": "commit-94-2g35ot",
+    "hash": "8hpkzm",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "4hqpoj",
+      "enabled": true
+    },
+    {
+      "name": "yw17cf",
+      "enabled": false
+    },
+    {
+      "name": "udyuau",
+      "enabled": false
+    },
+    {
+      "name": "cvl575",
+      "enabled": true
+    },
+    {
+      "name": "s93lar",
+      "enabled": true
+    }
+  ]
+}
