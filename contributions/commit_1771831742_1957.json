@@ -1,0 +1,37 @@
+{
+  "version": "2.16.15",
+  "timestamp": 1771831740829,
+  "config": {
+    "parallel": true,
+    "workers": 7,
+    "timeout": 5336,
+    "retries": 0
+  },
+  "metadata": {
+    "id": "commit-581-c4cuw",
+    "hash": "ikjyu",
+    "environment": "production"
+  },
+  "features": [
+    {
+      "name": "qx8nz",
+      "enabled": true
+    },
+    {
+      "name": "k5bfsb",
+      "enabled": true
+    },
+    {
+      "name": "ayu15",
+      "enabled": false
+    },
+    {
+      "name": "4x82fj",
+      "enabled": false
+    },
+    {
+      "name": "vq89zy",
+      "enabled": true
+    }
+  ]
+}
