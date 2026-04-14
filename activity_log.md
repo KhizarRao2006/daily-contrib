@@ -1916,3 +1916,4 @@
 - [2026-04-14T11:29:43.035Z] Implement: Add validation for incoming payloads (#47)
 - [2026-04-14T11:29:43.246Z] Fix: Handle null pointer exception in logger (#48)
 - [2026-04-14T11:29:43.446Z] Chore: Remove deprecated methods and clean up (#49)
+- [2026-04-14T11:29:43.644Z] Feat: Add support for multi-region clusters (#50)
