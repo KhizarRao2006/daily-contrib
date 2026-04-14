@@ -1929,3 +1929,4 @@
 - [2026-04-14T11:29:49.678Z] Chore: Remove deprecated methods and clean up (#78)
 - [2026-04-14T11:29:49.889Z] Strengthen: Add robust error boundaries (#79)
 - [2026-04-14T11:29:50.360Z] Fix: Handle null pointer exception in logger (#81)
+- [2026-04-14T11:29:50.580Z] Docs: Update API documentation for v2 (#82)
