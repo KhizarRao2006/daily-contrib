@@ -3903,3 +3903,4 @@
 - [2026-05-25T10:14:13.977Z] Perf: Improve database query execution time (#4818)
 - [2026-05-25T10:14:14.345Z] Test: Increase coverage for edge cases in parser (#4819)
 - [2026-05-25T10:14:14.622Z] Docs: Clarify installation steps in README (#4820)
+- [2026-05-25T10:14:17.372Z] Docs: Clarify installation steps in README (#4828)
