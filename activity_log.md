@@ -3716,3 +3716,4 @@
 - [2026-05-25T10:11:37.902Z] Test: Increase coverage for edge cases in parser (#4330)
 - [2026-05-25T10:11:39.185Z] Improve: Enhance state management with better scoping (#4334)
 - [2026-05-25T10:11:39.461Z] Test: Increase coverage for edge cases in parser (#4335)
+- [2026-05-25T10:11:39.716Z] Feat: Add support for multi-region clusters (#4336)
