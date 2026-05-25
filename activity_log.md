@@ -5329,3 +5329,4 @@
 - [2026-05-25T10:36:23.523Z] Modularize: Break down large components into smaller ones (#8321)
 - [2026-05-25T10:36:23.813Z] Perf: Improve database query execution time (#8322)
 - [2026-05-25T10:36:24.616Z] Feat: Add support for multi-region clusters (#8324)
+- [2026-05-25T10:36:24.996Z] Docs: Clarify installation steps in README (#8325)
