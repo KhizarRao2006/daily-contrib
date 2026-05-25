@@ -3620,3 +3620,4 @@
 - [2026-05-25T10:10:18.598Z] Style: Modernize UI components with better spacing (#4082)
 - [2026-05-25T10:10:18.989Z] Feat: Add support for multi-region clusters (#4083)
 - [2026-05-25T10:10:20.646Z] Improve: Enhance state management with better scoping (#4086)
+- [2026-05-25T10:10:23.104Z] Docs: Clarify installation steps in README (#4091)
