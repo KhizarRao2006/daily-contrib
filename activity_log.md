@@ -2279,3 +2279,4 @@
 - [2026-05-25T09:54:40.728Z] Feat: Add support for multi-region clusters (#836)
 - [2026-05-25T09:54:41.136Z] Refactor: Optimize rendering logic (#837)
 - [2026-05-25T09:54:42.785Z] Optimize: Minimize memory footprint of data structures (#844)
+- [2026-05-25T09:54:43.066Z] Feat: Add support for multi-region clusters (#845)
