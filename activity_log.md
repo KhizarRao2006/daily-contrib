@@ -4120,3 +4120,4 @@
 - [2026-05-25T10:17:29.537Z] Refine: Smooth out CSS transitions (#5376)
 - [2026-05-25T10:17:30.519Z] Refine: Smooth out CSS transitions (#5379)
 - [2026-05-25T10:17:31.956Z] Chore: Remove deprecated methods and clean up (#5383)
+- [2026-05-25T10:17:32.681Z] Refine: Smooth out CSS transitions (#5385)
