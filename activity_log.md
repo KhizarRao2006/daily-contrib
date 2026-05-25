@@ -2334,3 +2334,4 @@
 - [2026-05-25T09:55:15.140Z] Docs: Update API documentation for v2 (#977)
 - [2026-05-25T09:55:15.363Z] Strengthen: Add robust error boundaries (#978)
 - [2026-05-25T09:55:15.652Z] Modularize: Break down large components into smaller ones (#979)
+- [2026-05-25T09:55:15.952Z] Fix: Handle null pointer exception in logger (#980)
