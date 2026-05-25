@@ -2935,3 +2935,4 @@
 - [2026-05-25T10:01:58.426Z] Implement: Add validation for incoming payloads (#2417)
 - [2026-05-25T10:01:59.001Z] Style: Modernize UI components with better spacing (#2419)
 - [2026-05-25T10:01:59.266Z] Strengthen: Add robust error boundaries (#2420)
+- [2026-05-25T10:01:59.779Z] Docs: Clarify installation steps in README (#2422)
