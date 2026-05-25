@@ -2148,3 +2148,4 @@
 - [2026-05-25T09:53:14.624Z] Implement: Add validation for incoming payloads (#518)
 - [2026-05-25T09:53:15.110Z] Style: Modernize UI components with better spacing (#520)
 - [2026-05-25T09:53:15.459Z] Chore: Upgrade dependencies to latest stable (#521)
+- [2026-05-25T09:53:16.451Z] Feat: Add support for multi-region clusters (#524)
