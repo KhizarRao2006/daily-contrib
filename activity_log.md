@@ -3253,3 +3253,4 @@
 - [2026-05-25T10:06:05.766Z] Docs: Update API documentation for v2 (#3230)
 - [2026-05-25T10:06:06.068Z] Improve: Enhance state management with better scoping (#3231)
 - [2026-05-25T10:06:06.971Z] Docs: Clarify installation steps in README (#3234)
+- [2026-05-25T10:06:07.300Z] Fix: Resolve race condition in auth flow (#3235)
