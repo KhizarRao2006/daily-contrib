@@ -2898,3 +2898,4 @@
 - [2026-05-25T10:01:29.151Z] Perf: Improve database query execution time (#2319)
 - [2026-05-25T10:01:30.434Z] Refine: Smooth out CSS transitions (#2324)
 - [2026-05-25T10:01:30.978Z] Chore: Remove deprecated methods and clean up (#2326)
+- [2026-05-25T10:01:31.291Z] Docs: Update API documentation for v2 (#2327)
