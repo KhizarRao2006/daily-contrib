@@ -2375,3 +2375,4 @@
 - [2026-05-25T09:55:37.934Z] Optimize: Minimize memory footprint of data structures (#1064)
 - [2026-05-25T09:55:39.980Z] Implement: Add validation for incoming payloads (#1072)
 - [2026-05-25T09:55:41.467Z] Optimize: Minimize memory footprint of data structures (#1078)
+- [2026-05-25T09:55:41.952Z] Feat: Add support for multi-region clusters (#1080)
