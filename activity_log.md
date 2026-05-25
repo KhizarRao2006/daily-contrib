@@ -4386,3 +4386,4 @@
 - [2026-05-25T10:21:21.331Z] Refine: Smooth out CSS transitions (#6022)
 - [2026-05-25T10:21:23.390Z] Streamline: Simplify internal routing logic (#6028)
 - [2026-05-25T10:21:24.560Z] Refine: Smooth out CSS transitions (#6031)
+- [2026-05-25T10:21:24.998Z] Fix: Resolve race condition in auth flow (#6032)
