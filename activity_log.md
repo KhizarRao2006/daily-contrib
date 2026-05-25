@@ -4431,3 +4431,4 @@
 - [2026-05-25T10:22:05.738Z] Docs: Update API documentation for v2 (#6144)
 - [2026-05-25T10:22:06.893Z] Chore: Remove deprecated methods and clean up (#6147)
 - [2026-05-25T10:22:08.071Z] Build: Optimize CI/CD pipeline stages (#6150)
+- [2026-05-25T10:22:08.360Z] Security: Patch vulnerability in session handling (#6151)
