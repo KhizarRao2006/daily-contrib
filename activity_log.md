@@ -2922,3 +2922,4 @@
 - [2026-05-25T10:01:49.017Z] Chore: Upgrade dependencies to latest stable (#2384)
 - [2026-05-25T10:01:49.603Z] Modernize: Transition to ES2023 features (#2386)
 - [2026-05-25T10:01:49.894Z] Fix: Resolve race condition in auth flow (#2387)
+- [2026-05-25T10:01:50.327Z] Modernize: Transition to ES2023 features (#2388)
