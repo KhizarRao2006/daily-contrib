@@ -4474,3 +4474,4 @@
 - [2026-05-25T10:22:41.282Z] Chore: Remove deprecated methods and clean up (#6244)
 - [2026-05-25T10:22:42.478Z] Refine: Smooth out CSS transitions (#6247)
 - [2026-05-25T10:22:43.867Z] Docs: Clarify installation steps in README (#6251)
+- [2026-05-25T10:22:44.248Z] Test: Increase coverage for edge cases in parser (#6252)
