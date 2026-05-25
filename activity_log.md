@@ -2020,3 +2020,4 @@
 - [2026-05-25T09:51:51.335Z] Docs: Update API documentation for v2 (#210)
 - [2026-05-25T09:51:52.300Z] Secure: Implement advanced hashing for sensitive data (#214)
 - [2026-05-25T09:51:52.527Z] Security: Patch vulnerability in session handling (#215)
+- [2026-05-25T09:51:52.756Z] Docs: Clarify installation steps in README (#216)
