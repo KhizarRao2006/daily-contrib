@@ -2432,3 +2432,4 @@
 - [2026-05-25T09:56:14.974Z] Modernize: Transition to ES2023 features (#1212)
 - [2026-05-25T09:56:15.221Z] Fix: Resolve race condition in auth flow (#1213)
 - [2026-05-25T09:56:16.622Z] Docs: Clarify installation steps in README (#1219)
+- [2026-05-25T09:56:17.104Z] Feat: Add support for multi-region clusters (#1221)
