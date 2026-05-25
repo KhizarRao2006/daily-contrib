@@ -4294,3 +4294,4 @@
 - [2026-05-25T10:19:59.287Z] Refine: Smooth out CSS transitions (#5795)
 - [2026-05-25T10:19:59.581Z] Implement: Add validation for incoming payloads (#5796)
 - [2026-05-25T10:20:01.290Z] Docs: Update API documentation for v2 (#5801)
+- [2026-05-25T10:20:02.290Z] Fix: Handle null pointer exception in logger (#5804)
