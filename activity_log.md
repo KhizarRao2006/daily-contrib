@@ -1998,3 +1998,4 @@
 - [2026-05-25T09:51:39.417Z] Docs: Update API documentation for v2 (#160)
 - [2026-05-25T09:51:39.652Z] Perf: Improve database query execution time (#161)
 - [2026-05-25T09:51:40.329Z] Perf: Improve database query execution time (#164)
+- [2026-05-25T09:51:40.786Z] Modernize: Transition to ES2023 features (#166)
