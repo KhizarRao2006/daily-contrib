@@ -4058,3 +4058,4 @@
 - [2026-05-25T10:16:24.368Z] Docs: Update API documentation for v2 (#5200)
 - [2026-05-25T10:16:25.404Z] Fix: Handle null pointer exception in logger (#5203)
 - [2026-05-25T10:16:26.890Z] Feat: Implement dark mode support (#5207)
+- [2026-05-25T10:16:27.563Z] Feat: Add support for multi-region clusters (#5209)
