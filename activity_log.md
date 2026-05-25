@@ -5233,3 +5233,4 @@
 - [2026-05-25T10:34:47.349Z] Streamline: Simplify internal routing logic (#8087)
 - [2026-05-25T10:34:47.814Z] Chore: Upgrade dependencies to latest stable (#8088)
 - [2026-05-25T10:34:48.092Z] Docs: Update API documentation for v2 (#8089)
+- [2026-05-25T10:34:49.192Z] Docs: Clarify installation steps in README (#8092)
