@@ -5024,3 +5024,4 @@
 - [2026-05-25T10:31:34.078Z] Optimize: Minimize memory footprint of data structures (#7583)
 - [2026-05-25T10:31:34.372Z] Docs: Clarify installation steps in README (#7584)
 - [2026-05-25T10:31:35.051Z] Fix: Handle null pointer exception in logger (#7586)
+- [2026-05-25T10:31:37.528Z] Docs: Clarify installation steps in README (#7592)
