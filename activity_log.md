@@ -4482,3 +4482,4 @@
 - [2026-05-25T10:22:47.836Z] Fix: Resolve race condition in auth flow (#6262)
 - [2026-05-25T10:22:48.529Z] Optimize: Minimize memory footprint of data structures (#6264)
 - [2026-05-25T10:22:48.903Z] Modularize: Break down large components into smaller ones (#6265)
+- [2026-05-25T10:22:49.284Z] Docs: Clarify installation steps in README (#6266)
