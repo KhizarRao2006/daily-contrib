@@ -2597,3 +2597,4 @@
 - [2026-05-25T09:57:53.052Z] Fix: Resolve race condition in auth flow (#1592)
 - [2026-05-25T09:57:55.267Z] Optimize: Minimize memory footprint of data structures (#1597)
 - [2026-05-25T09:57:56.101Z] Test: Increase coverage for edge cases in parser (#1600)
+- [2026-05-25T09:57:56.610Z] Modernize: Transition to ES2023 features (#1602)
