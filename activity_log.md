@@ -2330,3 +2330,4 @@
 - [2026-05-25T09:55:13.496Z] Chore: Remove deprecated methods and clean up (#970)
 - [2026-05-25T09:55:13.735Z] Build: Optimize CI/CD pipeline stages (#971)
 - [2026-05-25T09:55:14.208Z] Chore: Upgrade dependencies to latest stable (#973)
+- [2026-05-25T09:55:14.660Z] Refactor: Extract utility functions for cleaner code (#975)
