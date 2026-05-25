@@ -3317,3 +3317,4 @@
 - [2026-05-25T10:06:50.950Z] Modernize: Transition to ES2023 features (#3380)
 - [2026-05-25T10:06:51.802Z] Secure: Implement advanced hashing for sensitive data (#3383)
 - [2026-05-25T10:06:52.091Z] Docs: Clarify installation steps in README (#3384)
+- [2026-05-25T10:06:52.636Z] Fix: Handle null pointer exception in logger (#3386)
