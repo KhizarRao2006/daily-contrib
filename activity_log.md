@@ -4437,3 +4437,4 @@
 - [2026-05-25T10:22:11.128Z] Improve: Enhance state management with better scoping (#6159)
 - [2026-05-25T10:22:11.436Z] Fix: Handle null pointer exception in logger (#6160)
 - [2026-05-25T10:22:11.729Z] Feat: Add support for multi-region clusters (#6161)
+- [2026-05-25T10:22:12.020Z] Docs: Update API documentation for v2 (#6162)
