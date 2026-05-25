@@ -5330,3 +5330,4 @@
 - [2026-05-25T10:36:23.813Z] Perf: Improve database query execution time (#8322)
 - [2026-05-25T10:36:24.616Z] Feat: Add support for multi-region clusters (#8324)
 - [2026-05-25T10:36:24.996Z] Docs: Clarify installation steps in README (#8325)
+- [2026-05-25T10:36:25.403Z] Refactor: Extract utility functions for cleaner code (#8326)
