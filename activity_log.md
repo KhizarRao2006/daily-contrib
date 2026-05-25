@@ -5420,3 +5420,4 @@
 - [2026-05-25T10:37:46.851Z] Security: Patch vulnerability in session handling (#8535)
 - [2026-05-25T10:37:47.247Z] Feat: Add support for multi-region clusters (#8536)
 - [2026-05-25T10:37:50.397Z] Feat: Implement dark mode support (#8544)
+- [2026-05-25T10:37:50.835Z] Modernize: Transition to ES2023 features (#8545)
