@@ -4096,3 +4096,4 @@
 - [2026-05-25T10:17:02.615Z] Refactor: Extract utility functions for cleaner code (#5307)
 - [2026-05-25T10:17:02.891Z] Modernize: Transition to ES2023 features (#5308)
 - [2026-05-25T10:17:03.491Z] Streamline: Simplify internal routing logic (#5310)
+- [2026-05-25T10:17:05.453Z] Docs: Update API documentation for v2 (#5316)
