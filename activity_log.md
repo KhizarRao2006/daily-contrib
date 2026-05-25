@@ -3195,3 +3195,4 @@
 - [2026-05-25T10:05:13.767Z] Docs: Clarify installation steps in README (#3066)
 - [2026-05-25T10:05:14.345Z] Build: Optimize CI/CD pipeline stages (#3068)
 - [2026-05-25T10:05:17.406Z] Refactor: Optimize rendering logic (#3079)
+- [2026-05-25T10:05:18.027Z] Docs: Update API documentation for v2 (#3081)
