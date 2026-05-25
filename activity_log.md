@@ -3584,3 +3584,4 @@
 - [2026-05-25T10:09:52.595Z] Fix: Resolve race condition in auth flow (#4001)
 - [2026-05-25T10:09:53.152Z] Update: Refresh dependencies for security compliance (#4002)
 - [2026-05-25T10:09:54.156Z] Feat: Add support for multi-region clusters (#4005)
+- [2026-05-25T10:09:56.233Z] Chore: Remove deprecated methods and clean up (#4011)
