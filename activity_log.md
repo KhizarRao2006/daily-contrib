@@ -5353,3 +5353,4 @@
 - [2026-05-25T10:36:47.921Z] Update: Refresh dependencies for security compliance (#8380)
 - [2026-05-25T10:36:48.686Z] Update: Refresh dependencies for security compliance (#8382)
 - [2026-05-25T10:36:50.557Z] Improve: Enhance state management with better scoping (#8387)
+- [2026-05-25T10:36:51.658Z] Feat: Add support for multi-region clusters (#8390)
