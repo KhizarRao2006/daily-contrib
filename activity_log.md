@@ -4735,3 +4735,4 @@
 - [2026-05-25T10:26:44.683Z] Chore: Remove deprecated methods and clean up (#6872)
 - [2026-05-25T10:26:46.762Z] Update: Refresh dependencies for security compliance (#6877)
 - [2026-05-25T10:26:48.170Z] Build: Optimize CI/CD pipeline stages (#6880)
+- [2026-05-25T10:26:48.824Z] Feat: Add support for multi-region clusters (#6881)
