@@ -2289,3 +2289,4 @@
 - [2026-05-25T09:54:46.977Z] Refactor: Extract utility functions for cleaner code (#861)
 - [2026-05-25T09:54:47.207Z] Build: Optimize CI/CD pipeline stages (#862)
 - [2026-05-25T09:54:47.660Z] Docs: Update API documentation for v2 (#864)
+- [2026-05-25T09:54:48.138Z] Fix: Handle null pointer exception in logger (#866)
