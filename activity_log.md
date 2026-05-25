@@ -4753,3 +4753,4 @@
 - [2026-05-25T10:27:05.455Z] Chore: Remove deprecated methods and clean up (#6923)
 - [2026-05-25T10:27:05.781Z] Improve: Enhance state management with better scoping (#6924)
 - [2026-05-25T10:27:06.086Z] Modernize: Transition to ES2023 features (#6925)
+- [2026-05-25T10:27:07.152Z] Docs: Update API documentation for v2 (#6928)
