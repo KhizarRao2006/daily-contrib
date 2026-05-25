@@ -5202,3 +5202,4 @@
 - [2026-05-25T10:34:21.475Z] Fix: Handle null pointer exception in logger (#8020)
 - [2026-05-25T10:34:21.895Z] Refactor: Optimize rendering logic (#8021)
 - [2026-05-25T10:34:22.721Z] Secure: Implement advanced hashing for sensitive data (#8023)
+- [2026-05-25T10:34:24.854Z] Docs: Clarify installation steps in README (#8028)
