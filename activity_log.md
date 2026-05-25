@@ -4935,3 +4935,4 @@
 - [2026-05-25T10:29:56.753Z] Feat: Implement dark mode support (#7351)
 - [2026-05-25T10:30:00.824Z] Feat: Implement dark mode support (#7361)
 - [2026-05-25T10:30:02.467Z] Security: Patch vulnerability in session handling (#7365)
+- [2026-05-25T10:30:02.990Z] Fix: Resolve race condition in auth flow (#7366)
