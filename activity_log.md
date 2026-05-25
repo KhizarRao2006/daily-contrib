@@ -2239,3 +2239,4 @@
 - [2026-05-25T09:54:17.287Z] Test: Increase coverage for edge cases in parser (#736)
 - [2026-05-25T09:54:18.859Z] Modularize: Break down large components into smaller ones (#742)
 - [2026-05-25T09:54:20.255Z] Docs: Update API documentation for v2 (#748)
+- [2026-05-25T09:54:20.952Z] Docs: Update API documentation for v2 (#751)
