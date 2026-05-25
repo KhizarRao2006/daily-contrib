@@ -3876,3 +3876,4 @@
 - [2026-05-25T10:13:44.661Z] Improve: Enhance state management with better scoping (#4736)
 - [2026-05-25T10:13:47.358Z] Modernize: Transition to ES2023 features (#4744)
 - [2026-05-25T10:13:49.022Z] Style: Modernize UI components with better spacing (#4749)
+- [2026-05-25T10:13:49.786Z] Feat: Add support for multi-region clusters (#4751)
