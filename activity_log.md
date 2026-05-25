@@ -4999,3 +4999,4 @@
 - [2026-05-25T10:31:08.773Z] Docs: Clarify installation steps in README (#7521)
 - [2026-05-25T10:31:09.515Z] Feat: Add support for multi-region clusters (#7523)
 - [2026-05-25T10:31:10.254Z] Streamline: Simplify internal routing logic (#7525)
+- [2026-05-25T10:31:11.288Z] Chore: Remove deprecated methods and clean up (#7528)
