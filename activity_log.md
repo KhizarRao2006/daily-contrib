@@ -4438,3 +4438,4 @@
 - [2026-05-25T10:22:11.436Z] Fix: Handle null pointer exception in logger (#6160)
 - [2026-05-25T10:22:11.729Z] Feat: Add support for multi-region clusters (#6161)
 - [2026-05-25T10:22:12.020Z] Docs: Update API documentation for v2 (#6162)
+- [2026-05-25T10:22:14.349Z] Modernize: Transition to ES2023 features (#6168)
