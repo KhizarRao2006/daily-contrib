@@ -3691,3 +3691,4 @@
 - [2026-05-25T10:11:21.213Z] Modernize: Transition to ES2023 features (#4275)
 - [2026-05-25T10:11:21.466Z] Implement: Add validation for incoming payloads (#4276)
 - [2026-05-25T10:11:21.722Z] Chore: Upgrade dependencies to latest stable (#4277)
+- [2026-05-25T10:11:23.483Z] Docs: Clarify installation steps in README (#4283)
