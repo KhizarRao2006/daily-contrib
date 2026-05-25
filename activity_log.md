@@ -4704,3 +4704,4 @@
 - [2026-05-25T10:26:18.645Z] Docs: Update API documentation for v2 (#6805)
 - [2026-05-25T10:26:19.417Z] Improve: Enhance state management with better scoping (#6807)
 - [2026-05-25T10:26:19.824Z] Modernize: Transition to ES2023 features (#6808)
+- [2026-05-25T10:26:20.212Z] Docs: Update API documentation for v2 (#6809)
