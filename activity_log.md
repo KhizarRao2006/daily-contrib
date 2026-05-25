@@ -3595,3 +3595,4 @@
 - [2026-05-25T10:10:01.073Z] Docs: Update API documentation for v2 (#4027)
 - [2026-05-25T10:10:01.322Z] Feat: Implement dark mode support (#4028)
 - [2026-05-25T10:10:01.578Z] Docs: Clarify installation steps in README (#4029)
+- [2026-05-25T10:10:01.836Z] Fix: Handle null pointer exception in logger (#4030)
