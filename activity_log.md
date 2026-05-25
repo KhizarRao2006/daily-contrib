@@ -4970,3 +4970,4 @@
 - [2026-05-25T10:30:41.978Z] Fix: Handle null pointer exception in logger (#7453)
 - [2026-05-25T10:30:42.787Z] Docs: Update API documentation for v2 (#7455)
 - [2026-05-25T10:30:44.138Z] Strengthen: Add robust error boundaries (#7458)
+- [2026-05-25T10:30:44.976Z] Docs: Clarify installation steps in README (#7460)
