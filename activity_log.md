@@ -2891,3 +2891,4 @@
 - [2026-05-25T10:01:25.679Z] Refactor: Optimize rendering logic (#2306)
 - [2026-05-25T10:01:25.967Z] Build: Optimize CI/CD pipeline stages (#2307)
 - [2026-05-25T10:01:26.738Z] Build: Optimize CI/CD pipeline stages (#2310)
+- [2026-05-25T10:01:27.032Z] Chore: Remove deprecated methods and clean up (#2311)
