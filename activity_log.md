@@ -3556,3 +3556,4 @@
 - [2026-05-25T10:09:33.465Z] Style: Modernize UI components with better spacing (#3935)
 - [2026-05-25T10:09:35.191Z] Docs: Clarify installation steps in README (#3941)
 - [2026-05-25T10:09:35.441Z] Fix: Handle null pointer exception in logger (#3942)
+- [2026-05-25T10:09:35.982Z] Fix: Resolve race condition in auth flow (#3944)
