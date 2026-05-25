@@ -4013,3 +4013,4 @@
 - [2026-05-25T10:15:44.616Z] Update: Refresh dependencies for security compliance (#5080)
 - [2026-05-25T10:15:44.879Z] Test: Increase coverage for edge cases in parser (#5081)
 - [2026-05-25T10:15:45.467Z] Fix: Resolve race condition in auth flow (#5083)
+- [2026-05-25T10:15:46.423Z] Chore: Remove deprecated methods and clean up (#5086)
