@@ -3668,3 +3668,4 @@
 - [2026-05-25T10:11:03.704Z] Docs: Clarify installation steps in README (#4217)
 - [2026-05-25T10:11:04.645Z] Chore: Upgrade dependencies to latest stable (#4220)
 - [2026-05-25T10:11:04.959Z] Perf: Improve database query execution time (#4221)
+- [2026-05-25T10:11:05.265Z] Chore: Remove deprecated methods and clean up (#4222)
