@@ -4071,3 +4071,4 @@
 - [2026-05-25T10:16:33.331Z] Optimize: Minimize memory footprint of data structures (#5227)
 - [2026-05-25T10:16:33.595Z] Improve: Enhance state management with better scoping (#5228)
 - [2026-05-25T10:16:35.475Z] Docs: Update API documentation for v2 (#5234)
+- [2026-05-25T10:16:36.131Z] Feat: Add support for multi-region clusters (#5236)
