@@ -3424,3 +3424,4 @@
 - [2026-05-25T10:08:08.390Z] Feat: Implement dark mode support (#3639)
 - [2026-05-25T10:08:08.636Z] Modernize: Transition to ES2023 features (#3640)
 - [2026-05-25T10:08:08.886Z] Refactor: Optimize rendering logic (#3641)
+- [2026-05-25T10:08:09.993Z] Feat: Add support for multi-region clusters (#3645)
