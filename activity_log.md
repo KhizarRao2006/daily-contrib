@@ -2067,3 +2067,4 @@
 - [2026-05-25T09:52:16.326Z] Perf: Improve database query execution time (#312)
 - [2026-05-25T09:52:17.328Z] Docs: Clarify installation steps in README (#316)
 - [2026-05-25T09:52:17.564Z] Implement: Add validation for incoming payloads (#317)
+- [2026-05-25T09:52:18.849Z] Chore: Remove deprecated methods and clean up (#320)
