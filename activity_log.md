@@ -3277,3 +3277,4 @@
 - [2026-05-25T10:06:23.229Z] Docs: Clarify installation steps in README (#3289)
 - [2026-05-25T10:06:23.479Z] Security: Patch vulnerability in session handling (#3290)
 - [2026-05-25T10:06:23.732Z] Security: Patch vulnerability in session handling (#3291)
+- [2026-05-25T10:06:23.983Z] Feat: Add support for multi-region clusters (#3292)
