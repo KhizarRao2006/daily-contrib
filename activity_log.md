@@ -3491,3 +3491,4 @@
 - [2026-05-25T10:08:50.166Z] Docs: Clarify installation steps in README (#3786)
 - [2026-05-25T10:08:50.413Z] Style: Modernize UI components with better spacing (#3787)
 - [2026-05-25T10:08:50.968Z] Refactor: Optimize rendering logic (#3789)
+- [2026-05-25T10:08:51.265Z] Modernize: Transition to ES2023 features (#3790)
