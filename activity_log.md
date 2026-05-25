@@ -5190,3 +5190,4 @@
 - [2026-05-25T10:34:04.242Z] Optimize: Minimize memory footprint of data structures (#7977)
 - [2026-05-25T10:34:04.908Z] Chore: Upgrade dependencies to latest stable (#7979)
 - [2026-05-25T10:34:05.268Z] Optimize: Minimize memory footprint of data structures (#7980)
+- [2026-05-25T10:34:05.558Z] Modernize: Transition to ES2023 features (#7981)
