@@ -2048,3 +2048,4 @@
 - [2026-05-25T09:52:06.031Z] Chore: Upgrade dependencies to latest stable (#273)
 - [2026-05-25T09:52:07.093Z] Streamline: Simplify internal routing logic (#277)
 - [2026-05-25T09:52:07.528Z] Streamline: Simplify internal routing logic (#279)
+- [2026-05-25T09:52:07.978Z] Chore: Remove deprecated methods and clean up (#281)
