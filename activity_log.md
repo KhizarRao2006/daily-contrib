@@ -3906,3 +3906,4 @@
 - [2026-05-25T10:14:17.372Z] Docs: Clarify installation steps in README (#4828)
 - [2026-05-25T10:14:17.798Z] Refactor: Optimize rendering logic (#4829)
 - [2026-05-25T10:14:18.662Z] Refactor: Optimize rendering logic (#4831)
+- [2026-05-25T10:14:18.978Z] Refactor: Extract utility functions for cleaner code (#4832)
