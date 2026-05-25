@@ -2342,3 +2342,4 @@
 - [2026-05-25T09:55:19.928Z] Improve: Enhance state management with better scoping (#995)
 - [2026-05-25T09:55:20.171Z] Modernize: Transition to ES2023 features (#996)
 - [2026-05-25T09:55:20.414Z] Feat: Add support for multi-region clusters (#997)
+- [2026-05-25T09:55:20.666Z] Fix: Resolve race condition in auth flow (#998)
