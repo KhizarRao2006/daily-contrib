@@ -2041,3 +2041,4 @@
 - [2026-05-25T09:52:01.142Z] Refactor: Optimize rendering logic (#252)
 - [2026-05-25T09:52:02.803Z] Feat: Implement dark mode support (#259)
 - [2026-05-25T09:52:03.283Z] Fix: Resolve race condition in auth flow (#261)
+- [2026-05-25T09:52:03.511Z] Docs: Update API documentation for v2 (#262)
