@@ -4804,3 +4804,4 @@
 - [2026-05-25T10:27:49.698Z] Optimize: Minimize memory footprint of data structures (#7038)
 - [2026-05-25T10:27:50.539Z] Security: Patch vulnerability in session handling (#7040)
 - [2026-05-25T10:27:50.994Z] Feat: Add support for multi-region clusters (#7041)
+- [2026-05-25T10:27:53.359Z] Modernize: Transition to ES2023 features (#7045)
