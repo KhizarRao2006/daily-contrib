@@ -3726,3 +3726,4 @@
 - [2026-05-25T10:11:46.007Z] Docs: Update API documentation for v2 (#4357)
 - [2026-05-25T10:11:46.617Z] Chore: Upgrade dependencies to latest stable (#4359)
 - [2026-05-25T10:11:47.832Z] Test: Increase coverage for edge cases in parser (#4363)
+- [2026-05-25T10:11:48.462Z] Improve: Enhance state management with better scoping (#4365)
