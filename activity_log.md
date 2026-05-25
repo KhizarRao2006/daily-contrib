@@ -2100,3 +2100,4 @@
 - [2026-05-25T09:52:41.795Z] Docs: Clarify installation steps in README (#404)
 - [2026-05-25T09:52:42.040Z] Docs: Update API documentation for v2 (#405)
 - [2026-05-25T09:52:42.292Z] Update: Refresh dependencies for security compliance (#406)
+- [2026-05-25T09:52:42.947Z] Test: Increase coverage for edge cases in parser (#408)
