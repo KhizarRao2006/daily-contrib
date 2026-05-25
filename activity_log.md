@@ -4626,3 +4626,4 @@
 - [2026-05-25T10:25:09.583Z] Fix: Handle null pointer exception in logger (#6624)
 - [2026-05-25T10:25:10.321Z] Style: Modernize UI components with better spacing (#6626)
 - [2026-05-25T10:25:10.984Z] Feat: Add support for multi-region clusters (#6628)
+- [2026-05-25T10:25:11.347Z] Chore: Remove deprecated methods and clean up (#6629)
