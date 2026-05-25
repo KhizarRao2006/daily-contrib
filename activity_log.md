@@ -3112,3 +3112,4 @@
 - [2026-05-25T10:04:12.068Z] Docs: Clarify installation steps in README (#2857)
 - [2026-05-25T10:04:12.776Z] Modularize: Break down large components into smaller ones (#2859)
 - [2026-05-25T10:04:13.360Z] Improve: Enhance state management with better scoping (#2861)
+- [2026-05-25T10:04:13.911Z] Docs: Clarify installation steps in README (#2863)
