@@ -3294,3 +3294,4 @@
 - [2026-05-25T10:06:35.813Z] Chore: Upgrade dependencies to latest stable (#3326)
 - [2026-05-25T10:06:36.116Z] Fix: Handle null pointer exception in logger (#3327)
 - [2026-05-25T10:06:36.363Z] Security: Patch vulnerability in session handling (#3328)
+- [2026-05-25T10:06:36.620Z] Chore: Remove deprecated methods and clean up (#3329)
