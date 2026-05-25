@@ -2893,3 +2893,4 @@
 - [2026-05-25T10:01:26.738Z] Build: Optimize CI/CD pipeline stages (#2310)
 - [2026-05-25T10:01:27.032Z] Chore: Remove deprecated methods and clean up (#2311)
 - [2026-05-25T10:01:27.834Z] Feat: Add support for multi-region clusters (#2314)
+- [2026-05-25T10:01:28.616Z] Streamline: Simplify internal routing logic (#2317)
