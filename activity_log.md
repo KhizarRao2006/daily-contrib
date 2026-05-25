@@ -2781,3 +2781,4 @@
 - [2026-05-25T10:00:01.240Z] Chore: Remove deprecated methods and clean up (#2039)
 - [2026-05-25T10:00:01.776Z] Chore: Upgrade dependencies to latest stable (#2041)
 - [2026-05-25T10:00:02.057Z] Feat: Add support for multi-region clusters (#2042)
+- [2026-05-25T10:00:02.607Z] Refactor: Extract utility functions for cleaner code (#2044)
