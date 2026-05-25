@@ -2901,3 +2901,4 @@
 - [2026-05-25T10:01:31.291Z] Docs: Update API documentation for v2 (#2327)
 - [2026-05-25T10:01:31.527Z] Build: Optimize CI/CD pipeline stages (#2328)
 - [2026-05-25T10:01:32.069Z] Modernize: Transition to ES2023 features (#2330)
+- [2026-05-25T10:01:32.303Z] Modernize: Transition to ES2023 features (#2331)
