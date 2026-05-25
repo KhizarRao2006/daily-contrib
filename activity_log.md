@@ -2071,3 +2071,4 @@
 - [2026-05-25T09:52:19.642Z] Docs: Update API documentation for v2 (#323)
 - [2026-05-25T09:52:21.183Z] Refactor: Optimize rendering logic (#329)
 - [2026-05-25T09:52:21.637Z] Docs: Clarify installation steps in README (#331)
+- [2026-05-25T09:52:24.401Z] Fix: Handle null pointer exception in logger (#340)
