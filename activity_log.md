@@ -3281,3 +3281,4 @@
 - [2026-05-25T10:06:26.680Z] Update: Refresh dependencies for security compliance (#3297)
 - [2026-05-25T10:06:28.211Z] Chore: Remove deprecated methods and clean up (#3300)
 - [2026-05-25T10:06:28.859Z] Feat: Add support for multi-region clusters (#3302)
+- [2026-05-25T10:06:29.152Z] Streamline: Simplify internal routing logic (#3303)
