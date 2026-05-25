@@ -4100,3 +4100,4 @@
 - [2026-05-25T10:17:06.461Z] Fix: Resolve race condition in auth flow (#5319)
 - [2026-05-25T10:17:08.123Z] Chore: Upgrade dependencies to latest stable (#5324)
 - [2026-05-25T10:17:08.744Z] Modernize: Transition to ES2023 features (#5326)
+- [2026-05-25T10:17:09.404Z] Security: Patch vulnerability in session handling (#5328)
