@@ -1991,3 +1991,4 @@
 - [2026-05-25T09:51:35.480Z] Update: Refresh dependencies for security compliance (#145)
 - [2026-05-25T09:51:36.884Z] Style: Modernize UI components with better spacing (#151)
 - [2026-05-25T09:51:37.253Z] Implement: Add validation for incoming payloads (#152)
+- [2026-05-25T09:51:37.676Z] Docs: Clarify installation steps in README (#153)
