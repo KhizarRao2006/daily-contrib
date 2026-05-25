@@ -4516,3 +4516,4 @@
 - [2026-05-25T10:23:26.889Z] Docs: Clarify installation steps in README (#6355)
 - [2026-05-25T10:23:27.326Z] Refactor: Optimize rendering logic (#6356)
 - [2026-05-25T10:23:30.103Z] Streamline: Simplify internal routing logic (#6363)
+- [2026-05-25T10:23:30.817Z] Docs: Clarify installation steps in README (#6365)
