@@ -3976,3 +3976,4 @@
 - [2026-05-25T10:15:14.244Z] Docs: Clarify installation steps in README (#4993)
 - [2026-05-25T10:15:14.862Z] Chore: Remove deprecated methods and clean up (#4995)
 - [2026-05-25T10:15:15.236Z] Security: Patch vulnerability in session handling (#4996)
+- [2026-05-25T10:15:16.179Z] Fix: Handle null pointer exception in logger (#4999)
