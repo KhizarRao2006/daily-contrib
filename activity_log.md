@@ -2472,3 +2472,4 @@
 - [2026-05-25T09:56:40.498Z] Chore: Remove deprecated methods and clean up (#1315)
 - [2026-05-25T09:56:41.035Z] Test: Increase coverage for edge cases in parser (#1317)
 - [2026-05-25T09:56:41.757Z] Perf: Improve database query execution time (#1320)
+- [2026-05-25T09:56:42.012Z] Chore: Remove deprecated methods and clean up (#1321)
