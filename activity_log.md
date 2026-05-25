@@ -2077,3 +2077,4 @@
 - [2026-05-25T09:52:25.515Z] Modernize: Transition to ES2023 features (#344)
 - [2026-05-25T09:52:26.606Z] Chore: Remove deprecated methods and clean up (#347)
 - [2026-05-25T09:52:27.396Z] Chore: Upgrade dependencies to latest stable (#350)
+- [2026-05-25T09:52:27.664Z] Streamline: Simplify internal routing logic (#351)
