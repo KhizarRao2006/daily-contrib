@@ -3495,3 +3495,4 @@
 - [2026-05-25T10:08:51.819Z] Test: Increase coverage for edge cases in parser (#3792)
 - [2026-05-25T10:08:53.256Z] Feat: Implement dark mode support (#3797)
 - [2026-05-25T10:08:53.804Z] Refine: Smooth out CSS transitions (#3799)
+- [2026-05-25T10:08:54.090Z] Chore: Remove deprecated methods and clean up (#3800)
