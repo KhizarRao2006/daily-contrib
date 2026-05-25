@@ -3392,3 +3392,4 @@
 - [2026-05-25T10:07:51.450Z] Modernize: Transition to ES2023 features (#3580)
 - [2026-05-25T10:07:51.741Z] Test: Increase coverage for edge cases in parser (#3581)
 - [2026-05-25T10:07:52.318Z] Build: Optimize CI/CD pipeline stages (#3583)
+- [2026-05-25T10:07:52.938Z] Modernize: Transition to ES2023 features (#3585)
