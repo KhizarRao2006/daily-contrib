@@ -3616,3 +3616,4 @@
 - [2026-05-25T10:10:14.470Z] Build: Optimize CI/CD pipeline stages (#4070)
 - [2026-05-25T10:10:15.354Z] Docs: Clarify installation steps in README (#4073)
 - [2026-05-25T10:10:17.085Z] Docs: Clarify installation steps in README (#4077)
+- [2026-05-25T10:10:17.356Z] Refine: Smooth out CSS transitions (#4078)
