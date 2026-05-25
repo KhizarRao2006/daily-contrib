@@ -2131,3 +2131,4 @@
 - [2026-05-25T09:52:59.292Z] Feat: Implement dark mode support (#474)
 - [2026-05-25T09:52:59.580Z] Build: Optimize CI/CD pipeline stages (#475)
 - [2026-05-25T09:53:01.900Z] Chore: Remove deprecated methods and clean up (#481)
+- [2026-05-25T09:53:03.440Z] Docs: Clarify installation steps in README (#485)
