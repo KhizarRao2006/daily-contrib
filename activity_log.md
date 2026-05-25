@@ -5118,3 +5118,4 @@
 - [2026-05-25T10:33:09.227Z] Strengthen: Add robust error boundaries (#7826)
 - [2026-05-25T10:33:10.381Z] Update: Refresh dependencies for security compliance (#7829)
 - [2026-05-25T10:33:11.133Z] Security: Patch vulnerability in session handling (#7831)
+- [2026-05-25T10:33:11.818Z] Docs: Clarify installation steps in README (#7833)
