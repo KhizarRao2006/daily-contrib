@@ -4859,3 +4859,4 @@
 - [2026-05-25T10:28:39.538Z] Secure: Implement advanced hashing for sensitive data (#7162)
 - [2026-05-25T10:28:40.209Z] Docs: Update API documentation for v2 (#7164)
 - [2026-05-25T10:28:40.509Z] Fix: Resolve race condition in auth flow (#7165)
+- [2026-05-25T10:28:41.237Z] Docs: Clarify installation steps in README (#7167)
