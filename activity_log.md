@@ -3594,3 +3594,4 @@
 - [2026-05-25T10:10:00.768Z] Build: Optimize CI/CD pipeline stages (#4026)
 - [2026-05-25T10:10:01.073Z] Docs: Update API documentation for v2 (#4027)
 - [2026-05-25T10:10:01.322Z] Feat: Implement dark mode support (#4028)
+- [2026-05-25T10:10:01.578Z] Docs: Clarify installation steps in README (#4029)
