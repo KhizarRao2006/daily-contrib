@@ -3188,3 +3188,4 @@
 - [2026-05-25T10:05:09.246Z] Docs: Update API documentation for v2 (#3050)
 - [2026-05-25T10:05:09.516Z] Refactor: Extract utility functions for cleaner code (#3051)
 - [2026-05-25T10:05:09.788Z] Docs: Clarify installation steps in README (#3052)
+- [2026-05-25T10:05:10.954Z] Security: Patch vulnerability in session handling (#3056)
