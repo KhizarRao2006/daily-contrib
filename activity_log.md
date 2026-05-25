@@ -3807,3 +3807,4 @@
 - [2026-05-25T10:12:48.575Z] Feat: Implement dark mode support (#4565)
 - [2026-05-25T10:12:49.516Z] Style: Modernize UI components with better spacing (#4568)
 - [2026-05-25T10:12:49.864Z] Feat: Implement dark mode support (#4569)
+- [2026-05-25T10:12:50.182Z] Docs: Update API documentation for v2 (#4570)
