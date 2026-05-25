@@ -3489,3 +3489,4 @@
 - [2026-05-25T10:08:48.862Z] Feat: Add support for multi-region clusters (#3782)
 - [2026-05-25T10:08:49.866Z] Streamline: Simplify internal routing logic (#3785)
 - [2026-05-25T10:08:50.166Z] Docs: Clarify installation steps in README (#3786)
+- [2026-05-25T10:08:50.413Z] Style: Modernize UI components with better spacing (#3787)
