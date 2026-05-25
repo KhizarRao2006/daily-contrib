@@ -2703,3 +2703,4 @@
 - [2026-05-25T09:59:06.619Z] Update: Refresh dependencies for security compliance (#1866)
 - [2026-05-25T09:59:07.227Z] Refactor: Optimize rendering logic (#1868)
 - [2026-05-25T09:59:07.477Z] Update: Refresh dependencies for security compliance (#1869)
+- [2026-05-25T09:59:09.142Z] Chore: Remove deprecated methods and clean up (#1875)
