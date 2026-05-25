@@ -4748,3 +4748,4 @@
 - [2026-05-25T10:27:00.828Z] Refine: Smooth out CSS transitions (#6911)
 - [2026-05-25T10:27:01.556Z] Chore: Upgrade dependencies to latest stable (#6913)
 - [2026-05-25T10:27:01.924Z] Build: Optimize CI/CD pipeline stages (#6914)
+- [2026-05-25T10:27:03.407Z] Docs: Clarify installation steps in README (#6918)
