@@ -3748,3 +3748,4 @@
 - [2026-05-25T10:12:00.106Z] Refactor: Optimize rendering logic (#4404)
 - [2026-05-25T10:12:00.370Z] Modernize: Transition to ES2023 features (#4405)
 - [2026-05-25T10:12:00.670Z] Secure: Implement advanced hashing for sensitive data (#4406)
+- [2026-05-25T10:12:01.280Z] Docs: Clarify installation steps in README (#4408)
