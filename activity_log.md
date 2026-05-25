@@ -3465,3 +3465,4 @@
 - [2026-05-25T10:08:36.095Z] Modernize: Transition to ES2023 features (#3736)
 - [2026-05-25T10:08:36.636Z] Docs: Clarify installation steps in README (#3738)
 - [2026-05-25T10:08:37.211Z] Streamline: Simplify internal routing logic (#3740)
+- [2026-05-25T10:08:37.460Z] Chore: Remove deprecated methods and clean up (#3741)
