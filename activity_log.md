@@ -5415,3 +5415,4 @@
 - [2026-05-25T10:37:40.236Z] Improve: Enhance state management with better scoping (#8519)
 - [2026-05-25T10:37:41.633Z] Secure: Implement advanced hashing for sensitive data (#8522)
 - [2026-05-25T10:37:42.403Z] Improve: Enhance state management with better scoping (#8524)
+- [2026-05-25T10:37:44.073Z] Docs: Clarify installation steps in README (#8528)
