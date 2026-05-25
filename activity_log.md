@@ -3440,3 +3440,4 @@
 - [2026-05-25T10:08:20.396Z] Refactor: Optimize rendering logic (#3681)
 - [2026-05-25T10:08:20.982Z] Docs: Clarify installation steps in README (#3683)
 - [2026-05-25T10:08:21.834Z] Secure: Implement advanced hashing for sensitive data (#3686)
+- [2026-05-25T10:08:23.874Z] Chore: Remove deprecated methods and clean up (#3693)
