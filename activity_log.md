@@ -4527,3 +4527,4 @@
 - [2026-05-25T10:23:39.114Z] Docs: Clarify installation steps in README (#6387)
 - [2026-05-25T10:23:39.914Z] Optimize: Minimize memory footprint of data structures (#6389)
 - [2026-05-25T10:23:41.580Z] Docs: Clarify installation steps in README (#6393)
+- [2026-05-25T10:23:42.389Z] Security: Patch vulnerability in session handling (#6395)
