@@ -3666,3 +3666,4 @@
 - [2026-05-25T10:11:01.763Z] Feat: Add support for multi-region clusters (#4211)
 - [2026-05-25T10:11:02.398Z] Docs: Clarify installation steps in README (#4213)
 - [2026-05-25T10:11:03.704Z] Docs: Clarify installation steps in README (#4217)
+- [2026-05-25T10:11:04.645Z] Chore: Upgrade dependencies to latest stable (#4220)
