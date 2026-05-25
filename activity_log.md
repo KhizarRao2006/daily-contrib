@@ -4289,3 +4289,4 @@
 - [2026-05-25T10:19:54.974Z] Test: Increase coverage for edge cases in parser (#5783)
 - [2026-05-25T10:19:56.357Z] Docs: Update API documentation for v2 (#5787)
 - [2026-05-25T10:19:57.421Z] Secure: Implement advanced hashing for sensitive data (#5790)
+- [2026-05-25T10:19:57.771Z] Docs: Clarify installation steps in README (#5791)
