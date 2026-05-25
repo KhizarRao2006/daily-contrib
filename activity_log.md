@@ -3741,3 +3741,4 @@
 - [2026-05-25T10:11:56.441Z] Modernize: Transition to ES2023 features (#4392)
 - [2026-05-25T10:11:56.762Z] Update: Refresh dependencies for security compliance (#4393)
 - [2026-05-25T10:11:57.079Z] Feat: Add support for multi-region clusters (#4394)
+- [2026-05-25T10:11:57.367Z] Optimize: Minimize memory footprint of data structures (#4395)
