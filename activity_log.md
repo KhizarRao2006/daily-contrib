@@ -3274,3 +3274,4 @@
 - [2026-05-25T10:06:20.692Z] Modularize: Break down large components into smaller ones (#3280)
 - [2026-05-25T10:06:22.139Z] Chore: Remove deprecated methods and clean up (#3285)
 - [2026-05-25T10:06:22.383Z] Docs: Update API documentation for v2 (#3286)
+- [2026-05-25T10:06:23.229Z] Docs: Clarify installation steps in README (#3289)
