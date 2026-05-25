@@ -2206,3 +2206,4 @@
 - [2026-05-25T09:53:54.951Z] Style: Modernize UI components with better spacing (#644)
 - [2026-05-25T09:53:55.181Z] Test: Increase coverage for edge cases in parser (#645)
 - [2026-05-25T09:53:55.401Z] Test: Increase coverage for edge cases in parser (#646)
+- [2026-05-25T09:53:56.179Z] Docs: Update API documentation for v2 (#649)
