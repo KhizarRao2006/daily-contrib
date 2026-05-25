@@ -2957,3 +2957,4 @@
 - [2026-05-25T10:02:10.865Z] Fix: Resolve race condition in auth flow (#2457)
 - [2026-05-25T10:02:12.347Z] Docs: Update API documentation for v2 (#2462)
 - [2026-05-25T10:02:12.670Z] Implement: Add validation for incoming payloads (#2463)
+- [2026-05-25T10:02:13.569Z] Chore: Remove deprecated methods and clean up (#2466)
