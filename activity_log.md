@@ -2548,3 +2548,4 @@
 - [2026-05-25T09:57:27.029Z] Docs: Clarify installation steps in README (#1493)
 - [2026-05-25T09:57:27.298Z] Update: Refresh dependencies for security compliance (#1494)
 - [2026-05-25T09:57:27.541Z] Strengthen: Add robust error boundaries (#1495)
+- [2026-05-25T09:57:28.977Z] Modernize: Transition to ES2023 features (#1500)
