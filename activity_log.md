@@ -3993,3 +3993,4 @@
 - [2026-05-25T10:15:28.681Z] Feat: Add support for multi-region clusters (#5037)
 - [2026-05-25T10:15:29.022Z] Refine: Smooth out CSS transitions (#5038)
 - [2026-05-25T10:15:30.901Z] Security: Patch vulnerability in session handling (#5043)
+- [2026-05-25T10:15:31.238Z] Chore: Remove deprecated methods and clean up (#5044)
