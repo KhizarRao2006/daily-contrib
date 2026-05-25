@@ -2291,3 +2291,4 @@
 - [2026-05-25T09:54:47.660Z] Docs: Update API documentation for v2 (#864)
 - [2026-05-25T09:54:48.138Z] Fix: Handle null pointer exception in logger (#866)
 - [2026-05-25T09:54:49.087Z] Fix: Handle null pointer exception in logger (#870)
+- [2026-05-25T09:54:50.789Z] Docs: Update API documentation for v2 (#877)
