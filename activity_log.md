@@ -3891,3 +3891,4 @@
 - [2026-05-25T10:14:00.008Z] Refine: Smooth out CSS transitions (#4778)
 - [2026-05-25T10:14:01.695Z] Chore: Upgrade dependencies to latest stable (#4783)
 - [2026-05-25T10:14:02.444Z] Improve: Enhance state management with better scoping (#4785)
+- [2026-05-25T10:14:02.769Z] Docs: Clarify installation steps in README (#4786)
