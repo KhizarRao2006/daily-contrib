@@ -2484,3 +2484,4 @@
 - [2026-05-25T09:56:47.008Z] Docs: Clarify installation steps in README (#1341)
 - [2026-05-25T09:56:48.193Z] Refactor: Extract utility functions for cleaner code (#1346)
 - [2026-05-25T09:56:48.416Z] Improve: Enhance state management with better scoping (#1347)
+- [2026-05-25T09:56:48.631Z] Feat: Add support for multi-region clusters (#1348)
