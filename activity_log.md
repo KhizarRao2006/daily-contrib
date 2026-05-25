@@ -4166,3 +4166,4 @@
 - [2026-05-25T10:18:09.104Z] Chore: Upgrade dependencies to latest stable (#5481)
 - [2026-05-25T10:18:11.954Z] Feat: Add support for multi-region clusters (#5489)
 - [2026-05-25T10:18:13.096Z] Modularize: Break down large components into smaller ones (#5492)
+- [2026-05-25T10:18:15.872Z] Docs: Clarify installation steps in README (#5500)
