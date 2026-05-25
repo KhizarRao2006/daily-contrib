@@ -5022,3 +5022,4 @@
 - [2026-05-25T10:31:32.976Z] Improve: Enhance state management with better scoping (#7580)
 - [2026-05-25T10:31:33.364Z] Feat: Add support for multi-region clusters (#7581)
 - [2026-05-25T10:31:34.078Z] Optimize: Minimize memory footprint of data structures (#7583)
+- [2026-05-25T10:31:34.372Z] Docs: Clarify installation steps in README (#7584)
