@@ -5181,3 +5181,4 @@
 - [2026-05-25T10:33:55.383Z] Feat: Implement dark mode support (#7953)
 - [2026-05-25T10:33:56.046Z] Fix: Resolve race condition in auth flow (#7955)
 - [2026-05-25T10:33:56.417Z] Strengthen: Add robust error boundaries (#7956)
+- [2026-05-25T10:33:57.473Z] Chore: Remove deprecated methods and clean up (#7959)
