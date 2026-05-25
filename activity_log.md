@@ -5404,3 +5404,4 @@
 - [2026-05-25T10:37:27.940Z] Docs: Clarify installation steps in README (#8488)
 - [2026-05-25T10:37:28.601Z] Optimize: Minimize memory footprint of data structures (#8490)
 - [2026-05-25T10:37:28.978Z] Docs: Update API documentation for v2 (#8491)
+- [2026-05-25T10:37:29.495Z] Update: Refresh dependencies for security compliance (#8492)
