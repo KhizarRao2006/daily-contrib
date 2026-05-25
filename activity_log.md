@@ -4394,3 +4394,4 @@
 - [2026-05-25T10:21:29.322Z] Security: Patch vulnerability in session handling (#6044)
 - [2026-05-25T10:21:30.031Z] Implement: Add validation for incoming payloads (#6046)
 - [2026-05-25T10:21:30.440Z] Implement: Add validation for incoming payloads (#6047)
+- [2026-05-25T10:21:33.628Z] Docs: Update API documentation for v2 (#6055)
