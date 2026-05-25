@@ -2992,3 +2992,4 @@
 - [2026-05-25T10:02:37.313Z] Feat: Implement dark mode support (#2541)
 - [2026-05-25T10:02:37.573Z] Improve: Enhance state management with better scoping (#2542)
 - [2026-05-25T10:02:37.838Z] Docs: Update API documentation for v2 (#2543)
+- [2026-05-25T10:02:38.869Z] Modernize: Transition to ES2023 features (#2546)
