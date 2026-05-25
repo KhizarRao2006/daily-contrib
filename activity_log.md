@@ -3630,3 +3630,4 @@
 - [2026-05-25T10:10:34.313Z] Chore: Remove deprecated methods and clean up (#4121)
 - [2026-05-25T10:10:36.111Z] Refactor: Optimize rendering logic (#4126)
 - [2026-05-25T10:10:37.603Z] Implement: Add validation for incoming payloads (#4131)
+- [2026-05-25T10:10:37.907Z] Docs: Update API documentation for v2 (#4132)
