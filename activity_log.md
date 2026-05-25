@@ -5308,3 +5308,4 @@
 - [2026-05-25T10:35:59.827Z] Docs: Update API documentation for v2 (#8270)
 - [2026-05-25T10:36:01.924Z] Fix: Resolve race condition in auth flow (#8274)
 - [2026-05-25T10:36:02.395Z] Modularize: Break down large components into smaller ones (#8275)
+- [2026-05-25T10:36:03.626Z] Chore: Remove deprecated methods and clean up (#8278)
