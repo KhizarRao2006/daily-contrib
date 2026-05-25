@@ -3297,3 +3297,4 @@
 - [2026-05-25T10:06:36.620Z] Chore: Remove deprecated methods and clean up (#3329)
 - [2026-05-25T10:06:38.274Z] Test: Increase coverage for edge cases in parser (#3335)
 - [2026-05-25T10:06:38.520Z] Build: Optimize CI/CD pipeline stages (#3336)
+- [2026-05-25T10:06:39.051Z] Chore: Remove deprecated methods and clean up (#3338)
