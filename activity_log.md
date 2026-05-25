@@ -2014,3 +2014,4 @@
 - [2026-05-25T09:51:48.023Z] Feat: Implement dark mode support (#196)
 - [2026-05-25T09:51:48.479Z] Chore: Upgrade dependencies to latest stable (#198)
 - [2026-05-25T09:51:49.386Z] Docs: Clarify installation steps in README (#202)
+- [2026-05-25T09:51:49.847Z] Docs: Clarify installation steps in README (#204)
