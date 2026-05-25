@@ -3664,3 +3664,4 @@
 - [2026-05-25T10:11:00.176Z] Docs: Update API documentation for v2 (#4206)
 - [2026-05-25T10:11:00.813Z] Fix: Handle null pointer exception in logger (#4208)
 - [2026-05-25T10:11:01.763Z] Feat: Add support for multi-region clusters (#4211)
+- [2026-05-25T10:11:02.398Z] Docs: Clarify installation steps in README (#4213)
