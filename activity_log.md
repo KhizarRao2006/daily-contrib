@@ -5038,3 +5038,4 @@
 - [2026-05-25T10:31:51.245Z] Update: Refresh dependencies for security compliance (#7626)
 - [2026-05-25T10:31:51.556Z] Update: Refresh dependencies for security compliance (#7627)
 - [2026-05-25T10:31:51.882Z] Optimize: Minimize memory footprint of data structures (#7628)
+- [2026-05-25T10:31:52.573Z] Docs: Update API documentation for v2 (#7630)
