@@ -5322,3 +5322,4 @@
 - [2026-05-25T10:36:15.280Z] Implement: Add validation for incoming payloads (#8305)
 - [2026-05-25T10:36:16.205Z] Refactor: Extract utility functions for cleaner code (#8307)
 - [2026-05-25T10:36:17.790Z] Fix: Handle null pointer exception in logger (#8310)
+- [2026-05-25T10:36:18.861Z] Docs: Update API documentation for v2 (#8312)
