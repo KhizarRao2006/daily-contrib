@@ -3280,3 +3280,4 @@
 - [2026-05-25T10:06:23.983Z] Feat: Add support for multi-region clusters (#3292)
 - [2026-05-25T10:06:26.680Z] Update: Refresh dependencies for security compliance (#3297)
 - [2026-05-25T10:06:28.211Z] Chore: Remove deprecated methods and clean up (#3300)
+- [2026-05-25T10:06:28.859Z] Feat: Add support for multi-region clusters (#3302)
