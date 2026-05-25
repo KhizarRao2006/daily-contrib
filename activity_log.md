@@ -4632,3 +4632,4 @@
 - [2026-05-25T10:25:14.191Z] Strengthen: Add robust error boundaries (#6637)
 - [2026-05-25T10:25:15.047Z] Test: Increase coverage for edge cases in parser (#6639)
 - [2026-05-25T10:25:16.602Z] Streamline: Simplify internal routing logic (#6643)
+- [2026-05-25T10:25:17.000Z] Docs: Update API documentation for v2 (#6644)
