@@ -4207,3 +4207,4 @@
 - [2026-05-25T10:18:47.656Z] Optimize: Minimize memory footprint of data structures (#5592)
 - [2026-05-25T10:18:47.999Z] Fix: Handle null pointer exception in logger (#5593)
 - [2026-05-25T10:18:48.344Z] Modernize: Transition to ES2023 features (#5594)
+- [2026-05-25T10:18:49.437Z] Docs: Clarify installation steps in README (#5597)
