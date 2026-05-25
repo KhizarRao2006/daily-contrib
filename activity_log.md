@@ -3972,3 +3972,4 @@
 - [2026-05-25T10:15:10.754Z] Optimize: Minimize memory footprint of data structures (#4984)
 - [2026-05-25T10:15:11.370Z] Perf: Improve database query execution time (#4986)
 - [2026-05-25T10:15:11.726Z] Perf: Improve database query execution time (#4987)
+- [2026-05-25T10:15:13.493Z] Chore: Remove deprecated methods and clean up (#4991)
