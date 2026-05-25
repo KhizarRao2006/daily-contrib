@@ -2189,3 +2189,4 @@
 - [2026-05-25T09:53:45.492Z] Feat: Add support for multi-region clusters (#605)
 - [2026-05-25T09:53:45.723Z] Fix: Handle null pointer exception in logger (#606)
 - [2026-05-25T09:53:46.887Z] Docs: Clarify installation steps in README (#611)
+- [2026-05-25T09:53:47.355Z] Chore: Remove deprecated methods and clean up (#613)
