@@ -5324,3 +5324,4 @@
 - [2026-05-25T10:36:17.790Z] Fix: Handle null pointer exception in logger (#8310)
 - [2026-05-25T10:36:18.861Z] Docs: Update API documentation for v2 (#8312)
 - [2026-05-25T10:36:22.477Z] Modernize: Transition to ES2023 features (#8318)
+- [2026-05-25T10:36:22.854Z] Implement: Add validation for incoming payloads (#8319)
