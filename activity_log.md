@@ -3283,3 +3283,4 @@
 - [2026-05-25T10:06:28.859Z] Feat: Add support for multi-region clusters (#3302)
 - [2026-05-25T10:06:29.152Z] Streamline: Simplify internal routing logic (#3303)
 - [2026-05-25T10:06:30.992Z] Refine: Smooth out CSS transitions (#3309)
+- [2026-05-25T10:06:31.274Z] Feat: Add support for multi-region clusters (#3310)
