@@ -5147,3 +5147,4 @@
 - [2026-05-25T10:33:29.420Z] Feat: Implement dark mode support (#7882)
 - [2026-05-25T10:33:30.228Z] Style: Modernize UI components with better spacing (#7884)
 - [2026-05-25T10:33:30.955Z] Modernize: Transition to ES2023 features (#7886)
+- [2026-05-25T10:33:31.931Z] Streamline: Simplify internal routing logic (#7888)
