@@ -3509,3 +3509,4 @@
 - [2026-05-25T10:09:03.160Z] Refactor: Extract utility functions for cleaner code (#3830)
 - [2026-05-25T10:09:03.420Z] Refactor: Optimize rendering logic (#3831)
 - [2026-05-25T10:09:03.963Z] Refactor: Extract utility functions for cleaner code (#3833)
+- [2026-05-25T10:09:04.544Z] Chore: Remove deprecated methods and clean up (#3835)
