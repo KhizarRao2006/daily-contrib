@@ -2718,3 +2718,4 @@
 - [2026-05-25T09:59:14.499Z] Docs: Update API documentation for v2 (#1895)
 - [2026-05-25T09:59:14.785Z] Fix: Resolve race condition in auth flow (#1896)
 - [2026-05-25T09:59:16.393Z] Test: Increase coverage for edge cases in parser (#1901)
+- [2026-05-25T09:59:17.905Z] Docs: Clarify installation steps in README (#1906)
