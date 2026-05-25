@@ -3409,3 +3409,4 @@
 - [2026-05-25T10:07:59.185Z] Streamline: Simplify internal routing logic (#3607)
 - [2026-05-25T10:07:59.728Z] Feat: Add support for multi-region clusters (#3609)
 - [2026-05-25T10:08:00.023Z] Docs: Update API documentation for v2 (#3610)
+- [2026-05-25T10:08:00.326Z] Feat: Add support for multi-region clusters (#3611)
