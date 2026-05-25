@@ -4795,3 +4795,4 @@
 - [2026-05-25T10:27:44.173Z] Fix: Handle null pointer exception in logger (#7023)
 - [2026-05-25T10:27:44.993Z] Docs: Clarify installation steps in README (#7025)
 - [2026-05-25T10:27:45.720Z] Chore: Remove deprecated methods and clean up (#7027)
+- [2026-05-25T10:27:46.448Z] Security: Patch vulnerability in session handling (#7029)
