@@ -2017,3 +2017,4 @@
 - [2026-05-25T09:51:49.847Z] Docs: Clarify installation steps in README (#204)
 - [2026-05-25T09:51:50.306Z] Implement: Add validation for incoming payloads (#206)
 - [2026-05-25T09:51:50.777Z] Fix: Handle null pointer exception in logger (#208)
+- [2026-05-25T09:51:51.335Z] Docs: Update API documentation for v2 (#210)
