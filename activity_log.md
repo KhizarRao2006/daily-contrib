@@ -4016,3 +4016,4 @@
 - [2026-05-25T10:15:46.423Z] Chore: Remove deprecated methods and clean up (#5086)
 - [2026-05-25T10:15:47.453Z] Docs: Clarify installation steps in README (#5089)
 - [2026-05-25T10:15:47.795Z] Secure: Implement advanced hashing for sensitive data (#5090)
+- [2026-05-25T10:15:48.803Z] Modernize: Transition to ES2023 features (#5093)
