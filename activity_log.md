@@ -2723,3 +2723,4 @@
 - [2026-05-25T09:59:19.304Z] Feat: Add support for multi-region clusters (#1911)
 - [2026-05-25T09:59:19.908Z] Modernize: Transition to ES2023 features (#1913)
 - [2026-05-25T09:59:20.161Z] Refine: Smooth out CSS transitions (#1914)
+- [2026-05-25T09:59:20.393Z] Security: Patch vulnerability in session handling (#1915)
