@@ -3117,3 +3117,4 @@
 - [2026-05-25T10:04:14.989Z] Chore: Upgrade dependencies to latest stable (#2867)
 - [2026-05-25T10:04:15.264Z] Docs: Update API documentation for v2 (#2868)
 - [2026-05-25T10:04:16.646Z] Update: Refresh dependencies for security compliance (#2873)
+- [2026-05-25T10:04:16.927Z] Refine: Smooth out CSS transitions (#2874)
