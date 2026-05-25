@@ -2991,3 +2991,4 @@
 - [2026-05-25T10:02:37.051Z] Refine: Smooth out CSS transitions (#2540)
 - [2026-05-25T10:02:37.313Z] Feat: Implement dark mode support (#2541)
 - [2026-05-25T10:02:37.573Z] Improve: Enhance state management with better scoping (#2542)
+- [2026-05-25T10:02:37.838Z] Docs: Update API documentation for v2 (#2543)
