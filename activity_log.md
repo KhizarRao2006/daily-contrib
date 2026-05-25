@@ -2435,3 +2435,4 @@
 - [2026-05-25T09:56:17.104Z] Feat: Add support for multi-region clusters (#1221)
 - [2026-05-25T09:56:17.799Z] Streamline: Simplify internal routing logic (#1224)
 - [2026-05-25T09:56:18.505Z] Modularize: Break down large components into smaller ones (#1227)
+- [2026-05-25T09:56:18.748Z] Refactor: Extract utility functions for cleaner code (#1228)
