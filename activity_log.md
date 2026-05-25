@@ -2117,3 +2117,4 @@
 - [2026-05-25T09:52:51.105Z] Security: Patch vulnerability in session handling (#442)
 - [2026-05-25T09:52:52.255Z] Chore: Remove deprecated methods and clean up (#446)
 - [2026-05-25T09:52:53.173Z] Implement: Add validation for incoming payloads (#450)
+- [2026-05-25T09:52:53.391Z] Feat: Add support for multi-region clusters (#451)
