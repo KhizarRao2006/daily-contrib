@@ -4305,3 +4305,4 @@
 - [2026-05-25T10:20:08.399Z] Docs: Update API documentation for v2 (#5822)
 - [2026-05-25T10:20:09.100Z] Refactor: Optimize rendering logic (#5824)
 - [2026-05-25T10:20:10.098Z] Modernize: Transition to ES2023 features (#5827)
+- [2026-05-25T10:20:10.384Z] Implement: Add validation for incoming payloads (#5828)
