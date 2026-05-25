@@ -3918,3 +3918,4 @@
 - [2026-05-25T10:14:26.524Z] Style: Modernize UI components with better spacing (#4855)
 - [2026-05-25T10:14:26.853Z] Test: Increase coverage for edge cases in parser (#4856)
 - [2026-05-25T10:14:27.506Z] Modernize: Transition to ES2023 features (#4858)
+- [2026-05-25T10:14:28.566Z] Docs: Update API documentation for v2 (#4861)
