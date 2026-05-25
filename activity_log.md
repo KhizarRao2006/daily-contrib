@@ -3559,3 +3559,4 @@
 - [2026-05-25T10:09:35.982Z] Fix: Resolve race condition in auth flow (#3944)
 - [2026-05-25T10:09:36.269Z] Feat: Add support for multi-region clusters (#3945)
 - [2026-05-25T10:09:37.111Z] Chore: Remove deprecated methods and clean up (#3948)
+- [2026-05-25T10:09:37.662Z] Refactor: Extract utility functions for cleaner code (#3950)
