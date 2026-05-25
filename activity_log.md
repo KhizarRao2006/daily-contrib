@@ -3534,3 +3534,4 @@
 - [2026-05-25T10:09:21.747Z] Docs: Update API documentation for v2 (#3894)
 - [2026-05-25T10:09:22.329Z] Build: Optimize CI/CD pipeline stages (#3896)
 - [2026-05-25T10:09:23.501Z] Style: Modernize UI components with better spacing (#3900)
+- [2026-05-25T10:09:23.795Z] Security: Patch vulnerability in session handling (#3901)
