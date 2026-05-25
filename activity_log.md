@@ -2710,3 +2710,4 @@
 - [2026-05-25T09:59:10.161Z] Build: Optimize CI/CD pipeline stages (#1879)
 - [2026-05-25T09:59:10.715Z] Refine: Smooth out CSS transitions (#1881)
 - [2026-05-25T09:59:11.255Z] Chore: Remove deprecated methods and clean up (#1883)
+- [2026-05-25T09:59:11.519Z] Docs: Update API documentation for v2 (#1884)
