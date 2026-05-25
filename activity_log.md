@@ -3800,3 +3800,4 @@
 - [2026-05-25T10:12:44.790Z] Feat: Implement dark mode support (#4552)
 - [2026-05-25T10:12:45.099Z] Improve: Enhance state management with better scoping (#4553)
 - [2026-05-25T10:12:45.658Z] Implement: Add validation for incoming payloads (#4555)
+- [2026-05-25T10:12:45.970Z] Feat: Add support for multi-region clusters (#4556)
