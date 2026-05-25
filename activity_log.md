@@ -4871,3 +4871,4 @@
 - [2026-05-25T10:28:51.490Z] Implement: Add validation for incoming payloads (#7193)
 - [2026-05-25T10:28:51.861Z] Docs: Update API documentation for v2 (#7194)
 - [2026-05-25T10:28:54.042Z] Implement: Add validation for incoming payloads (#7200)
+- [2026-05-25T10:28:54.786Z] Feat: Add support for multi-region clusters (#7202)
