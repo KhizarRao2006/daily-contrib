@@ -3110,3 +3110,4 @@
 - [2026-05-25T10:04:10.908Z] Docs: Update API documentation for v2 (#2853)
 - [2026-05-25T10:04:11.481Z] Docs: Clarify installation steps in README (#2855)
 - [2026-05-25T10:04:12.068Z] Docs: Clarify installation steps in README (#2857)
+- [2026-05-25T10:04:12.776Z] Modularize: Break down large components into smaller ones (#2859)
