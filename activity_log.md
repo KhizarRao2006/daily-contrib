@@ -2097,3 +2097,4 @@
 - [2026-05-25T09:52:39.899Z] Security: Patch vulnerability in session handling (#396)
 - [2026-05-25T09:52:40.595Z] Refine: Smooth out CSS transitions (#399)
 - [2026-05-25T09:52:41.098Z] Strengthen: Add robust error boundaries (#401)
+- [2026-05-25T09:52:41.795Z] Docs: Clarify installation steps in README (#404)
