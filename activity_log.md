@@ -3373,3 +3373,4 @@
 - [2026-05-25T10:07:34.363Z] Security: Patch vulnerability in session handling (#3521)
 - [2026-05-25T10:07:34.654Z] Streamline: Simplify internal routing logic (#3522)
 - [2026-05-25T10:07:35.522Z] Feat: Add support for multi-region clusters (#3525)
+- [2026-05-25T10:07:35.811Z] Modernize: Transition to ES2023 features (#3526)
