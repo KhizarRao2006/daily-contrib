@@ -2497,3 +2497,4 @@
 - [2026-05-25T09:56:52.587Z] Style: Modernize UI components with better spacing (#1365)
 - [2026-05-25T09:56:53.703Z] Optimize: Minimize memory footprint of data structures (#1369)
 - [2026-05-25T09:56:55.937Z] Refactor: Extract utility functions for cleaner code (#1378)
+- [2026-05-25T09:56:56.179Z] Docs: Clarify installation steps in README (#1379)
