@@ -5418,3 +5418,4 @@
 - [2026-05-25T10:37:44.073Z] Docs: Clarify installation steps in README (#8528)
 - [2026-05-25T10:37:44.797Z] Fix: Resolve race condition in auth flow (#8530)
 - [2026-05-25T10:37:46.851Z] Security: Patch vulnerability in session handling (#8535)
+- [2026-05-25T10:37:47.247Z] Feat: Add support for multi-region clusters (#8536)
