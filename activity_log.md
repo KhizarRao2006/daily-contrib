@@ -2482,3 +2482,4 @@
 - [2026-05-25T09:56:46.105Z] Feat: Add support for multi-region clusters (#1337)
 - [2026-05-25T09:56:46.325Z] Chore: Upgrade dependencies to latest stable (#1338)
 - [2026-05-25T09:56:47.008Z] Docs: Clarify installation steps in README (#1341)
+- [2026-05-25T09:56:48.193Z] Refactor: Extract utility functions for cleaner code (#1346)
