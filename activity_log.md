@@ -3094,3 +3094,4 @@
 - [2026-05-25T10:03:59.669Z] Feat: Add support for multi-region clusters (#2815)
 - [2026-05-25T10:04:00.606Z] Refactor: Optimize rendering logic (#2818)
 - [2026-05-25T10:04:00.904Z] Perf: Improve database query execution time (#2819)
+- [2026-05-25T10:04:01.488Z] Chore: Remove deprecated methods and clean up (#2821)
