@@ -2381,3 +2381,4 @@
 - [2026-05-25T09:55:44.475Z] Implement: Add validation for incoming payloads (#1090)
 - [2026-05-25T09:55:45.221Z] Feat: Add support for multi-region clusters (#1093)
 - [2026-05-25T09:55:46.519Z] Feat: Add support for multi-region clusters (#1098)
+- [2026-05-25T09:55:47.298Z] Fix: Resolve race condition in auth flow (#1101)
