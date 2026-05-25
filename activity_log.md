@@ -2062,3 +2062,4 @@
 - [2026-05-25T09:52:13.269Z] Docs: Update API documentation for v2 (#303)
 - [2026-05-25T09:52:13.489Z] Streamline: Simplify internal routing logic (#304)
 - [2026-05-25T09:52:13.707Z] Strengthen: Add robust error boundaries (#305)
+- [2026-05-25T09:52:14.702Z] Docs: Clarify installation steps in README (#307)
