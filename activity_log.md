@@ -3822,3 +3822,4 @@
 - [2026-05-25T10:12:59.838Z] Fix: Resolve race condition in auth flow (#4602)
 - [2026-05-25T10:13:00.789Z] Fix: Handle null pointer exception in logger (#4605)
 - [2026-05-25T10:13:01.399Z] Docs: Update API documentation for v2 (#4607)
+- [2026-05-25T10:13:01.699Z] Docs: Clarify installation steps in README (#4608)
