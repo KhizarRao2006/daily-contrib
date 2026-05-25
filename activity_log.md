@@ -2092,3 +2092,4 @@
 - [2026-05-25T09:52:35.745Z] Test: Increase coverage for edge cases in parser (#380)
 - [2026-05-25T09:52:36.324Z] Improve: Enhance state management with better scoping (#382)
 - [2026-05-25T09:52:36.588Z] Modularize: Break down large components into smaller ones (#383)
+- [2026-05-25T09:52:37.432Z] Chore: Remove deprecated methods and clean up (#386)
