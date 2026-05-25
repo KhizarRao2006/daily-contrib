@@ -2653,3 +2653,4 @@
 - [2026-05-25T09:58:36.622Z] Feat: Add support for multi-region clusters (#1757)
 - [2026-05-25T09:58:36.874Z] Docs: Clarify installation steps in README (#1758)
 - [2026-05-25T09:58:37.369Z] Fix: Resolve race condition in auth flow (#1760)
+- [2026-05-25T09:58:37.614Z] Chore: Upgrade dependencies to latest stable (#1761)
