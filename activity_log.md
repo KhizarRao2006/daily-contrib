@@ -4791,3 +4791,4 @@
 - [2026-05-25T10:27:40.728Z] Build: Optimize CI/CD pipeline stages (#7013)
 - [2026-05-25T10:27:42.162Z] Chore: Remove deprecated methods and clean up (#7017)
 - [2026-05-25T10:27:42.446Z] Chore: Upgrade dependencies to latest stable (#7018)
+- [2026-05-25T10:27:43.811Z] Docs: Clarify installation steps in README (#7022)
