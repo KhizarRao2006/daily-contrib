@@ -2075,3 +2075,4 @@
 - [2026-05-25T09:52:24.948Z] Streamline: Simplify internal routing logic (#342)
 - [2026-05-25T09:52:25.239Z] Security: Patch vulnerability in session handling (#343)
 - [2026-05-25T09:52:25.515Z] Modernize: Transition to ES2023 features (#344)
+- [2026-05-25T09:52:26.606Z] Chore: Remove deprecated methods and clean up (#347)
