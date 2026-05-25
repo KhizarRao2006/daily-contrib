@@ -5103,3 +5103,4 @@
 - [2026-05-25T10:32:55.820Z] Security: Patch vulnerability in session handling (#7789)
 - [2026-05-25T10:32:56.525Z] Modularize: Break down large components into smaller ones (#7791)
 - [2026-05-25T10:32:58.369Z] Security: Patch vulnerability in session handling (#7796)
+- [2026-05-25T10:32:58.734Z] Docs: Clarify installation steps in README (#7797)
