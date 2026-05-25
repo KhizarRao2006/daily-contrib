@@ -3043,3 +3043,4 @@
 - [2026-05-25T10:03:22.805Z] Docs: Clarify installation steps in README (#2686)
 - [2026-05-25T10:03:24.582Z] Perf: Improve database query execution time (#2690)
 - [2026-05-25T10:03:25.229Z] Chore: Upgrade dependencies to latest stable (#2692)
+- [2026-05-25T10:03:26.134Z] Docs: Clarify installation steps in README (#2695)
