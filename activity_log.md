@@ -3181,3 +3181,4 @@
 - [2026-05-25T10:05:01.692Z] Fix: Resolve race condition in auth flow (#3030)
 - [2026-05-25T10:05:04.151Z] Chore: Remove deprecated methods and clean up (#3037)
 - [2026-05-25T10:05:04.436Z] Fix: Resolve race condition in auth flow (#3038)
+- [2026-05-25T10:05:04.774Z] Docs: Clarify installation steps in README (#3039)
