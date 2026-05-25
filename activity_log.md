@@ -4551,3 +4551,4 @@
 - [2026-05-25T10:24:01.769Z] Streamline: Simplify internal routing logic (#6447)
 - [2026-05-25T10:24:02.507Z] Feat: Implement dark mode support (#6449)
 - [2026-05-25T10:24:02.889Z] Perf: Improve database query execution time (#6450)
+- [2026-05-25T10:24:03.286Z] Docs: Clarify installation steps in README (#6451)
