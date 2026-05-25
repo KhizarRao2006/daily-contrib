@@ -3416,3 +3416,4 @@
 - [2026-05-25T10:08:04.203Z] Docs: Update API documentation for v2 (#3624)
 - [2026-05-25T10:08:04.751Z] Update: Refresh dependencies for security compliance (#3626)
 - [2026-05-25T10:08:05.039Z] Refactor: Optimize rendering logic (#3627)
+- [2026-05-25T10:08:05.965Z] Feat: Add support for multi-region clusters (#3630)
