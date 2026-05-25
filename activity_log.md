@@ -2971,3 +2971,4 @@
 - [2026-05-25T10:02:23.308Z] Feat: Add support for multi-region clusters (#2498)
 - [2026-05-25T10:02:24.270Z] Docs: Update API documentation for v2 (#2501)
 - [2026-05-25T10:02:25.640Z] Improve: Enhance state management with better scoping (#2505)
+- [2026-05-25T10:02:26.789Z] Style: Modernize UI components with better spacing (#2508)
