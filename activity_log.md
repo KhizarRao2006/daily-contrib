@@ -2326,3 +2326,4 @@
 - [2026-05-25T09:55:10.081Z] Docs: Clarify installation steps in README (#956)
 - [2026-05-25T09:55:11.538Z] Streamline: Simplify internal routing logic (#962)
 - [2026-05-25T09:55:11.780Z] Chore: Upgrade dependencies to latest stable (#963)
+- [2026-05-25T09:55:13.263Z] Chore: Remove deprecated methods and clean up (#969)
