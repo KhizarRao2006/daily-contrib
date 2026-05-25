@@ -2188,3 +2188,4 @@
 - [2026-05-25T09:53:44.784Z] Style: Modernize UI components with better spacing (#602)
 - [2026-05-25T09:53:45.492Z] Feat: Add support for multi-region clusters (#605)
 - [2026-05-25T09:53:45.723Z] Fix: Handle null pointer exception in logger (#606)
+- [2026-05-25T09:53:46.887Z] Docs: Clarify installation steps in README (#611)
