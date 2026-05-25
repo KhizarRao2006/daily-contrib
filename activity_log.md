@@ -1995,3 +1995,4 @@
 - [2026-05-25T09:51:38.154Z] Feat: Implement dark mode support (#155)
 - [2026-05-25T09:51:38.625Z] Docs: Update API documentation for v2 (#157)
 - [2026-05-25T09:51:38.853Z] Modularize: Break down large components into smaller ones (#158)
+- [2026-05-25T09:51:39.417Z] Docs: Update API documentation for v2 (#160)
