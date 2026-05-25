@@ -3542,3 +3542,4 @@
 - [2026-05-25T10:09:27.598Z] Streamline: Simplify internal routing logic (#3914)
 - [2026-05-25T10:09:27.892Z] Security: Patch vulnerability in session handling (#3915)
 - [2026-05-25T10:09:28.477Z] Refine: Smooth out CSS transitions (#3917)
+- [2026-05-25T10:09:28.773Z] Docs: Clarify installation steps in README (#3918)
