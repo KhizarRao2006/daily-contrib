@@ -4765,3 +4765,4 @@
 - [2026-05-25T10:27:13.274Z] Feat: Add support for multi-region clusters (#6944)
 - [2026-05-25T10:27:14.835Z] Docs: Update API documentation for v2 (#6948)
 - [2026-05-25T10:27:15.622Z] Refactor: Optimize rendering logic (#6950)
+- [2026-05-25T10:27:18.287Z] Fix: Resolve race condition in auth flow (#6957)
