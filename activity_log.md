@@ -5302,3 +5302,4 @@
 - [2026-05-25T10:35:51.917Z] Docs: Clarify installation steps in README (#8254)
 - [2026-05-25T10:35:52.321Z] Optimize: Minimize memory footprint of data structures (#8255)
 - [2026-05-25T10:35:55.022Z] Strengthen: Add robust error boundaries (#8261)
+- [2026-05-25T10:35:55.523Z] Test: Increase coverage for edge cases in parser (#8262)
