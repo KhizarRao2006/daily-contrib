@@ -2965,3 +2965,4 @@
 - [2026-05-25T10:02:16.596Z] Feat: Add support for multi-region clusters (#2476)
 - [2026-05-25T10:02:17.173Z] Build: Optimize CI/CD pipeline stages (#2478)
 - [2026-05-25T10:02:17.727Z] Fix: Handle null pointer exception in logger (#2480)
+- [2026-05-25T10:02:19.247Z] Docs: Update API documentation for v2 (#2485)
