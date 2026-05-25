@@ -3567,3 +3567,4 @@
 - [2026-05-25T10:09:39.575Z] Fix: Handle null pointer exception in logger (#3957)
 - [2026-05-25T10:09:40.394Z] Refactor: Optimize rendering logic (#3960)
 - [2026-05-25T10:09:41.002Z] Refactor: Optimize rendering logic (#3962)
+- [2026-05-25T10:09:41.604Z] Docs: Update API documentation for v2 (#3964)
