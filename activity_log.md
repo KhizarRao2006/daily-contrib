@@ -5401,3 +5401,4 @@
 - [2026-05-25T10:37:26.978Z] Update: Refresh dependencies for security compliance (#8485)
 - [2026-05-25T10:37:27.351Z] Update: Refresh dependencies for security compliance (#8486)
 - [2026-05-25T10:37:27.648Z] Update: Refresh dependencies for security compliance (#8487)
+- [2026-05-25T10:37:27.940Z] Docs: Clarify installation steps in README (#8488)
