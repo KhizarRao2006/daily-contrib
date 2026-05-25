@@ -2921,3 +2921,4 @@
 - [2026-05-25T10:01:48.451Z] Feat: Implement dark mode support (#2382)
 - [2026-05-25T10:01:49.017Z] Chore: Upgrade dependencies to latest stable (#2384)
 - [2026-05-25T10:01:49.603Z] Modernize: Transition to ES2023 features (#2386)
+- [2026-05-25T10:01:49.894Z] Fix: Resolve race condition in auth flow (#2387)
