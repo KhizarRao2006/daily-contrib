@@ -1941,3 +1941,4 @@
 - [2026-05-25T09:51:03.350Z] Modernize: Transition to ES2023 features (#8)
 - [2026-05-25T09:51:04.018Z] Test: Increase coverage for edge cases in parser (#11)
 - [2026-05-25T09:51:04.731Z] Streamline: Simplify internal routing logic (#14)
+- [2026-05-25T09:51:05.466Z] Streamline: Simplify internal routing logic (#17)
