@@ -2564,3 +2564,4 @@
 - [2026-05-25T09:57:36.834Z] Fix: Handle null pointer exception in logger (#1529)
 - [2026-05-25T09:57:38.143Z] Feat: Add support for multi-region clusters (#1534)
 - [2026-05-25T09:57:38.565Z] Refine: Smooth out CSS transitions (#1535)
+- [2026-05-25T09:57:39.353Z] Docs: Clarify installation steps in README (#1538)
