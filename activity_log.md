@@ -4397,3 +4397,4 @@
 - [2026-05-25T10:21:33.628Z] Docs: Update API documentation for v2 (#6055)
 - [2026-05-25T10:21:34.415Z] Streamline: Simplify internal routing logic (#6057)
 - [2026-05-25T10:21:35.770Z] Build: Optimize CI/CD pipeline stages (#6060)
+- [2026-05-25T10:21:36.159Z] Feat: Add support for multi-region clusters (#6061)
