@@ -2712,3 +2712,4 @@
 - [2026-05-25T09:59:11.255Z] Chore: Remove deprecated methods and clean up (#1883)
 - [2026-05-25T09:59:11.519Z] Docs: Update API documentation for v2 (#1884)
 - [2026-05-25T09:59:12.095Z] Feat: Add support for multi-region clusters (#1886)
+- [2026-05-25T09:59:12.937Z] Update: Refresh dependencies for security compliance (#1889)
