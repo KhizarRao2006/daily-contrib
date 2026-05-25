@@ -3160,3 +3160,4 @@
 - [2026-05-25T10:04:46.836Z] Feat: Add support for multi-region clusters (#2977)
 - [2026-05-25T10:04:47.664Z] Implement: Add validation for incoming payloads (#2980)
 - [2026-05-25T10:04:47.951Z] Modernize: Transition to ES2023 features (#2981)
+- [2026-05-25T10:04:48.783Z] Fix: Handle null pointer exception in logger (#2984)
