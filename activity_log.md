@@ -3575,3 +3575,4 @@
 - [2026-05-25T10:09:47.414Z] Docs: Clarify installation steps in README (#3984)
 - [2026-05-25T10:09:47.722Z] Modularize: Break down large components into smaller ones (#3985)
 - [2026-05-25T10:09:48.014Z] Test: Increase coverage for edge cases in parser (#3986)
+- [2026-05-25T10:09:49.943Z] Streamline: Simplify internal routing logic (#3992)
