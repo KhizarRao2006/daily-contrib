@@ -2913,3 +2913,4 @@
 - [2026-05-25T10:01:42.553Z] Build: Optimize CI/CD pipeline stages (#2361)
 - [2026-05-25T10:01:43.440Z] Secure: Implement advanced hashing for sensitive data (#2364)
 - [2026-05-25T10:01:43.703Z] Docs: Update API documentation for v2 (#2365)
+- [2026-05-25T10:01:44.914Z] Docs: Clarify installation steps in README (#2369)
