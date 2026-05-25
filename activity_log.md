@@ -3975,3 +3975,4 @@
 - [2026-05-25T10:15:13.493Z] Chore: Remove deprecated methods and clean up (#4991)
 - [2026-05-25T10:15:14.244Z] Docs: Clarify installation steps in README (#4993)
 - [2026-05-25T10:15:14.862Z] Chore: Remove deprecated methods and clean up (#4995)
+- [2026-05-25T10:15:15.236Z] Security: Patch vulnerability in session handling (#4996)
