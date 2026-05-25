@@ -4605,3 +4605,4 @@
 - [2026-05-25T10:24:48.453Z] Improve: Enhance state management with better scoping (#6568)
 - [2026-05-25T10:24:49.643Z] Docs: Update API documentation for v2 (#6571)
 - [2026-05-25T10:24:50.843Z] Feat: Add support for multi-region clusters (#6574)
+- [2026-05-25T10:24:51.227Z] Chore: Remove deprecated methods and clean up (#6575)
