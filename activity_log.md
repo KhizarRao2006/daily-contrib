@@ -2451,3 +2451,4 @@
 - [2026-05-25T09:56:24.388Z] Docs: Update API documentation for v2 (#1252)
 - [2026-05-25T09:56:25.075Z] Test: Increase coverage for edge cases in parser (#1255)
 - [2026-05-25T09:56:25.774Z] Refactor: Extract utility functions for cleaner code (#1258)
+- [2026-05-25T09:56:26.013Z] Docs: Clarify installation steps in README (#1259)
