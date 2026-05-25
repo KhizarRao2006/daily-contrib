@@ -2972,3 +2972,4 @@
 - [2026-05-25T10:02:24.270Z] Docs: Update API documentation for v2 (#2501)
 - [2026-05-25T10:02:25.640Z] Improve: Enhance state management with better scoping (#2505)
 - [2026-05-25T10:02:26.789Z] Style: Modernize UI components with better spacing (#2508)
+- [2026-05-25T10:02:29.992Z] Chore: Remove deprecated methods and clean up (#2517)
