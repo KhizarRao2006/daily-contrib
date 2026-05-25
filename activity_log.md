@@ -3551,3 +3551,4 @@
 - [2026-05-25T10:09:30.754Z] Modularize: Break down large components into smaller ones (#3925)
 - [2026-05-25T10:09:30.999Z] Fix: Resolve race condition in auth flow (#3926)
 - [2026-05-25T10:09:31.242Z] Strengthen: Add robust error boundaries (#3927)
+- [2026-05-25T10:09:31.488Z] Docs: Clarify installation steps in README (#3928)
