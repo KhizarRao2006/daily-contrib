@@ -2380,3 +2380,4 @@
 - [2026-05-25T09:55:42.937Z] Feat: Implement dark mode support (#1084)
 - [2026-05-25T09:55:44.475Z] Implement: Add validation for incoming payloads (#1090)
 - [2026-05-25T09:55:45.221Z] Feat: Add support for multi-region clusters (#1093)
+- [2026-05-25T09:55:46.519Z] Feat: Add support for multi-region clusters (#1098)
