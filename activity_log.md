@@ -4769,3 +4769,4 @@
 - [2026-05-25T10:27:18.977Z] Test: Increase coverage for edge cases in parser (#6959)
 - [2026-05-25T10:27:19.724Z] Chore: Upgrade dependencies to latest stable (#6961)
 - [2026-05-25T10:27:22.376Z] Chore: Remove deprecated methods and clean up (#6967)
+- [2026-05-25T10:27:23.055Z] Docs: Update API documentation for v2 (#6969)
