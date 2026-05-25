@@ -3387,3 +3387,4 @@
 - [2026-05-25T10:07:47.337Z] Test: Increase coverage for edge cases in parser (#3566)
 - [2026-05-25T10:07:47.640Z] Docs: Update API documentation for v2 (#3567)
 - [2026-05-25T10:07:48.817Z] Perf: Improve database query execution time (#3571)
+- [2026-05-25T10:07:49.106Z] Fix: Handle null pointer exception in logger (#3572)
