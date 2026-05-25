@@ -3192,3 +3192,4 @@
 - [2026-05-25T10:05:11.234Z] Modularize: Break down large components into smaller ones (#3057)
 - [2026-05-25T10:05:12.336Z] Refine: Smooth out CSS transitions (#3061)
 - [2026-05-25T10:05:12.641Z] Chore: Remove deprecated methods and clean up (#3062)
+- [2026-05-25T10:05:13.767Z] Docs: Clarify installation steps in README (#3066)
