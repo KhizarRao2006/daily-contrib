@@ -2937,3 +2937,4 @@
 - [2026-05-25T10:01:59.266Z] Strengthen: Add robust error boundaries (#2420)
 - [2026-05-25T10:01:59.779Z] Docs: Clarify installation steps in README (#2422)
 - [2026-05-25T10:02:00.067Z] Improve: Enhance state management with better scoping (#2423)
+- [2026-05-25T10:02:03.176Z] Docs: Update API documentation for v2 (#2431)
