@@ -4721,3 +4721,4 @@
 - [2026-05-25T10:26:32.760Z] Refactor: Optimize rendering logic (#6843)
 - [2026-05-25T10:26:33.843Z] Refine: Smooth out CSS transitions (#6846)
 - [2026-05-25T10:26:34.582Z] Style: Modernize UI components with better spacing (#6848)
+- [2026-05-25T10:26:35.320Z] Docs: Update API documentation for v2 (#6850)
