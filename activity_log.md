@@ -4336,3 +4336,4 @@
 - [2026-05-25T10:20:35.923Z] Fix: Handle null pointer exception in logger (#5902)
 - [2026-05-25T10:20:36.441Z] Refactor: Extract utility functions for cleaner code (#5903)
 - [2026-05-25T10:20:36.735Z] Docs: Clarify installation steps in README (#5904)
+- [2026-05-25T10:20:37.047Z] Docs: Clarify installation steps in README (#5905)
