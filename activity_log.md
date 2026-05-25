@@ -4435,3 +4435,4 @@
 - [2026-05-25T10:22:09.010Z] Modernize: Transition to ES2023 features (#6153)
 - [2026-05-25T10:22:10.098Z] Chore: Upgrade dependencies to latest stable (#6156)
 - [2026-05-25T10:22:11.128Z] Improve: Enhance state management with better scoping (#6159)
+- [2026-05-25T10:22:11.436Z] Fix: Handle null pointer exception in logger (#6160)
