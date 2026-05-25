@@ -2806,3 +2806,4 @@
 - [2026-05-25T10:00:26.765Z] Style: Modernize UI components with better spacing (#2101)
 - [2026-05-25T10:00:27.804Z] Docs: Clarify installation steps in README (#2105)
 - [2026-05-25T10:00:28.069Z] Feat: Implement dark mode support (#2106)
+- [2026-05-25T10:00:29.362Z] Modernize: Transition to ES2023 features (#2110)
