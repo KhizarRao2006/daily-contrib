@@ -3276,3 +3276,4 @@
 - [2026-05-25T10:06:22.383Z] Docs: Update API documentation for v2 (#3286)
 - [2026-05-25T10:06:23.229Z] Docs: Clarify installation steps in README (#3289)
 - [2026-05-25T10:06:23.479Z] Security: Patch vulnerability in session handling (#3290)
+- [2026-05-25T10:06:23.732Z] Security: Patch vulnerability in session handling (#3291)
