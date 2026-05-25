@@ -2479,3 +2479,4 @@
 - [2026-05-25T09:56:44.706Z] Build: Optimize CI/CD pipeline stages (#1332)
 - [2026-05-25T09:56:45.611Z] Build: Optimize CI/CD pipeline stages (#1335)
 - [2026-05-25T09:56:45.865Z] Docs: Update API documentation for v2 (#1336)
+- [2026-05-25T09:56:46.105Z] Feat: Add support for multi-region clusters (#1337)
