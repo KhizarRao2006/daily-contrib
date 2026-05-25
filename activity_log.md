@@ -2059,3 +2059,4 @@
 - [2026-05-25T09:52:12.113Z] Docs: Clarify installation steps in README (#299)
 - [2026-05-25T09:52:12.662Z] Perf: Improve database query execution time (#301)
 - [2026-05-25T09:52:13.032Z] Fix: Handle null pointer exception in logger (#302)
+- [2026-05-25T09:52:13.269Z] Docs: Update API documentation for v2 (#303)
