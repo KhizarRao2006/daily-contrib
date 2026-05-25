@@ -2829,3 +2829,4 @@
 - [2026-05-25T10:00:40.332Z] Test: Increase coverage for edge cases in parser (#2149)
 - [2026-05-25T10:00:40.889Z] Docs: Clarify installation steps in README (#2151)
 - [2026-05-25T10:00:41.741Z] Build: Optimize CI/CD pipeline stages (#2154)
+- [2026-05-25T10:00:42.539Z] Docs: Clarify installation steps in README (#2157)
