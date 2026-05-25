@@ -3104,3 +3104,4 @@
 - [2026-05-25T10:04:06.419Z] Security: Patch vulnerability in session handling (#2837)
 - [2026-05-25T10:04:08.145Z] Optimize: Minimize memory footprint of data structures (#2843)
 - [2026-05-25T10:04:08.680Z] Build: Optimize CI/CD pipeline stages (#2845)
+- [2026-05-25T10:04:08.963Z] Docs: Clarify installation steps in README (#2846)
