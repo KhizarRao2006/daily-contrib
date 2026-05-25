@@ -2721,3 +2721,4 @@
 - [2026-05-25T09:59:17.905Z] Docs: Clarify installation steps in README (#1906)
 - [2026-05-25T09:59:18.729Z] Strengthen: Add robust error boundaries (#1909)
 - [2026-05-25T09:59:19.304Z] Feat: Add support for multi-region clusters (#1911)
+- [2026-05-25T09:59:19.908Z] Modernize: Transition to ES2023 features (#1913)
