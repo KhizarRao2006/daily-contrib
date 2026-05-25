@@ -4130,3 +4130,4 @@
 - [2026-05-25T10:17:38.318Z] Modularize: Break down large components into smaller ones (#5401)
 - [2026-05-25T10:17:40.281Z] Test: Increase coverage for edge cases in parser (#5407)
 - [2026-05-25T10:17:42.004Z] Strengthen: Add robust error boundaries (#5412)
+- [2026-05-25T10:17:42.707Z] Chore: Remove deprecated methods and clean up (#5414)
