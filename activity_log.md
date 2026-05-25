@@ -4793,3 +4793,4 @@
 - [2026-05-25T10:27:42.446Z] Chore: Upgrade dependencies to latest stable (#7018)
 - [2026-05-25T10:27:43.811Z] Docs: Clarify installation steps in README (#7022)
 - [2026-05-25T10:27:44.173Z] Fix: Handle null pointer exception in logger (#7023)
+- [2026-05-25T10:27:44.993Z] Docs: Clarify installation steps in README (#7025)
