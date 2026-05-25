@@ -3127,3 +3127,4 @@
 - [2026-05-25T10:04:24.796Z] Chore: Upgrade dependencies to latest stable (#2900)
 - [2026-05-25T10:04:25.071Z] Docs: Update API documentation for v2 (#2901)
 - [2026-05-25T10:04:25.665Z] Streamline: Simplify internal routing logic (#2903)
+- [2026-05-25T10:04:26.810Z] Docs: Clarify installation steps in README (#2907)
