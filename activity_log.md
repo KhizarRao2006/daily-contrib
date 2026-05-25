@@ -2827,3 +2827,4 @@
 - [2026-05-25T10:00:38.789Z] Build: Optimize CI/CD pipeline stages (#2144)
 - [2026-05-25T10:00:39.773Z] Security: Patch vulnerability in session handling (#2147)
 - [2026-05-25T10:00:40.332Z] Test: Increase coverage for edge cases in parser (#2149)
+- [2026-05-25T10:00:40.889Z] Docs: Clarify installation steps in README (#2151)
