@@ -2314,3 +2314,4 @@
 - [2026-05-25T09:55:03.490Z] Modernize: Transition to ES2023 features (#929)
 - [2026-05-25T09:55:04.863Z] Perf: Improve database query execution time (#935)
 - [2026-05-25T09:55:05.773Z] Update: Refresh dependencies for security compliance (#939)
+- [2026-05-25T09:55:06.006Z] Fix: Resolve race condition in auth flow (#940)
