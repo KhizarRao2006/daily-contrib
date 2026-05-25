@@ -2984,3 +2984,4 @@
 - [2026-05-25T10:02:34.725Z] Fix: Handle null pointer exception in logger (#2532)
 - [2026-05-25T10:02:35.009Z] Improve: Enhance state management with better scoping (#2533)
 - [2026-05-25T10:02:35.581Z] Fix: Resolve race condition in auth flow (#2535)
+- [2026-05-25T10:02:35.889Z] Docs: Clarify installation steps in README (#2536)
