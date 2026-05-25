@@ -2804,3 +2804,4 @@
 - [2026-05-25T10:00:24.379Z] Refine: Smooth out CSS transitions (#2094)
 - [2026-05-25T10:00:25.436Z] Secure: Implement advanced hashing for sensitive data (#2097)
 - [2026-05-25T10:00:26.765Z] Style: Modernize UI components with better spacing (#2101)
+- [2026-05-25T10:00:27.804Z] Docs: Clarify installation steps in README (#2105)
