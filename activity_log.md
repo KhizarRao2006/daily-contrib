@@ -2808,3 +2808,4 @@
 - [2026-05-25T10:00:28.069Z] Feat: Implement dark mode support (#2106)
 - [2026-05-25T10:00:29.362Z] Modernize: Transition to ES2023 features (#2110)
 - [2026-05-25T10:00:29.946Z] Refactor: Optimize rendering logic (#2112)
+- [2026-05-25T10:00:30.216Z] Docs: Clarify installation steps in README (#2113)
