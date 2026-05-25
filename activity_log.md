@@ -3293,3 +3293,4 @@
 - [2026-05-25T10:06:35.524Z] Fix: Resolve race condition in auth flow (#3325)
 - [2026-05-25T10:06:35.813Z] Chore: Upgrade dependencies to latest stable (#3326)
 - [2026-05-25T10:06:36.116Z] Fix: Handle null pointer exception in logger (#3327)
+- [2026-05-25T10:06:36.363Z] Security: Patch vulnerability in session handling (#3328)
