@@ -5391,3 +5391,4 @@
 - [2026-05-25T10:37:17.484Z] Refactor: Extract utility functions for cleaner code (#8460)
 - [2026-05-25T10:37:18.605Z] Update: Refresh dependencies for security compliance (#8463)
 - [2026-05-25T10:37:19.828Z] Refactor: Extract utility functions for cleaner code (#8466)
+- [2026-05-25T10:37:20.240Z] Docs: Clarify installation steps in README (#8467)
