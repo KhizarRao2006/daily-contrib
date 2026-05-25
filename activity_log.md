@@ -3186,3 +3186,4 @@
 - [2026-05-25T10:05:08.668Z] Test: Increase coverage for edge cases in parser (#3048)
 - [2026-05-25T10:05:08.970Z] Chore: Upgrade dependencies to latest stable (#3049)
 - [2026-05-25T10:05:09.246Z] Docs: Update API documentation for v2 (#3050)
+- [2026-05-25T10:05:09.516Z] Refactor: Extract utility functions for cleaner code (#3051)
