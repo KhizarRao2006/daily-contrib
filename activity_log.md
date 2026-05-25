@@ -3290,3 +3290,4 @@
 - [2026-05-25T10:06:32.892Z] Streamline: Simplify internal routing logic (#3316)
 - [2026-05-25T10:06:33.481Z] Chore: Remove deprecated methods and clean up (#3318)
 - [2026-05-25T10:06:34.370Z] Modernize: Transition to ES2023 features (#3321)
+- [2026-05-25T10:06:35.524Z] Fix: Resolve race condition in auth flow (#3325)
