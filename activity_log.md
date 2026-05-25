@@ -2738,3 +2738,4 @@
 - [2026-05-25T09:59:29.990Z] Fix: Resolve race condition in auth flow (#1943)
 - [2026-05-25T09:59:30.583Z] Refactor: Optimize rendering logic (#1945)
 - [2026-05-25T09:59:30.882Z] Modularize: Break down large components into smaller ones (#1946)
+- [2026-05-25T09:59:33.601Z] Docs: Update API documentation for v2 (#1954)
