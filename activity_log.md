@@ -4457,3 +4457,4 @@
 - [2026-05-25T10:22:25.970Z] Chore: Upgrade dependencies to latest stable (#6201)
 - [2026-05-25T10:22:26.335Z] Docs: Clarify installation steps in README (#6202)
 - [2026-05-25T10:22:27.757Z] Optimize: Minimize memory footprint of data structures (#6206)
+- [2026-05-25T10:22:29.230Z] Modernize: Transition to ES2023 features (#6210)
