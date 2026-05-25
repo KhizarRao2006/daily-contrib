@@ -4316,3 +4316,4 @@
 - [2026-05-25T10:20:17.418Z] Modernize: Transition to ES2023 features (#5848)
 - [2026-05-25T10:20:18.155Z] Modernize: Transition to ES2023 features (#5850)
 - [2026-05-25T10:20:19.169Z] Test: Increase coverage for edge cases in parser (#5853)
+- [2026-05-25T10:20:19.468Z] Fix: Handle null pointer exception in logger (#5854)
