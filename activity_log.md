@@ -4579,3 +4579,4 @@
 - [2026-05-25T10:24:24.653Z] Feat: Implement dark mode support (#6507)
 - [2026-05-25T10:24:25.438Z] Security: Patch vulnerability in session handling (#6509)
 - [2026-05-25T10:24:26.548Z] Improve: Enhance state management with better scoping (#6512)
+- [2026-05-25T10:24:27.833Z] Feat: Add support for multi-region clusters (#6515)
