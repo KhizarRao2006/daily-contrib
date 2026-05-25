@@ -3079,3 +3079,4 @@
 - [2026-05-25T10:03:49.269Z] Chore: Remove deprecated methods and clean up (#2778)
 - [2026-05-25T10:03:50.371Z] Chore: Upgrade dependencies to latest stable (#2782)
 - [2026-05-25T10:03:50.653Z] Docs: Update API documentation for v2 (#2783)
+- [2026-05-25T10:03:50.931Z] Chore: Remove deprecated methods and clean up (#2784)
