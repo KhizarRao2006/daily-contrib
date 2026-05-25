@@ -3035,3 +3035,4 @@
 - [2026-05-25T10:03:15.249Z] Modernize: Transition to ES2023 features (#2661)
 - [2026-05-25T10:03:15.848Z] Style: Modernize UI components with better spacing (#2663)
 - [2026-05-25T10:03:18.124Z] Fix: Handle null pointer exception in logger (#2671)
+- [2026-05-25T10:03:18.698Z] Feat: Add support for multi-region clusters (#2673)
