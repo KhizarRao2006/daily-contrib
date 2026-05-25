@@ -4280,3 +4280,4 @@
 - [2026-05-25T10:19:44.861Z] Security: Patch vulnerability in session handling (#5754)
 - [2026-05-25T10:19:45.586Z] Refactor: Optimize rendering logic (#5756)
 - [2026-05-25T10:19:47.358Z] Test: Increase coverage for edge cases in parser (#5761)
+- [2026-05-25T10:19:49.140Z] Docs: Clarify installation steps in README (#5766)
