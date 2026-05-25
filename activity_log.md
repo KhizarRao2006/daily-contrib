@@ -2622,3 +2622,4 @@
 - [2026-05-25T09:58:16.862Z] Implement: Add validation for incoming payloads (#1678)
 - [2026-05-25T09:58:17.107Z] Modularize: Break down large components into smaller ones (#1679)
 - [2026-05-25T09:58:18.099Z] Fix: Resolve race condition in auth flow (#1683)
+- [2026-05-25T09:58:20.550Z] Docs: Update API documentation for v2 (#1693)
