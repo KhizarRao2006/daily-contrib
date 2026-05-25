@@ -3163,3 +3163,4 @@
 - [2026-05-25T10:04:48.783Z] Fix: Handle null pointer exception in logger (#2984)
 - [2026-05-25T10:04:49.338Z] Refactor: Optimize rendering logic (#2986)
 - [2026-05-25T10:04:49.630Z] Strengthen: Add robust error boundaries (#2987)
+- [2026-05-25T10:04:49.920Z] Docs: Update API documentation for v2 (#2988)
