@@ -3494,3 +3494,4 @@
 - [2026-05-25T10:08:51.265Z] Modernize: Transition to ES2023 features (#3790)
 - [2026-05-25T10:08:51.819Z] Test: Increase coverage for edge cases in parser (#3792)
 - [2026-05-25T10:08:53.256Z] Feat: Implement dark mode support (#3797)
+- [2026-05-25T10:08:53.804Z] Refine: Smooth out CSS transitions (#3799)
