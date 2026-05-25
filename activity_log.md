@@ -5236,3 +5236,4 @@
 - [2026-05-25T10:34:49.192Z] Docs: Clarify installation steps in README (#8092)
 - [2026-05-25T10:34:49.678Z] Docs: Update API documentation for v2 (#8093)
 - [2026-05-25T10:34:50.876Z] Modernize: Transition to ES2023 features (#8096)
+- [2026-05-25T10:34:51.254Z] Test: Increase coverage for edge cases in parser (#8097)
