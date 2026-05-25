@@ -3472,3 +3472,4 @@
 - [2026-05-25T10:08:38.743Z] Docs: Update API documentation for v2 (#3746)
 - [2026-05-25T10:08:39.558Z] Build: Optimize CI/CD pipeline stages (#3749)
 - [2026-05-25T10:08:40.718Z] Secure: Implement advanced hashing for sensitive data (#3753)
+- [2026-05-25T10:08:41.317Z] Chore: Remove deprecated methods and clean up (#3755)
