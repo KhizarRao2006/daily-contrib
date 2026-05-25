@@ -3252,3 +3252,4 @@
 - [2026-05-25T10:06:05.172Z] Fix: Handle null pointer exception in logger (#3228)
 - [2026-05-25T10:06:05.766Z] Docs: Update API documentation for v2 (#3230)
 - [2026-05-25T10:06:06.068Z] Improve: Enhance state management with better scoping (#3231)
+- [2026-05-25T10:06:06.971Z] Docs: Clarify installation steps in README (#3234)
