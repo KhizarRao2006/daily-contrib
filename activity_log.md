@@ -3661,3 +3661,4 @@
 - [2026-05-25T10:10:56.143Z] Streamline: Simplify internal routing logic (#4193)
 - [2026-05-25T10:10:57.005Z] Improve: Enhance state management with better scoping (#4196)
 - [2026-05-25T10:10:57.932Z] Optimize: Minimize memory footprint of data structures (#4199)
+- [2026-05-25T10:11:00.176Z] Docs: Update API documentation for v2 (#4206)
