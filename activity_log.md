@@ -2305,3 +2305,4 @@
 - [2026-05-25T09:54:59.572Z] Modernize: Transition to ES2023 features (#912)
 - [2026-05-25T09:55:00.275Z] Docs: Clarify installation steps in README (#915)
 - [2026-05-25T09:55:00.503Z] Docs: Update API documentation for v2 (#916)
+- [2026-05-25T09:55:01.219Z] Refactor: Extract utility functions for cleaner code (#919)
