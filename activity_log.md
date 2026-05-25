@@ -2986,3 +2986,4 @@
 - [2026-05-25T10:02:35.581Z] Fix: Resolve race condition in auth flow (#2535)
 - [2026-05-25T10:02:35.889Z] Docs: Clarify installation steps in README (#2536)
 - [2026-05-25T10:02:36.212Z] Refactor: Optimize rendering logic (#2537)
+- [2026-05-25T10:02:36.511Z] Refine: Smooth out CSS transitions (#2538)
