@@ -4156,3 +4156,4 @@
 - [2026-05-25T10:18:00.108Z] Refactor: Optimize rendering logic (#5459)
 - [2026-05-25T10:18:00.964Z] Chore: Remove deprecated methods and clean up (#5461)
 - [2026-05-25T10:18:01.845Z] Modernize: Transition to ES2023 features (#5463)
+- [2026-05-25T10:18:05.090Z] Feat: Add support for multi-region clusters (#5470)
