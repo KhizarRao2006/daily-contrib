@@ -3383,3 +3383,4 @@
 - [2026-05-25T10:07:43.933Z] Feat: Add support for multi-region clusters (#3554)
 - [2026-05-25T10:07:45.079Z] Feat: Implement dark mode support (#3558)
 - [2026-05-25T10:07:45.618Z] Streamline: Simplify internal routing logic (#3560)
+- [2026-05-25T10:07:46.470Z] Security: Patch vulnerability in session handling (#3563)
