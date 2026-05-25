@@ -3306,3 +3306,4 @@
 - [2026-05-25T10:06:43.219Z] Feat: Add support for multi-region clusters (#3353)
 - [2026-05-25T10:06:43.746Z] Test: Increase coverage for edge cases in parser (#3355)
 - [2026-05-25T10:06:44.317Z] Docs: Clarify installation steps in README (#3357)
+- [2026-05-25T10:06:45.190Z] Streamline: Simplify internal routing logic (#3360)
