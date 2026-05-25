@@ -3985,3 +3985,4 @@
 - [2026-05-25T10:15:22.267Z] Update: Refresh dependencies for security compliance (#5017)
 - [2026-05-25T10:15:22.882Z] Secure: Implement advanced hashing for sensitive data (#5019)
 - [2026-05-25T10:15:23.534Z] Chore: Remove deprecated methods and clean up (#5021)
+- [2026-05-25T10:15:23.866Z] Docs: Update API documentation for v2 (#5022)
