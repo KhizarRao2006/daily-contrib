@@ -2135,3 +2135,4 @@
 - [2026-05-25T09:53:03.851Z] Docs: Update API documentation for v2 (#486)
 - [2026-05-25T09:53:04.895Z] Refactor: Optimize rendering logic (#489)
 - [2026-05-25T09:53:05.617Z] Docs: Clarify installation steps in README (#491)
+- [2026-05-25T09:53:05.850Z] Chore: Upgrade dependencies to latest stable (#492)
