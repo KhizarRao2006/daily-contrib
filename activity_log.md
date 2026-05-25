@@ -5169,3 +5169,4 @@
 - [2026-05-25T10:33:43.378Z] Docs: Clarify installation steps in README (#7919)
 - [2026-05-25T10:33:43.701Z] Update: Refresh dependencies for security compliance (#7920)
 - [2026-05-25T10:33:44.368Z] Test: Increase coverage for edge cases in parser (#7922)
+- [2026-05-25T10:33:44.666Z] Security: Patch vulnerability in session handling (#7923)
