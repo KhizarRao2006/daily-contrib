@@ -4070,3 +4070,4 @@
 - [2026-05-25T10:16:32.989Z] Chore: Upgrade dependencies to latest stable (#5226)
 - [2026-05-25T10:16:33.331Z] Optimize: Minimize memory footprint of data structures (#5227)
 - [2026-05-25T10:16:33.595Z] Improve: Enhance state management with better scoping (#5228)
+- [2026-05-25T10:16:35.475Z] Docs: Update API documentation for v2 (#5234)
