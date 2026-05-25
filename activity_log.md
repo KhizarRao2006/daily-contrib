@@ -2175,3 +2175,4 @@
 - [2026-05-25T09:53:38.986Z] Refine: Smooth out CSS transitions (#578)
 - [2026-05-25T09:53:39.716Z] Update: Refresh dependencies for security compliance (#581)
 - [2026-05-25T09:53:39.989Z] Improve: Enhance state management with better scoping (#582)
+- [2026-05-25T09:53:40.239Z] Chore: Remove deprecated methods and clean up (#583)
