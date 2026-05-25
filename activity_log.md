@@ -3364,3 +3364,4 @@
 - [2026-05-25T10:07:26.296Z] Optimize: Minimize memory footprint of data structures (#3494)
 - [2026-05-25T10:07:27.170Z] Perf: Improve database query execution time (#3497)
 - [2026-05-25T10:07:27.795Z] Test: Increase coverage for edge cases in parser (#3499)
+- [2026-05-25T10:07:28.153Z] Docs: Update API documentation for v2 (#3500)
