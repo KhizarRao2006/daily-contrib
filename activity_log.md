@@ -3757,3 +3757,4 @@
 - [2026-05-25T10:12:08.244Z] Refine: Smooth out CSS transitions (#4431)
 - [2026-05-25T10:12:08.811Z] Modernize: Transition to ES2023 features (#4433)
 - [2026-05-25T10:12:11.851Z] Docs: Update API documentation for v2 (#4443)
+- [2026-05-25T10:12:12.158Z] Feat: Add support for multi-region clusters (#4444)
