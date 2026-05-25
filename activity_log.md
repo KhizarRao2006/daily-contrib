@@ -2664,3 +2664,4 @@
 - [2026-05-25T09:58:44.281Z] Chore: Remove deprecated methods and clean up (#1786)
 - [2026-05-25T09:58:44.534Z] Feat: Add support for multi-region clusters (#1787)
 - [2026-05-25T09:58:44.780Z] Chore: Upgrade dependencies to latest stable (#1788)
+- [2026-05-25T09:58:45.052Z] Implement: Add validation for incoming payloads (#1789)
