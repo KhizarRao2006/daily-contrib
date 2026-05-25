@@ -4329,3 +4329,4 @@
 - [2026-05-25T10:20:30.228Z] Test: Increase coverage for edge cases in parser (#5885)
 - [2026-05-25T10:20:30.532Z] Feat: Implement dark mode support (#5886)
 - [2026-05-25T10:20:32.260Z] Update: Refresh dependencies for security compliance (#5891)
+- [2026-05-25T10:20:32.919Z] Docs: Update API documentation for v2 (#5893)
