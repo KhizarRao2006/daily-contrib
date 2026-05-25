@@ -2968,3 +2968,4 @@
 - [2026-05-25T10:02:19.247Z] Docs: Update API documentation for v2 (#2485)
 - [2026-05-25T10:02:21.043Z] Modernize: Transition to ES2023 features (#2491)
 - [2026-05-25T10:02:23.012Z] Feat: Implement dark mode support (#2497)
+- [2026-05-25T10:02:23.308Z] Feat: Add support for multi-region clusters (#2498)
