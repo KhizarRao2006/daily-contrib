@@ -2285,3 +2285,4 @@
 - [2026-05-25T09:54:44.396Z] Improve: Enhance state management with better scoping (#850)
 - [2026-05-25T09:54:46.038Z] Fix: Handle null pointer exception in logger (#857)
 - [2026-05-25T09:54:46.506Z] Streamline: Simplify internal routing logic (#859)
+- [2026-05-25T09:54:46.738Z] Feat: Add support for multi-region clusters (#860)
