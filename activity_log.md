@@ -3731,3 +3731,4 @@
 - [2026-05-25T10:11:50.326Z] Optimize: Minimize memory footprint of data structures (#4371)
 - [2026-05-25T10:11:50.901Z] Refactor: Optimize rendering logic (#4373)
 - [2026-05-25T10:11:51.200Z] Update: Refresh dependencies for security compliance (#4374)
+- [2026-05-25T10:11:52.977Z] Docs: Update API documentation for v2 (#4380)
