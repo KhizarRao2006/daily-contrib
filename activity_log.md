@@ -2694,3 +2694,4 @@
 - [2026-05-25T09:59:00.991Z] Modernize: Transition to ES2023 features (#1846)
 - [2026-05-25T09:59:02.011Z] Style: Modernize UI components with better spacing (#1850)
 - [2026-05-25T09:59:02.271Z] Strengthen: Add robust error boundaries (#1851)
+- [2026-05-25T09:59:02.554Z] Docs: Clarify installation steps in README (#1852)
