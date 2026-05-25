@@ -4772,3 +4772,4 @@
 - [2026-05-25T10:27:23.055Z] Docs: Update API documentation for v2 (#6969)
 - [2026-05-25T10:27:23.464Z] Docs: Update API documentation for v2 (#6970)
 - [2026-05-25T10:27:24.156Z] Chore: Upgrade dependencies to latest stable (#6972)
+- [2026-05-25T10:27:24.490Z] Refactor: Extract utility functions for cleaner code (#6973)
