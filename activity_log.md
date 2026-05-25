@@ -4526,3 +4526,4 @@
 - [2026-05-25T10:23:36.859Z] Build: Optimize CI/CD pipeline stages (#6381)
 - [2026-05-25T10:23:39.114Z] Docs: Clarify installation steps in README (#6387)
 - [2026-05-25T10:23:39.914Z] Optimize: Minimize memory footprint of data structures (#6389)
+- [2026-05-25T10:23:41.580Z] Docs: Clarify installation steps in README (#6393)
