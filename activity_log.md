@@ -3311,3 +3311,4 @@
 - [2026-05-25T10:06:46.571Z] Security: Patch vulnerability in session handling (#3365)
 - [2026-05-25T10:06:46.859Z] Refine: Smooth out CSS transitions (#3366)
 - [2026-05-25T10:06:47.988Z] Modernize: Transition to ES2023 features (#3370)
+- [2026-05-25T10:06:48.283Z] Chore: Remove deprecated methods and clean up (#3371)
