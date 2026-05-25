@@ -4820,3 +4820,4 @@
 - [2026-05-25T10:28:03.302Z] Fix: Resolve race condition in auth flow (#7072)
 - [2026-05-25T10:28:03.588Z] Test: Increase coverage for edge cases in parser (#7073)
 - [2026-05-25T10:28:03.885Z] Improve: Enhance state management with better scoping (#7074)
+- [2026-05-25T10:28:07.396Z] Docs: Clarify installation steps in README (#7083)
