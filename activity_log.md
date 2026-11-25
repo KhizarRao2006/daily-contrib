@@ -5455,3 +5455,4 @@
 - [2026-11-25T13:18:10.268Z] Fix: Handle null pointer exception in logger (#49)
 - [2026-11-25T13:18:10.553Z] Docs: Update API documentation for v2 (#50)
 - [2026-11-25T13:18:10.831Z] Feat: Add support for multi-region clusters (#51)
+- [2026-11-25T13:18:11.105Z] Security: Patch vulnerability in session handling (#52)
