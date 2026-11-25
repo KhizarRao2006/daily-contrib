@@ -5470,3 +5470,4 @@
 - [2026-11-25T13:18:21.781Z] Chore: Remove deprecated methods and clean up (#82)
 - [2026-11-25T13:18:22.142Z] Fix: Resolve race condition in auth flow (#83)
 - [2026-11-25T13:18:23.671Z] Fix: Resolve race condition in auth flow (#87)
+- [2026-11-25T13:18:25.924Z] Security: Patch vulnerability in session handling (#91)
