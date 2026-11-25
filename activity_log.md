@@ -5469,3 +5469,4 @@
 - [2026-11-25T13:18:21.032Z] Feat: Add support for multi-region clusters (#80)
 - [2026-11-25T13:18:21.781Z] Chore: Remove deprecated methods and clean up (#82)
 - [2026-11-25T13:18:22.142Z] Fix: Resolve race condition in auth flow (#83)
+- [2026-11-25T13:18:23.671Z] Fix: Resolve race condition in auth flow (#87)
