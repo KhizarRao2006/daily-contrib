@@ -5440,3 +5440,4 @@
 - [2026-11-25T13:17:59.445Z] Modernize: Transition to ES2023 features (#18)
 - [2026-11-25T13:17:59.821Z] Streamline: Simplify internal routing logic (#19)
 - [2026-11-25T13:18:00.191Z] Optimize: Minimize memory footprint of data structures (#20)
+- [2026-11-25T13:18:03.401Z] Docs: Clarify installation steps in README (#29)
